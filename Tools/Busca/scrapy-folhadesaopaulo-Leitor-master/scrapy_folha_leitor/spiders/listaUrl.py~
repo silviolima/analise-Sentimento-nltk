@@ -1,0 +1,9 @@
+from pymongo import Connection
+from scrapy_folha_leitor.bank import connect, database, collect
+
+print 'URL'
+print 'listaUrl.py'
+#db = database()
+#lista = db.collect().find()
+#for i in lista:
+    print i['url']

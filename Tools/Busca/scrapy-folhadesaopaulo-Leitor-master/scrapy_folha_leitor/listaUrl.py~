@@ -1,0 +1,6 @@
+from scrapy_folha_leitor.bank import conect, database,collect
+
+print 'URL'
+lista = database().collect().find()
+for i in lista:
+    print i['url']

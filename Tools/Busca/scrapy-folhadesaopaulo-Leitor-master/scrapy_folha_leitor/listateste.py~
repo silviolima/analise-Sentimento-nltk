@@ -1,0 +1,6 @@
+from home.silvio.Desktop.git.scrapy-folhadesaopaulo-Leitor-master.scrapy_folha_leitor.bank import connect, database, collect
+
+def collect_name():
+    print ' ++++++++++++++++++++++++++'
+    print 'Collection Name: %s '% database().collection_names()
+   

@@ -1,0 +1,55 @@
+# -*- coding: utf-8 -*-
+import sys
+from gerarLista import gera_lista
+
+from nltk.classify.util import apply_features
+import subprocess
+from getFeaturesVector import *
+import sys
+from normalizar_Colecao import *
+from gerar_trainingSet import *
+
+#Frases sobre a copa, classificadas pela percepção de negativo ou positivo
+
+frases= ('Brasil vai ganhar a Copa', 'positivo',
+         'A Copa é um enorme problema','negativo',
+         'O povo só perde com a copa no Brasil','negativo',
+         'Vai gerar lucro pro comercio','positivo',
+         'Vai gerar emprego','positivo',
+         'Durante Copa haverá aumento da violencia', 'negativo',
+         'Superfaturamentos durante obras da Copa', 'negativo',
+         'Politicos levam obras para redutos', 'negativo',
+         'Hoteis aumentarão diarias durante a Copa', 'negativo',
+         'Transito nas cidades sedes irá piorar', 'negativo')
+
+
+
+if __name__ == '__main__':
+    if (len(sys.argv) == 3 and (sys.argv[1] != '') and (sys.argv[2] == 'fatec' or sys.argv[2] == 'dilma' or sys.argv[2] == 'copa' or sys.argv[2] == 'palmeiras')):
+        # Limpar a tela
+        subprocess.call("clear")
+        listaColecao = sys.argv[2]
+        print ("\n\t\tAnálise de Sentimento\n\t\tAssunto: %s "%listaColecao.upper())
+        # Gera a lista de caracteristicas usada no metodo extract_features
+        featureList = gera_lista_features(listaColecao)
+        #print ("  \nCaracteristicas:  %s\n "%(featureList))
+        #print ("  \nCaracteristicas e Sentimento:  %s "%lista_feature_fell)
+        tema = listaColecao
+        msg=sys.argv[1]
+        print("\nMsg: %s "%msg.capitalize())
+        msg2 = normalizar(msg)
+        print("\nNormalizado: %s "%msg2)
+        lista_msg=getFeatureVector(msg2)
+        print ("\nCaracteristicas - %s "%lista_msg)
+        #print ("\nSaida do Extract_features:\n %s "%extract_features(lista_msg))
+
+        training_set = apply_features(extract_features,lista_feature_fell)
+        #print ("\nTraining_set: %s \n"%training_set)
+
+        classifier= nltk.NaiveBayesClassifier.train(training_set)
+
+        print ("\nSentimento: %s \n"%(classifier.classify(extract_features(lista_msg))))
+    else:
+        print ('\nUsage: python testarAnalise.py msg fatec|dilma|copa|palmeiras\n')
+
+

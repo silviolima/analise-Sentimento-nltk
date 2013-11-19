@@ -1,0 +1,38 @@
+
+   Root User: admin
+   Root Password: 55MuqyjNLdEs
+   Database Name: textminer
+
+   
+   Connection URL: mongodb://$OPENSHIFT_MONGODB_DB_HOST:$OPENSHIFT_MONGODB_DB_PORT/
+
+
+   You can manage your new MongoDB by also embedding rockmongo-1.1
+   The rockmongo username and password will be the same as the MongoDB credentials above.
+
+
+=========================================================================================================
+
+	
+Managing your cartridge
+
+Most of the capabilities of OpenShift are exposed through our command line tool, rhc. Whether it's adding cartridges, checking uptime, or pulling log files from the server, you can quickly put a finger on the pulse of your application. Follow these steps to install the client on Linux, Mac OS X, or Windows.
+
+You can get a list of cartridges by running
+
+rhc cartridge list
+
+You can manage the cartridge by running one of these commands
+
+rhc cartridge start -a textminer -c mongodb-2.2
+rhc cartridge stop -a textminer -c mongodb-2.2
+rhc cartridge restart -a textminer -c mongodb-2.2
+rhc cartridge reload -a textminer -c mongodb-2.2
+rhc cartridge status -a textminer -c mongodb-2.2
+
+You can remove the cartridge by running the following command.
+Warning: make sure you've backed up any data you wish to keep before running this command
+
+rhc cartridge remove -a textminer -c mongodb-2.2
+
+

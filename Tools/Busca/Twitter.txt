@@ -1,0 +1,6 @@
+Consumer key	-   GWxtrFDhRwj6jqrXZsWWCQ
+Consumer secret	-   s85MMFdRfJSHpYyRZAl1kzVNkZ4XslkIZHDvO3ujw
+
+
+Access token	    -   1393287416-g1E6YCH9fqbQDdEXaBCeWKufil3A1ZiZeMvMvhe
+Access token secret -	X7ZsdsdtfXIe7DAO6l3vJYHLDa5cKlVjwFbhSuqfMc

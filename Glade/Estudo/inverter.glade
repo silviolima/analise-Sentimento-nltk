@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interface>
+  <!-- interface-requires gtk+ 3.0 -->
+  <object class="GtkAction" id="action1"/>
+  <object class="GtkAboutDialog" id="about_dialog">
+    <property name="width_request">320</property>
+    <property name="height_request">260</property>
+    <property name="can_focus">False</property>
+    <property name="border_width">5</property>
+    <property name="title" translatable="yes">Sobre</property>
+    <property name="resizable">False</property>
+    <property name="window_position">center</property>
+    <property name="type_hint">normal</property>
+    <property name="program_name">Analise de Sentimento</property>
+    <property name="version">0.1</property>
+    <property name="comments">A partir dos termos na frase, calcula a probabilidade de determinado sentimento: positivo ou negativo</property>
+    <property name="website_label" translatable="yes">Python/NLTK/Mongodb</property>
+    <property name="license">Este programa é um software livre.
+</property>
+    <property name="authors">Silvio Cesar De Lima</property>
+    <child internal-child="vbox">
+      <object class="GtkBox" id="dialog-vbox1">
+        <property name="visible">True</property>
+        <property name="can_focus">False</property>
+        <property name="orientation">vertical</property>
+        <property name="spacing">4</property>
+        <child internal-child="action_area">
+          <object class="GtkButtonBox" id="dialog-action_area1">
+            <property name="visible">True</property>
+            <property name="can_focus">False</property>
+            <property name="layout_style">end</property>
+          </object>
+          <packing>
+            <property name="expand">False</property>
+            <property name="fill">True</property>
+            <property name="pack_type">end</property>
+            <property name="position">0</property>
+          </packing>
+        </child>
+      </object>
+    </child>
+  </object>
+  <object class="GtkWindow" id="window1">
+    <property name="width_request">650</property>
+    <property name="height_request">110</property>
+    <property name="can_focus">False</property>
+    <property name="title" translatable="yes">Inverter</property>
+    <property name="resizable">False</property>
+    <property name="window_position">center</property>
+    <property name="icon">inverter.png</property>
+    <signal name="destroy" handler="gtk_main_quit" swapped="no"/>
+    <child>
+      <object class="GtkVBox" id="vbox1">
+        <property name="visible">True</property>
+        <property name="can_focus">False</property>
+        <child>
+          <object class="GtkMenuBar" id="menubar1">
+            <property name="visible">True</property>
+            <property name="can_focus">False</property>
+            <child>
+              <object class="GtkMenuItem" id="Editar">
+                <property name="visible">True</property>
+                <property name="can_focus">False</property>
+                <property name="label" translatable="yes">_Editar</property>
+                <property name="use_underline">True</property>
+                <child type="submenu">
+                  <object class="GtkMenu" id="menu2">
+                    <property name="visible">True</property>
+                    <property name="can_focus">False</property>
+                    <child>
+                      <object class="GtkImageMenuItem" id="copy">
+                        <property name="label">gtk-copy</property>
+                        <property name="visible">True</property>
+                        <property name="can_focus">False</property>
+                        <property name="use_underline">True</property>
+                        <property name="use_stock">True</property>
+                        <signal name="activate" handler="on_copy_activate" swapped="no"/>
+                      </object>
+                    </child>
+                    <child>
+                      <object class="GtkImageMenuItem" id="paste">
+                        <property name="label">gtk-paste</property>
+                        <property name="visible">True</property>
+                        <property name="can_focus">False</property>
+                        <property name="use_underline">True</property>
+                        <property name="use_stock">True</property>
+                        <signal name="activate" handler="on_paste_activate" swapped="no"/>
+                      </object>
+                    </child>
+                    <child>
+                      <object class="GtkImageMenuItem" id="delete">
+                        <property name="label">gtk-delete</property>
+                        <property name="visible">True</property>
+                        <property name="can_focus">False</property>
+                        <property name="use_underline">True</property>
+                        <property name="use_stock">True</property>
+                        <signal name="activate" handler="on_delete_activate" swapped="no"/>
+                      </object>
+                    </child>
+                  </object>
+                </child>
+              </object>
+            </child>
+            <child>
+              <object class="GtkMenuItem" id="Ajuda">
+                <property name="visible">True</property>
+                <property name="can_focus">False</property>
+                <property name="label" translatable="yes">Aj_uda</property>
+                <property name="use_underline">True</property>
+                <child type="submenu">
+                  <object class="GtkMenu" id="menu3">
+                    <property name="visible">True</property>
+                    <property name="can_focus">False</property>
+                    <child>
+                      <object class="GtkImageMenuItem" id="about">
+                        <property name="label">gtk-about</property>
+                        <property name="visible">True</property>
+                        <property name="can_focus">False</property>
+                        <property name="use_underline">True</property>
+                        <property name="use_stock">True</property>
+                        <signal name="activate" handler="on_about_activate" swapped="no"/>
+                      </object>
+                    </child>
+                  </object>
+                </child>
+              </object>
+            </child>
+          </object>
+          <packing>
+            <property name="expand">False</property>
+            <property name="fill">True</property>
+            <property name="position">0</property>
+          </packing>
+        </child>
+        <child>
+          <object class="GtkImage" id="fatec">
+            <property name="visible">True</property>
+            <property name="can_focus">False</property>
+            <property name="xalign">0.49000000953674316</property>
+            <property name="ypad">1</property>
+            <property name="pixbuf">FATECSJC.png</property>
+            <property name="use_fallback">True</property>
+          </object>
+          <packing>
+            <property name="expand">True</property>
+            <property name="fill">True</property>
+            <property name="position">1</property>
+          </packing>
+        </child>
+        <child>
+          <object class="GtkButtonBox" id="buttonbox4">
+            <property name="visible">True</property>
+            <property name="can_focus">False</property>
+            <property name="layout_style">spread</property>
+            <child>
+              <object class="GtkButton" id="Clear">
+                <property name="label">gtk-clear</property>
+                <property name="visible">True</property>
+                <property name="can_focus">False</property>
+                <property name="receives_default">True</property>
+                <property name="use_stock">True</property>
+              </object>
+              <packing>
+                <property name="expand">False</property>
+                <property name="fill">True</property>
+                <property name="position">0</property>
+              </packing>
+            </child>
+            <child>
+              <object class="GtkButton" id="analisar">
+                <property name="label">gtk-apply</property>
+                <property name="visible">True</property>
+                <property name="can_focus">False</property>
+                <property name="receives_default">True</property>
+                <property name="use_stock">True</property>
+                <property name="image_position">bottom</property>
+              </object>
+              <packing>
+                <property name="expand">False</property>
+                <property name="fill">True</property>
+                <property name="position">1</property>
+              </packing>
+            </child>
+            <child>
+              <object class="GtkButton" id="close">
+                <property name="label">gtk-close</property>
+                <property name="use_action_appearance">False</property>
+                <property name="related_action">action1</property>
+                <property name="visible">True</property>
+                <property name="can_focus">False</property>
+                <property name="receives_default">True</property>
+                <property name="use_stock">True</property>
+              </object>
+              <packing>
+                <property name="expand">False</property>
+                <property name="fill">True</property>
+                <property name="position">2</property>
+              </packing>
+            </child>
+          </object>
+          <packing>
+            <property name="expand">True</property>
+            <property name="fill">True</property>
+            <property name="pack_type">end</property>
+            <property name="position">2</property>
+          </packing>
+        </child>
+        <child>
+          <object class="GtkEntry" id="text_entry">
+            <property name="visible">True</property>
+            <property name="can_focus">True</property>
+            <property name="invisible_char">●</property>
+            <property name="text" translatable="yes">Frase</property>
+            <signal name="activate" handler="on_text_entry_activate" swapped="no"/>
+          </object>
+          <packing>
+            <property name="expand">False</property>
+            <property name="fill">True</property>
+            <property name="padding">17</property>
+            <property name="position">5</property>
+          </packing>
+        </child>
+        <child>
+          <object class="GtkImage" id="smile">
+            <property name="visible">True</property>
+            <property name="can_focus">False</property>
+            <property name="icon_name">face-smile</property>
+          </object>
+          <packing>
+            <property name="expand">True</property>
+            <property name="fill">True</property>
+            <property name="position">15</property>
+          </packing>
+        </child>
+        <child>
+          <object class="GtkImage" id="sad">
+            <property name="visible">True</property>
+            <property name="can_focus">False</property>
+            <property name="margin_right">2</property>
+            <property name="margin_top">2</property>
+            <property name="icon_name">face-sad</property>
+          </object>
+          <packing>
+            <property name="expand">True</property>
+            <property name="fill">True</property>
+            <property name="position">21</property>
+          </packing>
+        </child>
+      </object>
+    </child>
+  </object>
+</interface>

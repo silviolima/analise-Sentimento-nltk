@@ -1,0 +1,1184 @@
+Script started on Sáb 02 Nov 2013 11:28:48 BRST
+]0;root@Infoway: /media/silvio/Dados/Fatec/6_semestre/TG/versao3root@Infoway:/media/silvio/Dados/Fatec/6_semestre/TG/versao3# python testarTwitter.py dilma
+[H[2J[94m
+		Análise de Sentimento
+		Assunto: DILMA [0m
+
+	Frase 1: seria legal voces colocarem no proximo pathy que te pariu, um bonequinho da dilma junto com o (@YouTube http://t.co/IT4LI9yHoY)
+ 
+
+	Normalizado: seria legal voces colocarem no proximo pathy que te pariu, um bonequinho da dilma junto com o (at_user url  
+
+	Caracteristicas - ['legal', u'voc', u'coloc', u'prox', 'pathy', u'bonec', u'junt'] 
+[91m
+	legal: Termo Desconhecido[0m
+[92m
+	voc: negativo [0m
+[91m
+	coloc: Termo Desconhecido[0m
+[91m
+	prox: Termo Desconhecido[0m
+[91m
+	pathy: Termo Desconhecido[0m
+[91m
+	bonec: Termo Desconhecido[0m
+[91m
+	junt: Termo Desconhecido[0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase 2: Dilma: Visita oficial aos Estados... http://t.co/0rk53fXLJX #MarcoCivil
+ 
+
+	Normalizado: dilma: visita oficial aos estados... url marcocivil  
+
+	Caracteristicas - [u'visit', u'ofic', 'marcocivil'] 
+[91m
+	visit: Termo Desconhecido[0m
+[91m
+	ofic: Termo Desconhecido[0m
+[91m
+	marcocivil: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase 3: Tanto Dilma como Angela Merkel tiveram suas vidas privadas devassadas pela NSA cuja sede fica em Ohio-EUA...Obama vai ter q se explicar mt!
+ 
+
+	Normalizado: tanto dilma como angela merkel tiveram suas vidas privadas devassadas pela nsa cuja sede fica em ohio-eua...obama vai ter q se explicar mt.  
+
+	Caracteristicas - [u'tant', u'angel', 'merkel', u'vid', u'priv', u'devass', 'nsa', u'cuj', u'sed', u'fic', 'q', u'explic', 'mt'] 
+[91m
+	tant: Termo Desconhecido[0m
+[92m
+	tant: negativo [0m
+[91m
+	angel: Termo Desconhecido[0m
+[91m
+	merkel: Termo Desconhecido[0m
+[91m
+	vid: Termo Desconhecido[0m
+[91m
+	priv: Termo Desconhecido[0m
+[91m
+	devass: Termo Desconhecido[0m
+[91m
+	nsa: Termo Desconhecido[0m
+[91m
+	cuj: Termo Desconhecido[0m
+[91m
+	sed: Termo Desconhecido[0m
+[91m
+	fic: Termo Desconhecido[0m
+[91m
+	q: Termo Desconhecido[0m
+[91m
+	explic: Termo Desconhecido[0m
+[91m
+	mt: Termo Desconhecido[0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase 4: Presidenta convoca reunião ministerial para discutir infraestrutura e área social: A presidenta Dilma Rousseff... http://t.co/iiuGYNZ2IY
+ 
+
+	Normalizado: presidenta convoca reuniao ministerial para discutir infraestrutura e area social: a presidenta dilma rousseff... url  
+
+	Caracteristicas - [u'president', u'convoc', u'reunia', u'minister', u'discut', u'infraestrut'] 
+[94m
+	president: positivo [0m
+[91m
+	convoc: Termo Desconhecido[0m
+[91m
+	reunia: Termo Desconhecido[0m
+[91m
+	minister: Termo Desconhecido[0m
+[91m
+	discut: Termo Desconhecido[0m
+[91m
+	infraestrut: Termo Desconhecido[0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase 5: RT @blogdilmabr: #Dilma é a segunda mulher mais poderosa do mundo, aponta Forbes http://t.co/sfZC4bLoOX @ptnacional
+ 
+
+	Normalizado: rt at_user dilma e a segunda mulher mais poderosa do mundo, aponta forbes url at_user  
+
+	Caracteristicas - [u'poder', u'apont', u'forb'] 
+[94m
+	poder: positivo [0m
+[91m
+	apont: Termo Desconhecido[0m
+[91m
+	forb: Termo Desconhecido[0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase 6: #noticiascopacabana O Pros de Dilma: Fernando MolicaPresidenta saiu feliz de encontro c... http://t.co/j41tG3NpJj http://t.co/ks20ZxmJPR
+ 
+
+	Normalizado: noticiascopacabana o pros de dilma: fernando molicapresidenta saiu feliz de encontro c... url url  
+
+	Caracteristicas - [u'noticiascopacab', u'pro', u'molicapresident', 'saiu', 'feliz', u'encontr', 'c'] 
+[91m
+	noticiascopacab: Termo Desconhecido[0m
+[91m
+	pro: Termo Desconhecido[0m
+[91m
+	molicapresident: Termo Desconhecido[0m
+[92m
+	saiu: negativo [0m
+[91m
+	feliz: Termo Desconhecido[0m
+[91m
+	encontr: Termo Desconhecido[0m
+[91m
+	c: Termo Desconhecido[0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase 7: @itsmat_ qual?? VAMOS PARTICIPAR SOMOS DO GOVERNO VAI DILMA
+ 
+
+	Normalizado: at_user qual?? vamos participar somos do governo vai dilma  
+
+	Caracteristicas - [u'vam', u'particip'] 
+[92m
+	vam: negativo [0m
+[91m
+	particip: Termo Desconhecido[0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase 8: RT @Mari_Rezn: Deficit na balança comercial , inflação que não para de subir , divida interna enorme ...  É Dilma e o PT nos levando de vol…
+ 
+
+	Normalizado: rt at_user deficit na balanca comercial , inflacao que nao para de subir , divida interna enorme ... e dilma e o pt nos levando de vol...  
+
+	Caracteristicas - ['deficit', u'balanc', u'comerc', u'inflaca', 'nao', u'sub', u'div', u'intern', u'enorm', u'lev', 'vol'] 
+[91m
+	deficit: Termo Desconhecido[0m
+[91m
+	balanc: Termo Desconhecido[0m
+[91m
+	comerc: Termo Desconhecido[0m
+[92m
+	inflaca: negativo [0m
+[92m
+	nao: negativo [0m
+[92m
+	nao: negativo [0m
+[92m
+	nao: negativo [0m
+[92m
+	nao: negativo [0m
+[92m
+	nao: negativo [0m
+[92m
+	nao: negativo [0m
+[92m
+	nao: negativo [0m
+[92m
+	nao: negativo [0m
+[92m
+	nao: negativo [0m
+[92m
+	sub: negativo [0m
+[92m
+	div: negativo [0m
+[91m
+	intern: Termo Desconhecido[0m
+[91m
+	enorm: Termo Desconhecido[0m
+[91m
+	lev: Termo Desconhecido[0m
+[91m
+	vol: Termo Desconhecido[0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase 9: @Val_Ce1 @josetomazfilho   E Dilma tem razão.
+ 
+
+	Normalizado: at_user at_user e dilma tem razao.  
+
+	Caracteristicas - [u'raza'] 
+[91m
+	raza: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase 10: Presidente mentiu - Dilma em 2010 dizia q era um crime privatizar o Pré-sal, e acusava Serra de querer isso. Ela fez http://t.co/nVd98To1jo
+ 
+
+	Normalizado: presidente mentiu - dilma em 2010 dizia q era um crime privatizar o pre-sal, e acusava serra de querer isso. ela fez url  
+
+	Caracteristicas - [u'ment', u'diz', 'q', u'crim', u'priva', u'acus', u'quer'] 
+[92m
+	ment: negativo [0m
+[92m
+	ment: negativo [0m
+[92m
+	ment: negativo [0m
+[92m
+	ment: negativo [0m
+[92m
+	ment: negativo [0m
+[92m
+	ment: negativo [0m
+[92m
+	ment: negativo [0m
+[92m
+	ment: negativo [0m
+[91m
+	diz: Termo Desconhecido[0m
+[91m
+	q: Termo Desconhecido[0m
+[91m
+	crim: Termo Desconhecido[0m
+[91m
+	priva: Termo Desconhecido[0m
+[91m
+	acus: Termo Desconhecido[0m
+[92m
+	quer: negativo [0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase 11: Dilma acertou: a oposição precisa estudar http://t.co/TllTLuRS1p via @RevistaEpoca
+ 
+
+	Normalizado: dilma acertou: a oposicao precisa estudar url via at_user  
+
+	Caracteristicas - [u'acert', u'oposica', u'precis', u'estud', 'via'] 
+[91m
+	acert: Termo Desconhecido[0m
+[92m
+	oposica: negativo [0m
+[91m
+	precis: Termo Desconhecido[0m
+[91m
+	estud: Termo Desconhecido[0m
+[91m
+	via: Termo Desconhecido[0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase 12: Após retorno ao Twitter, Dilma supera marca de 2 milhões de seguidores - http://t.co/Dmwk7EVlKO @zig__ #Tecnologia_e_Games
+ 
+
+	Normalizado: apos retorno ao twitter, dilma supera marca de 2 milhoes de seguidores - url at_user tecnologia_e_games  
+
+	Caracteristicas - [u'retorn', u'sup', u'marc', u'segu'] 
+[91m
+	retorn: Termo Desconhecido[0m
+[92m
+	sup: negativo [0m
+[91m
+	marc: Termo Desconhecido[0m
+[91m
+	segu: Termo Desconhecido[0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase 13: RT @RevistaEpoca: Dilma acertou: a oposição precisa estudar | Coluna de Guilherme Fiuza http://t.co/bevYMWqDWg
+ 
+
+	Normalizado: rt at_user dilma acertou: a oposicao precisa estudar | coluna de guilherme fiuza url  
+
+	Caracteristicas - [u'acert', u'oposica', u'precis', u'estud', u'colun', u'guilherm', u'fiuz'] 
+[91m
+	acert: Termo Desconhecido[0m
+[92m
+	oposica: negativo [0m
+[91m
+	precis: Termo Desconhecido[0m
+[91m
+	estud: Termo Desconhecido[0m
+[91m
+	colun: Termo Desconhecido[0m
+[91m
+	guilherm: Termo Desconhecido[0m
+[91m
+	fiuz: Termo Desconhecido[0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase 14: CPI tucana mira governadores ligados a Dilma : Diário do Poder http://t.co/5a3nWDtr0F
+ 
+
+	Normalizado: cpi tucana mira governadores ligados a dilma : diario do poder url  
+
+	Caracteristicas - ['cpi', u'tucan', u'mir', u'govern', u'lig', u'diari', u'pod'] 
+[91m
+	cpi: Termo Desconhecido[0m
+[91m
+	tucan: Termo Desconhecido[0m
+[91m
+	mir: Termo Desconhecido[0m
+[92m
+	govern: negativo [0m
+[91m
+	lig: Termo Desconhecido[0m
+[91m
+	diari: Termo Desconhecido[0m
+[94m
+	pod: positivo [0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase 15: RT @portaltopgyn: Portal TopGyn Capa - O portal para toda Família - Dilma inaugura via expressa na Bahia http://t.co/pibbEA1hv1
+ 
+
+	Normalizado: rt at_user portal topgyn capa - o portal para toda familia - dilma inaugura via expressa na bahia url  
+
+	Caracteristicas - [u'port', 'topgyn', u'cap', u'famil', u'inaug', 'via', u'express', u'bah'] 
+[91m
+	port: Termo Desconhecido[0m
+[91m
+	topgyn: Termo Desconhecido[0m
+[91m
+	cap: Termo Desconhecido[0m
+[91m
+	famil: Termo Desconhecido[0m
+[91m
+	inaug: Termo Desconhecido[0m
+[91m
+	via: Termo Desconhecido[0m
+[91m
+	express: Termo Desconhecido[0m
+[91m
+	bah: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase 16: Depois da campanha fascista que sofreram do PT... Médicos são orientados a pedir votos de pacientes contra Dilma: http://t.co/rBCtoLL7lX
+ 
+
+	Normalizado: depois da campanha fascista que sofreram do pt... medicos sao orientados a pedir votos de pacientes contra dilma: url  
+
+	Caracteristicas - [u'fasc', u'sofr', u'medic', u'orient', u'ped', u'vot', u'paci'] 
+[91m
+	fasc: Termo Desconhecido[0m
+[91m
+	sofr: Termo Desconhecido[0m
+[92m
+	medic: negativo [0m
+[92m
+	medic: negativo [0m
+[91m
+	orient: Termo Desconhecido[0m
+[91m
+	ped: Termo Desconhecido[0m
+[92m
+	vot: negativo [0m
+[92m
+	vot: negativo [0m
+[91m
+	paci: Termo Desconhecido[0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase 17: Ichu Notícias: Em clima de descontração, Dilma inaugura Via Expre... http://t.co/IqLBf32Zcv
+ 
+
+	Normalizado: ichu noticias: em clima de descontracao, dilma inaugura via expre... url  
+
+	Caracteristicas - ['ichu', u'notic', u'clim', u'inaug', 'via', u'expr'] 
+[91m
+	ichu: Termo Desconhecido[0m
+[91m
+	notic: Termo Desconhecido[0m
+[91m
+	clim: Termo Desconhecido[0m
+[91m
+	inaug: Termo Desconhecido[0m
+[91m
+	via: Termo Desconhecido[0m
+[91m
+	expr: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase 18: Dilma convoca reunião para discutir infraestrutura e área social - Política - Correio Braziliense http://t.co/aBSINE0riB via @cbonlinedf
+ 
+
+	Normalizado: dilma convoca reuniao para discutir infraestrutura e area social - politica - correio braziliense url via at_user  
+
+	Caracteristicas - [u'convoc', u'reunia', u'discut', u'infraestrut', u'correi', u'brazili', 'via'] 
+[91m
+	convoc: Termo Desconhecido[0m
+[91m
+	reunia: Termo Desconhecido[0m
+[91m
+	discut: Termo Desconhecido[0m
+[91m
+	infraestrut: Termo Desconhecido[0m
+[91m
+	correi: Termo Desconhecido[0m
+[91m
+	brazili: Termo Desconhecido[0m
+[91m
+	via: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase 19: Lula destinou R$ 1,52 bilhão ao Pronaf, e Dilma abandonou o programa: transferiu só R$ 17,3 milhões.
+ 
+
+	Normalizado: lula destinou r$ 1,52 bilhao ao pronaf, e dilma abandonou o programa: transferiu so r$ 17,3 milhoes.  
+
+	Caracteristicas - [u'destin', u'bilha', u'abandon', u'transfer', 'so'] 
+[91m
+	destin: Termo Desconhecido[0m
+[91m
+	bilha: Termo Desconhecido[0m
+[91m
+	abandon: Termo Desconhecido[0m
+[91m
+	transfer: Termo Desconhecido[0m
+[92m
+	so: negativo [0m
+[92m
+	so: negativo [0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase 20:  http://t.co/CBVM340SgG
+ 
+
+	Normalizado:  url  
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 21: RT @RevistaEpoca: Dilma acertou: a oposição precisa estudar | Coluna de Guilherme Fiuza http://t.co/bevYMWqDWg
+ 
+
+	Normalizado: rt at_user dilma acertou: a oposicao precisa estudar | coluna de guilherme fiuza url  
+
+	Caracteristicas - [u'acert', u'oposica', u'precis', u'estud', u'colun', u'guilherm', u'fiuz'] 
+[91m
+	acert: Termo Desconhecido[0m
+[92m
+	oposica: negativo [0m
+[91m
+	precis: Termo Desconhecido[0m
+[91m
+	estud: Termo Desconhecido[0m
+[91m
+	colun: Termo Desconhecido[0m
+[91m
+	guilherm: Termo Desconhecido[0m
+[91m
+	fiuz: Termo Desconhecido[0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase 22: Governo Dilma do PT é fraco, confuso e mal gerido; comprometendo a credibilidade do nosso País  http://t.co/8knsCwkSb6
+ 
+
+	Normalizado: governo dilma do pt e fraco, confuso e mal gerido; comprometendo a credibilidade do nosso pais url  
+
+	Caracteristicas - [u'confus', 'mal', u'compromet', u'credibil'] 
+[91m
+	confus: Termo Desconhecido[0m
+[91m
+	mal: Termo Desconhecido[0m
+[91m
+	compromet: Termo Desconhecido[0m
+[91m
+	credibil: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase 23: RT @Cris_duh_123: Lula destinou R$ 1,52 bilhão ao Pronaf, e Dilma abandonou o programa: transferiu só R$ 17,3 milhões.
+ 
+
+	Normalizado: rt at_user lula destinou r$ 1,52 bilhao ao pronaf, e dilma abandonou o programa: transferiu so r$ 17,3 milhoes.  
+
+	Caracteristicas - [u'destin', u'bilha', u'abandon', u'transfer', 'so'] 
+[91m
+	destin: Termo Desconhecido[0m
+[91m
+	bilha: Termo Desconhecido[0m
+[91m
+	abandon: Termo Desconhecido[0m
+[91m
+	transfer: Termo Desconhecido[0m
+[92m
+	so: negativo [0m
+[92m
+	so: negativo [0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase 24:  http://t.co/CBVM340…
+ 
+
+	Normalizado:  url  
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 25: Aécio: “Lula precisa parar de brigar com a história” http://t.co/HIwclEBxEp
+ 
+
+	Normalizado: aecio: lula precisa parar de brigar com a historia url  
+
+	Caracteristicas - [u'precis', u'par', u'brig'] 
+[91m
+	precis: Termo Desconhecido[0m
+[91m
+	par: Termo Desconhecido[0m
+[91m
+	brig: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase 26: Com exclusividade, Dilma Bolada fala a Brasileiros. Conheça Jeferson Monteiro, criador da personagem http://t.co/dj9UKSAJgh
+ 
+
+	Normalizado: com exclusividade, dilma bolada fala a brasileiros. conheca jeferson monteiro, criador da personagem url  
+
+	Caracteristicas - [u'bol', u'fal', u'conhec', 'jeferson', u'cri', u'person'] 
+[91m
+	bol: Termo Desconhecido[0m
+[91m
+	fal: Termo Desconhecido[0m
+[91m
+	conhec: Termo Desconhecido[0m
+[91m
+	jeferson: Termo Desconhecido[0m
+[91m
+	cri: Termo Desconhecido[0m
+[91m
+	person: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase 27: RT @FimDaGlobo: #Mobilidade Dilma inaugurou p manhã Nova via expressa em Salvador: 450 milhões em investimentos #Dilma2014 http://t.co/bdVX…
+ 
+
+	Normalizado: rt at_user mobilidade dilma inaugurou p manha nova via expressa em salvador: 450 milhoes em investimentos dilma2014 url  
+
+	Caracteristicas - [u'mobil', u'inaugur', 'p', u'manh', 'via', u'express', u'salv', u'invest', 'dilma2014'] 
+[91m
+	mobil: Termo Desconhecido[0m
+[91m
+	inaugur: Termo Desconhecido[0m
+[91m
+	p: Termo Desconhecido[0m
+[91m
+	manh: Termo Desconhecido[0m
+[91m
+	via: Termo Desconhecido[0m
+[91m
+	express: Termo Desconhecido[0m
+[91m
+	salv: Termo Desconhecido[0m
+[94m
+	invest: positivo [0m
+[91m
+	dilma2014: Termo Desconhecido[0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase 28: RT @e_band: Toninho do Diabo dança o "Funk da Cabrita" no Agora é Tarde e se declara para Dilma Rousseff http://t.co/izA6CNMWHv
+ 
+
+	Normalizado: rt at_user toninho do diabo danca o "funk da cabrita" no agora e tarde e se declara para dilma rousseff url  
+
+	Caracteristicas - [u'ton', u'diab', u'danc', u'tard', u'decl'] 
+[91m
+	ton: Termo Desconhecido[0m
+[91m
+	diab: Termo Desconhecido[0m
+[91m
+	danc: Termo Desconhecido[0m
+[91m
+	tard: Termo Desconhecido[0m
+[91m
+	decl: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase 29: Impecável análise de Guilherme Fiúza da Revista Época: - Dilma acertou...a oposição precisa estudar! http://t.co/F3drsjjfL2
+ 
+
+	Normalizado: impecavel analise de guilherme fiuza da revista epoca: - dilma acertou...a oposicao precisa estudar. url  
+
+	Caracteristicas - [u'impeca', u'analis', u'guilherm', u'fiuz', u'revist', u'epoc', u'acertou', u'oposica', u'precis', u'estud'] 
+[91m
+	impeca: Termo Desconhecido[0m
+[91m
+	analis: Termo Desconhecido[0m
+[91m
+	guilherm: Termo Desconhecido[0m
+[91m
+	fiuz: Termo Desconhecido[0m
+[91m
+	revist: Termo Desconhecido[0m
+[91m
+	epoc: Termo Desconhecido[0m
+[91m
+	acertou: Termo Desconhecido[0m
+[92m
+	oposica: negativo [0m
+[91m
+	precis: Termo Desconhecido[0m
+[91m
+	estud: Termo Desconhecido[0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase 30: Aécio: “Lula precisa parar de brigar com a história” http://t.co/qafX2p47Fk
+ 
+
+	Normalizado: aecio: lula precisa parar de brigar com a historia url  
+
+	Caracteristicas - [u'precis', u'par', u'brig'] 
+[91m
+	precis: Termo Desconhecido[0m
+[91m
+	par: Termo Desconhecido[0m
+[91m
+	brig: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase 31: Rio ou choro? “@Estadao: Dilma dá aval a ‘gatilho’ para reajustar preço da gasolina por até 3x por ano http://t.co/yIi8qFpMvz”
+ 
+
+	Normalizado: rio ou choro? at_user dilma da aval a gatilho para reajustar preco da gasolina por ate 3x por ano url  
+
+	Caracteristicas - [u'chor', 'aval', u'gatilh', u'reajust', u'prec', u'gasolin'] 
+[91m
+	chor: Termo Desconhecido[0m
+[91m
+	aval: Termo Desconhecido[0m
+[91m
+	gatilh: Termo Desconhecido[0m
+[91m
+	reajust: Termo Desconhecido[0m
+[91m
+	prec: Termo Desconhecido[0m
+[91m
+	gasolin: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase 32: @eduardocardon @Robertinhacor espero q a dilma ñ leia esses tweets, sou funcionário dela. mas sou casado, então to fora dessa POCAVERGONHA
+ 
+
+	Normalizado: at_user at_user espero q a dilma n leia esses tweets, sou funcionario dela. mas sou casado, entao to fora dessa pocavergonha  
+
+	Caracteristicas - [u'esper', 'q', u'lei', u'funcionari', u'dess', u'pocavergonh'] 
+[91m
+	esper: Termo Desconhecido[0m
+[91m
+	q: Termo Desconhecido[0m
+[91m
+	lei: Termo Desconhecido[0m
+[91m
+	funcionari: Termo Desconhecido[0m
+[92m
+	dess: negativo [0m
+[91m
+	pocavergonh: Termo Desconhecido[0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase 33: "@NE10Cotidiano: Dilma marca encontro com ministros no sábado e cobrará cumprimento de calendários http://t.co/VXG6NHXXDR" hahaha!!
+ 
+
+	Normalizado: at_user dilma marca encontro com ministros no sabado e cobrara cumprimento de calendarios url hahaha..  
+
+	Caracteristicas - [u'marc', u'encontr', u'ministr', u'cobr', u'cumpr', u'calendari', u'hahah'] 
+[91m
+	marc: Termo Desconhecido[0m
+[91m
+	encontr: Termo Desconhecido[0m
+[92m
+	ministr: negativo [0m
+[91m
+	cobr: Termo Desconhecido[0m
+[94m
+	cumpr: positivo [0m
+[91m
+	calendari: Termo Desconhecido[0m
+[91m
+	hahah: Termo Desconhecido[0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase 34: "@NE10Cotidiano: Dilma marca encontro com ministros no sábado e cobrará cumprimento de calendários http://t.co/VXG6NHXXDR" até parece...
+ 
+
+	Normalizado: at_user dilma marca encontro com ministros no sabado e cobrara cumprimento de calendarios url ate parece...  
+
+	Caracteristicas - [u'marc', u'encontr', u'ministr', u'cobr', u'cumpr', u'calendari', u'parec'] 
+[91m
+	marc: Termo Desconhecido[0m
+[91m
+	encontr: Termo Desconhecido[0m
+[92m
+	ministr: negativo [0m
+[91m
+	cobr: Termo Desconhecido[0m
+[94m
+	cumpr: positivo [0m
+[91m
+	calendari: Termo Desconhecido[0m
+[91m
+	parec: Termo Desconhecido[0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase 35: No Estadão: Contra a vontade de Mantega, Dilma aprova 'gatilho' para a gasolina:  http://t.co/Igq6qZsv6p
+ 
+
+	Normalizado: no estadao: contra a vontade de mantega, dilma aprova 'gatilho' para a gasolina: url  
+
+	Caracteristicas - [u'estada', u'vontad', u'aprov', u'gasolin'] 
+[91m
+	estada: Termo Desconhecido[0m
+[91m
+	vontad: Termo Desconhecido[0m
+[91m
+	aprov: Termo Desconhecido[0m
+[91m
+	gasolin: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase 36: Contra a vontade de Mantega, Dilma aprova 'gatilho' para a gasolina:  http://t.co/zeOnQTXEBs
+ 
+
+	Normalizado: contra a vontade de mantega, dilma aprova 'gatilho' para a gasolina: url  
+
+	Caracteristicas - [u'vontad', u'aprov', u'gasolin'] 
+[91m
+	vontad: Termo Desconhecido[0m
+[91m
+	aprov: Termo Desconhecido[0m
+[91m
+	gasolin: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase 37: RT @agoraetarde: Toninho do Diabo dança o "Funk da Cabrita" no Agora é Tarde e se declara para Dilma Rousseff http://t.co/7YwkGmnmxm
+ 
+
+	Normalizado: rt at_user toninho do diabo danca o "funk da cabrita" no agora e tarde e se declara para dilma rousseff url  
+
+	Caracteristicas - [u'ton', u'diab', u'danc', u'tard', u'decl'] 
+[91m
+	ton: Termo Desconhecido[0m
+[91m
+	diab: Termo Desconhecido[0m
+[91m
+	danc: Termo Desconhecido[0m
+[91m
+	tard: Termo Desconhecido[0m
+[91m
+	decl: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase 38: Blog do Grijó - Contra a vontade de Mantega, Dilma aprova 'gatilho' para a gasolina:  http://t.co/HfnzEc7wcZ
+ 
+
+	Normalizado: blog do grijo - contra a vontade de mantega, dilma aprova 'gatilho' para a gasolina: url  
+
+	Caracteristicas - [u'grij', u'vontad', u'aprov', u'gasolin'] 
+[91m
+	grij: Termo Desconhecido[0m
+[91m
+	vontad: Termo Desconhecido[0m
+[91m
+	aprov: Termo Desconhecido[0m
+[91m
+	gasolin: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase 39: Contra a vontade de Mantega, Dilma aprova 'gatilho' para a gasolina:  http://t.co/9Shdw8fTFv
+ 
+
+	Normalizado: contra a vontade de mantega, dilma aprova 'gatilho' para a gasolina: url  
+
+	Caracteristicas - [u'vontad', u'aprov', u'gasolin'] 
+[91m
+	vontad: Termo Desconhecido[0m
+[91m
+	aprov: Termo Desconhecido[0m
+[91m
+	gasolin: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase 40: Opinião - Contra a vontade de Mantega, Dilma aprova 'gatilho' para a gasolina:  http://t.co/4eB9SjiH0m
+ 
+
+	Normalizado: opiniao - contra a vontade de mantega, dilma aprova 'gatilho' para a gasolina: url  
+
+	Caracteristicas - [u'opinia', u'vontad', u'aprov', u'gasolin'] 
+[91m
+	opinia: Termo Desconhecido[0m
+[91m
+	vontad: Termo Desconhecido[0m
+[91m
+	aprov: Termo Desconhecido[0m
+[91m
+	gasolin: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase 41: Dilma tenta salvar privatização Confins. Ninguém interessado. Quem sabe uma estatal chinesa corrupta!http://t.co/sbjfHKNzOz
+ 
+
+	Normalizado: dilma tenta salvar privatizacao confins. ninguem interessado. quem sabe uma estatal chinesa corrupta.url  
+
+	Caracteristicas - [u'tent', u'salv', u'privatizaca', u'confim', u'ning', u'interess', u'sab', 'estatal', u'chin', 'corruptaurl'] 
+[92m
+	tent: negativo [0m
+[91m
+	salv: Termo Desconhecido[0m
+[91m
+	privatizaca: Termo Desconhecido[0m
+[91m
+	confim: Termo Desconhecido[0m
+[91m
+	ning: Termo Desconhecido[0m
+[91m
+	interess: Termo Desconhecido[0m
+[91m
+	sab: Termo Desconhecido[0m
+[91m
+	estatal: Termo Desconhecido[0m
+[91m
+	chin: Termo Desconhecido[0m
+[91m
+	corruptaurl: Termo Desconhecido[0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase 42: @DeniseSQ @s @Ro_anna Vc fala em Borges. Dilma corrobora a tese dele de "influenciar predecessores". Gov Lula torna-se pior à luz do dela.
+ 
+
+	Normalizado: at_user at_user at_user vc fala em borges. dilma corrobora a tese dele de "influenciar predecessores". gov lula torna-se pior a luz do dela.  
+
+	Caracteristicas - ['vc', u'fal', u'borg', u'corrob', u'tes', 'gov', u'pi', 'luz'] 
+[92m
+	vc: negativo [0m
+[91m
+	fal: Termo Desconhecido[0m
+[91m
+	borg: Termo Desconhecido[0m
+[91m
+	corrob: Termo Desconhecido[0m
+[91m
+	tes: Termo Desconhecido[0m
+[91m
+	gov: Termo Desconhecido[0m
+[91m
+	pi: Termo Desconhecido[0m
+[92m
+	luz: negativo [0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase 43: DILMA TA NA HORA DE CRIAR O "BOLSA ROLÊ" PRA QUEM QUER SAIR COM OS AMIGOS MAS NÃO TEM DINHEIRO!
+ 
+
+	Normalizado: dilma ta na hora de criar o "bolsa role" pra quem quer sair com os amigos mas nao tem dinheiro.  
+
+	Caracteristicas - [u'hor', u'cri', 'pra', 'sair', u'amig', 'nao'] 
+[92m
+	hor: negativo [0m
+[92m
+	hor: negativo [0m
+[92m
+	hor: negativo [0m
+[91m
+	cri: Termo Desconhecido[0m
+[92m
+	pra: negativo [0m
+[91m
+	sair: Termo Desconhecido[0m
+[91m
+	amig: Termo Desconhecido[0m
+[92m
+	nao: negativo [0m
+[92m
+	nao: negativo [0m
+[92m
+	nao: negativo [0m
+[92m
+	nao: negativo [0m
+[92m
+	nao: negativo [0m
+[92m
+	nao: negativo [0m
+[92m
+	nao: negativo [0m
+[92m
+	nao: negativo [0m
+[92m
+	nao: negativo [0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase 44: RT @JornalOGlobo: Dilma: manifestações que ocorrem em SP e Rio são 'fascistas'. http://t.co/xoahGh6HPO
+ 
+
+	Normalizado: rt at_user dilma: manifestacoes que ocorrem em sp e rio sao 'fascistas'. url  
+
+	Caracteristicas - [u'manifestaco', u'ocorr'] 
+[94m
+	manifestaco: positivo [0m
+[91m
+	ocorr: Termo Desconhecido[0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase 45: Uma casa no vermelho”, análise do ITV sobre o rombo nas contas do governo Dilma http://t.co/8KjmZZcVZR
+ 
+
+	Normalizado: uma casa no vermelho, analise do itv sobre o rombo nas contas do governo dilma url  
+
+	Caracteristicas - [u'analis', 'itv', u'romb', u'cont'] 
+[91m
+	analis: Termo Desconhecido[0m
+[91m
+	itv: Termo Desconhecido[0m
+[91m
+	romb: Termo Desconhecido[0m
+[91m
+	cont: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase 46: @dilmabr Dilma, já pensou em inaugurar um feriado chamado "Dia dos Fandoms"
+ 
+
+	Normalizado: at_user dilma, ja pensou em inaugurar um feriado chamado "dia dos fandoms"  
+
+	Caracteristicas - [u'pens', u'inaugur', u'feri', u'cham'] 
+[92m
+	pens: negativo [0m
+[91m
+	inaugur: Termo Desconhecido[0m
+[91m
+	feri: Termo Desconhecido[0m
+[91m
+	cham: Termo Desconhecido[0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase 47: Um fiasco a imitação de Dilma Bolada que fizeram para Aécio Neves: Aécio Boladasso. Nunca vi tanta semgracisse junta num só lugar.
+ 
+
+	Normalizado: um fiasco a imitacao de dilma bolada que fizeram para aecio neves: aecio boladasso. nunca vi tanta semgracisse junta num so lugar.  
+
+	Caracteristicas - [u'fiasc', u'imitaca', u'bol', u'fiz', u'nev', u'boladass', u'nunc', 'vi', u'tant', u'semgrac', u'junt', 'so'] 
+[92m
+	fiasc: negativo [0m
+[92m
+	fiasc: negativo [0m
+[91m
+	imitaca: Termo Desconhecido[0m
+[91m
+	bol: Termo Desconhecido[0m
+[91m
+	fiz: Termo Desconhecido[0m
+[91m
+	nev: Termo Desconhecido[0m
+[91m
+	boladass: Termo Desconhecido[0m
+[92m
+	nunc: negativo [0m
+[92m
+	nunc: negativo [0m
+[92m
+	nunc: negativo [0m
+[92m
+	vi: negativo [0m
+[91m
+	tant: Termo Desconhecido[0m
+[92m
+	tant: negativo [0m
+[91m
+	semgrac: Termo Desconhecido[0m
+[91m
+	junt: Termo Desconhecido[0m
+[92m
+	so: negativo [0m
+[92m
+	so: negativo [0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase 48: Atah vai ser assim, então eu amo a Dilma
+ 
+
+	Normalizado: atah vai ser assim, entao eu amo a dilma  
+
+	Caracteristicas - ['amo'] 
+[91m
+	amo: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase 49: Dilma considera "fascista" vandalismo em manifestações http://t.co/c06FixkKrQ #News
+ 
+
+	Normalizado: dilma considera "fascista" vandalismo em manifestacoes url news  
+
+	Caracteristicas - [u'consid', u'vand', u'manifestaco', u'new'] 
+[91m
+	consid: Termo Desconhecido[0m
+[91m
+	vand: Termo Desconhecido[0m
+[94m
+	manifestaco: positivo [0m
+[91m
+	new: Termo Desconhecido[0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase 50: Dilma considera "fascista" vandalismo em manifestações: A Presidente brasileira, Dilma Rousseff, classificou n... http://t.co/07Fm6CZiTm
+ 
+
+	Normalizado: dilma considera "fascista" vandalismo em manifestacoes: a presidente brasileira, dilma rousseff, classificou n... url  
+
+	Caracteristicas - [u'consid', u'vand', u'manifestaco', u'classific'] 
+[91m
+	consid: Termo Desconhecido[0m
+[91m
+	vand: Termo Desconhecido[0m
+[94m
+	manifestaco: positivo [0m
+[91m
+	classific: Termo Desconhecido[0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase 51: RT @RevistaEpoca: Dilma acertou: a oposição precisa estudar | Coluna de Guilherme Fiuza http://t.co/bevYMWqDWg
+ 
+
+	Normalizado: rt at_user dilma acertou: a oposicao precisa estudar | coluna de guilherme fiuza url  
+
+	Caracteristicas - [u'acert', u'oposica', u'precis', u'estud', u'colun', u'guilherm', u'fiuz'] 
+[91m
+	acert: Termo Desconhecido[0m
+[92m
+	oposica: negativo [0m
+[91m
+	precis: Termo Desconhecido[0m
+[91m
+	estud: Termo Desconhecido[0m
+[91m
+	colun: Termo Desconhecido[0m
+[91m
+	guilherm: Termo Desconhecido[0m
+[91m
+	fiuz: Termo Desconhecido[0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase 52: RT @Estadao: Dilma dá aval a ‘gatilho’ para reajustar preço da gasolina por até 3x por ano http://t.co/o3lJ8B0dEM
+ 
+
+	Normalizado: rt at_user dilma da aval a gatilho para reajustar preco da gasolina por ate 3x por ano url  
+
+	Caracteristicas - ['aval', u'gatilh', u'reajust', u'prec', u'gasolin'] 
+[91m
+	aval: Termo Desconhecido[0m
+[91m
+	gatilh: Termo Desconhecido[0m
+[91m
+	reajust: Termo Desconhecido[0m
+[91m
+	prec: Termo Desconhecido[0m
+[91m
+	gasolin: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+]0;root@Infoway: /media/silvio/Dados/Fatec/6_semestre/TG/versao3root@Infoway:/media/silvio/Dados/Fatec/6_semestre/TG/versao3# exit
+
+Script done on Sáb 02 Nov 2013 11:29:00 BRST
