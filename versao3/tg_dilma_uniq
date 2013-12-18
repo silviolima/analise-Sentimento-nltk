@@ -1,0 +1,3214 @@
+Script started on Sáb 16 Nov 2013 17:17:53 BRST
+]0;root@Infoway: /media/silvio/Dados/Fatec/6_semestre/TG/versao3root@Infoway:/media/silvio/Dados/Fatec/6_semestre/TG/versao3# python testarTwitter.py dilma
+[H[2J[94m
+		Análise de Sentimento
+		Assunto: DILMA [0m
+
+	Frase: A dilma quebrou tanto o país que até os jogadores de futebol tão fazendo greve Gauahauahauha #brasil
+ 
+
+	Normalizado: a dilma quebrou tanto o pais que ate os jogadores de futebol tao fazendo greve gauahauahauha brasil  
+
+	Caracteristicas - [u'quebr', u'tant', u'jog', 'futebol', u'faz', u'grev', u'gauahauahauh'] 
+[91m
+	quebr: Termo Desconhecido[0m
+[91m
+	tant: Termo Desconhecido[0m
+[91m
+	jog: Termo Desconhecido[0m
+[91m
+	futebol: Termo Desconhecido[0m
+[91m
+	faz: Termo Desconhecido[0m
+[91m
+	grev: Termo Desconhecido[0m
+[91m
+	gauahauahauh: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase: @antunesafonso putz pode cre cara, que nem a tua pra dilma
+ 
+
+	Normalizado: at_user putz pode cre cara, que nem a tua pra dilma  
+
+	Caracteristicas - ['putz', 'cre', 'pra'] 
+[91m
+	putz: Termo Desconhecido[0m
+[91m
+	cre: Termo Desconhecido[0m
+[94m
+	pra: positivo [0m
+
+	Sentimento Provavel: positivo 
+
+
+	Frase: A prisão de Dirceu e Genoíno vai tomar 45' do Jornal Nacional, e virar um Globo Repórter. Em plena campanha de 2014, não ajudaria a Dilma.
+ 
+
+	Normalizado: a prisao de dirceu e genoino vai tomar 45' do jornal nacional, e virar um globo reporter. em plena campanha de 2014, nao ajudaria a dilma.  
+
+	Caracteristicas - [u'prisa', u'dirc', u'genoin', u'tom', u'jorn', u'vir', u'glob', u'report', u'plen', 'nao', u'ajud'] 
+[91m
+	prisa: Termo Desconhecido[0m
+[91m
+	dirc: Termo Desconhecido[0m
+[91m
+	genoin: Termo Desconhecido[0m
+[91m
+	tom: Termo Desconhecido[0m
+[91m
+	jorn: Termo Desconhecido[0m
+[94m
+	vir: positivo [0m
+[91m
+	glob: Termo Desconhecido[0m
+[91m
+	report: Termo Desconhecido[0m
+[91m
+	plen: Termo Desconhecido[0m
+[92m
+	nao: negativo [0m
+[91m
+	ajud: Termo Desconhecido[0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase: Aprovação de Eduardo Campos supera a de Dilma no Recife http://t.co/8lFfOArfB3 via @blogmarioflavio
+ 
+
+	Normalizado: aprovacao de eduardo campos supera a de dilma no recife url via at_user  
+
+	Caracteristicas - [u'aprovaca', u'eduard', u'camp', u'sup', u'recif'] 
+[91m
+	aprovaca: Termo Desconhecido[0m
+[91m
+	eduard: Termo Desconhecido[0m
+[91m
+	camp: Termo Desconhecido[0m
+[91m
+	sup: Termo Desconhecido[0m
+[91m
+	recif: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase: AvrilWeNeedM&amp;G mas quando veem os preços só faltam ir no planalto e reclamar pra Dilma
+ 
+
+	Normalizado: avrilweneedm&amp;g mas quando veem os precos so faltam ir no planalto e reclamar pra dilma  
+
+	Caracteristicas - [u've', u'prec', 'so', u'falt', 'ir', u'planalt', u'reclam', 'pra'] 
+[91m
+	ve: Termo Desconhecido[0m
+[91m
+	prec: Termo Desconhecido[0m
+[94m
+	so: positivo [0m
+[91m
+	falt: Termo Desconhecido[0m
+[91m
+	ir: Termo Desconhecido[0m
+[91m
+	planalt: Termo Desconhecido[0m
+[91m
+	reclam: Termo Desconhecido[0m
+[94m
+	pra: positivo [0m
+
+	Sentimento Provavel: positivo 
+
+
+	Frase: Biafra is our Right and we must have it @EU_Commission @dilmabr Dilma @TonyAbbottMHR @marianorajoy #Biafra #indigenouspeopleofBiafra RT
+ 
+
+	Normalizado: biafra is our right and we must have it at_user at_user dilma at_user at_user biafra indigenouspeopleofbiafra rt  
+
+	Caracteristicas - [u'biafr', 'is', 'our', 'right', 'and', 'we', 'must', u'hav', 'it', u'indigenouspeopleofbiafr'] 
+[91m
+	biafr: Termo Desconhecido[0m
+[91m
+	is: Termo Desconhecido[0m
+[91m
+	our: Termo Desconhecido[0m
+[91m
+	right: Termo Desconhecido[0m
+[91m
+	and: Termo Desconhecido[0m
+[91m
+	we: Termo Desconhecido[0m
+[91m
+	must: Termo Desconhecido[0m
+[91m
+	hav: Termo Desconhecido[0m
+[91m
+	it: Termo Desconhecido[0m
+[91m
+	indigenouspeopleofbiafr: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase: Blerghs ~&gt; RT @obsrvatorio: Só pesquisa traz boas notícias para governo Dilma http://t.co/pX6ZIAUcp9
+ 
+
+	Normalizado: blerghs ~&gt; rt at_user so pesquisa traz boas noticias para governo dilma url  
+
+	Caracteristicas - [u'blergh', 'so', 'traz', u'boa', u'notic'] 
+[91m
+	blergh: Termo Desconhecido[0m
+[94m
+	so: positivo [0m
+[91m
+	traz: Termo Desconhecido[0m
+[91m
+	boa: Termo Desconhecido[0m
+[91m
+	notic: Termo Desconhecido[0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase: Bom demais! Vampiro Serra agora está apoiando Dilma…Por Zé Dirceu: http://t.co/ybiDVD6TCd Blog A Justiceira
+ 
+
+	Normalizado: bom demais. vampiro serra agora esta apoiando dilma...por ze dirceu: url blog a justiceira  
+
+	Caracteristicas - [u'demal', u'vampir', u'apoi', u'dilmap', 'ze', u'dirc', u'justic'] 
+[91m
+	demal: Termo Desconhecido[0m
+[91m
+	vampir: Termo Desconhecido[0m
+[94m
+	apoi: positivo [0m
+[91m
+	dilmap: Termo Desconhecido[0m
+[91m
+	ze: Termo Desconhecido[0m
+[91m
+	dirc: Termo Desconhecido[0m
+[91m
+	justic: Termo Desconhecido[0m
+
+	Sentimento Provavel: positivo 
+
+
+	Frase: Bom, o importante é que ano que vem é Dilma-lá! 
+ 
+
+	Normalizado: bom, o importante e que ano que vem e dilma-la.  
+
+	Caracteristicas - [u'import'] 
+[91m
+	import: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase: "Cinismo e mentira viraram métodos de governo ou de defesa do governo."(Serge Goulart) http://t.co/hGeCM7xbZl via @SergeGoulart
+ 
+
+	Normalizado: cinismo e mentira viraram metodos de governo ou de defesa do governo."(serge goulart) url via at_user  
+
+	Caracteristicas - [u'cinism', u'ment', u'vir', u'metod', u'def\xeas'] 
+[91m
+	cinism: Termo Desconhecido[0m
+[92m
+	ment: negativo [0m
+[94m
+	vir: positivo [0m
+[91m
+	metod: Termo Desconhecido[0m
+[91m
+	defês: Termo Desconhecido[0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase: como o PT tem coragem de fazer isto com o povo??? http://t.co/zvjXTxuuJQ
+ 
+
+	Normalizado: como o pt tem coragem de fazer isto com o povo??? url  
+
+	Caracteristicas - [u'corag'] 
+[94m
+	corag: positivo [0m
+
+	Sentimento Provavel: positivo 
+
+
+	Frase: Concluído PED, PT prioriza reeleição de Dilma e programa para disputar Governo do Estado em 2014 http://t.co/1REC8iYjIc via @TonyShowOficial
+ 
+
+	Normalizado: concluido ped, pt prioriza reeleicao de dilma e programa para disputar governo do estado em 2014 url via at_user  
+
+	Caracteristicas - [u'conclu', u'prioriz', u'reeleica', u'disput'] 
+[91m
+	conclu: Termo Desconhecido[0m
+[91m
+	prioriz: Termo Desconhecido[0m
+[91m
+	reeleica: Termo Desconhecido[0m
+[91m
+	disput: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase: @diImabr rsrsrs dilma...q isso?? rsrsrs copa do brasil hj não.rsrs
+ 
+
+	Normalizado: at_user rsrsrs dilma...q isso?? rsrsrs copa do brasil hj nao.rsrs  
+
+	Caracteristicas - [u'rsrsr', 'dilmaq', 'hj', u'naorsr'] 
+[91m
+	rsrsr: Termo Desconhecido[0m
+[91m
+	dilmaq: Termo Desconhecido[0m
+[91m
+	hj: Termo Desconhecido[0m
+[91m
+	naorsr: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase: #Dilma2014 &gt; Campos supera Dilma nas intenções de voto, mas só no Recife - CdB | Jornal Correio do Brasil http://t.co/3ZajcJWKNo
+ 
+
+	Normalizado: dilma2014 &gt; campos supera dilma nas intencoes de voto, mas so no recife - cdb | jornal correio do brasil url  
+
+	Caracteristicas - ['dilma2014', u'camp', u'sup', u'intenco', 'so', u'recif', 'cdb', u'jorn', u'correi'] 
+[91m
+	dilma2014: Termo Desconhecido[0m
+[91m
+	camp: Termo Desconhecido[0m
+[91m
+	sup: Termo Desconhecido[0m
+[91m
+	intenco: Termo Desconhecido[0m
+[94m
+	so: positivo [0m
+[91m
+	recif: Termo Desconhecido[0m
+[91m
+	cdb: Termo Desconhecido[0m
+[91m
+	jorn: Termo Desconhecido[0m
+[91m
+	correi: Termo Desconhecido[0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase: Dilma bem que podia criar o bolsa ingresso para favorecer a nação.
+ 
+
+	Normalizado: dilma bem que podia criar o bolsa ingresso para favorecer a nacao.  
+
+	Caracteristicas - [u'pod', u'cri', u'bols', u'ingress', u'favorec', u'naca'] 
+[94m
+	pod: positivo [0m
+[91m
+	cri: Termo Desconhecido[0m
+[91m
+	bols: Termo Desconhecido[0m
+[91m
+	ingress: Termo Desconhecido[0m
+[91m
+	favorec: Termo Desconhecido[0m
+[91m
+	naca: Termo Desconhecido[0m
+
+	Sentimento Provavel: positivo 
+
+
+	Frase: “@dilmabr foi enganada por FBC sobre Canal do Sertão” afirma deputada. http://t.co/EsUJX8P8Md
+ 
+
+	Normalizado: at_user foi enganada por fbc sobre canal do sertao afirma deputada. url  
+
+	Caracteristicas - [u'engan', 'fbc', 'canal', u'serta', u'deput'] 
+[92m
+	engan: negativo [0m
+[91m
+	fbc: Termo Desconhecido[0m
+[91m
+	canal: Termo Desconhecido[0m
+[91m
+	serta: Termo Desconhecido[0m
+[91m
+	deput: Termo Desconhecido[0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase: @dilmabr Só pesquisa traz boas notícias para governo Dilma http://t.co/lfuil4s7M3
+ 
+
+	Normalizado: at_user so pesquisa traz boas noticias para governo dilma url  
+
+	Caracteristicas - ['so', 'traz', u'boa', u'notic'] 
+[94m
+	so: positivo [0m
+[91m
+	traz: Termo Desconhecido[0m
+[91m
+	boa: Termo Desconhecido[0m
+[91m
+	notic: Termo Desconhecido[0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase: @dilmabr Viu Dilma... me falaram que a senhora não quer contratar Agentes comunitários de saúde, e o salário deles é R$950 só ? Que FEIO !!
+ 
+
+	Normalizado: at_user viu dilma... me falaram que a senhora nao quer contratar agentes comunitarios de saude, e o salario deles e r$950 so ? que feio ..  
+
+	Caracteristicas - ['viu', u'fal', u'senh', 'nao', u'contrat', u'agent', u'comunitari', u'salari', 'so', u'fei'] 
+[91m
+	viu: Termo Desconhecido[0m
+[91m
+	fal: Termo Desconhecido[0m
+[91m
+	senh: Termo Desconhecido[0m
+[92m
+	nao: negativo [0m
+[91m
+	contrat: Termo Desconhecido[0m
+[91m
+	agent: Termo Desconhecido[0m
+[91m
+	comunitari: Termo Desconhecido[0m
+[91m
+	salari: Termo Desconhecido[0m
+[94m
+	so: positivo [0m
+[91m
+	fei: Termo Desconhecido[0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase: Dilma convoca empresários peruanos a investir em projetos de integração http://t.co/nFRED1dPhR
+ 
+
+	Normalizado: dilma convoca empresarios peruanos a investir em projetos de integracao url  
+
+	Caracteristicas - [u'convoc', u'empresari', u'peru', u'invest', u'projet', u'integraca'] 
+[91m
+	convoc: Termo Desconhecido[0m
+[91m
+	empresari: Termo Desconhecido[0m
+[91m
+	peru: Termo Desconhecido[0m
+[94m
+	invest: positivo [0m
+[91m
+	projet: Termo Desconhecido[0m
+[91m
+	integraca: Termo Desconhecido[0m
+
+	Sentimento Provavel: positivo 
+
+
+	Frase: Dilma convocará para a próxima terça-feira(19)uma reunião para debater o compromisso pela não aprovação de projetos que resultem em despesas
+ 
+
+	Normalizado: dilma convocara para a proxima terca-feira(19)uma reuniao para debater o compromisso pela nao aprovacao de projetos que resultem em despesas  
+
+	Caracteristicas - [u'convoc', u'prox', u'reunia', u'debat', u'compromiss', 'nao', u'aprovaca', u'projet', u'result', u'desp'] 
+[91m
+	convoc: Termo Desconhecido[0m
+[91m
+	prox: Termo Desconhecido[0m
+[91m
+	reunia: Termo Desconhecido[0m
+[91m
+	debat: Termo Desconhecido[0m
+[91m
+	compromiss: Termo Desconhecido[0m
+[92m
+	nao: negativo [0m
+[91m
+	aprovaca: Termo Desconhecido[0m
+[91m
+	projet: Termo Desconhecido[0m
+[91m
+	result: Termo Desconhecido[0m
+[91m
+	desp: Termo Desconhecido[0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase: Dilma eu odeio você seu cafetão do kpt
+ 
+
+	Normalizado: dilma eu odeio voce seu cafetao do kpt  
+
+	Caracteristicas - [u'odei', u'cafeta', 'kpt'] 
+[91m
+	odei: Termo Desconhecido[0m
+[91m
+	cafeta: Termo Desconhecido[0m
+[91m
+	kpt: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase: dilma fez um discurso em favor dos mensaleiros...
+ 
+
+	Normalizado: dilma fez um discurso em favor dos mensaleiros...  
+
+	Caracteristicas - [u'discurs', 'favor', u'mensal'] 
+[91m
+	discurs: Termo Desconhecido[0m
+[91m
+	favor: Termo Desconhecido[0m
+[91m
+	mensal: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase: “Dilma foi enganada por Fernando Bezerra Coelho sobre Canal do Sertão” afirma deputada. http://t.co/EsUJX8P8Md
+ 
+
+	Normalizado: dilma foi enganada por fernando bezerra coelho sobre canal do sertao afirma deputada. url  
+
+	Caracteristicas - [u'engan', u'bezerr', u'coelh', 'canal', u'serta', u'deput'] 
+[92m
+	engan: negativo [0m
+[91m
+	bezerr: Termo Desconhecido[0m
+[91m
+	coelh: Termo Desconhecido[0m
+[91m
+	canal: Termo Desconhecido[0m
+[91m
+	serta: Termo Desconhecido[0m
+[91m
+	deput: Termo Desconhecido[0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase: Dilma já tem bode expiatório para casos de atraso de obra: o Tribunal de Contas http://t.co/vbuBk9NWVt via @VEJA
+ 
+
+	Normalizado: dilma ja tem bode expiatorio para casos de atraso de obra: o tribunal de contas url via at_user  
+
+	Caracteristicas - [u'bod', u'expiatori', u'cas', u'atras', u'obr', u'tribun', u'cont'] 
+[91m
+	bod: Termo Desconhecido[0m
+[91m
+	expiatori: Termo Desconhecido[0m
+[91m
+	cas: Termo Desconhecido[0m
+[91m
+	atras: Termo Desconhecido[0m
+[92m
+	obr: negativo [0m
+[91m
+	tribun: Termo Desconhecido[0m
+[91m
+	cont: Termo Desconhecido[0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase: Dilma joga damas; Lula, xadrez - LUIZ CARLOS AZEDO http://t.co/DZtsE9J1gD
+ 
+
+	Normalizado: dilma joga damas; lula, xadrez - luiz carlos azedo url  
+
+	Caracteristicas - [u'jog', u'xadr', 'luiz', u'azed'] 
+[91m
+	jog: Termo Desconhecido[0m
+[91m
+	xadr: Termo Desconhecido[0m
+[91m
+	luiz: Termo Desconhecido[0m
+[91m
+	azed: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase: Dilma kirida, tá na hora de criar o "bolsa rolé" pra quem quer sair com os amigos mais não tem dinheiro
+ 
+
+	Normalizado: dilma kirida, ta na hora de criar o "bolsa role" pra quem quer sair com os amigos mais nao tem dinheiro  
+
+	Caracteristicas - [u'hor', u'cri', 'pra', 'sair', u'amig', 'nao'] 
+[92m
+	hor: negativo [0m
+[91m
+	cri: Termo Desconhecido[0m
+[94m
+	pra: positivo [0m
+[91m
+	sair: Termo Desconhecido[0m
+[91m
+	amig: Termo Desconhecido[0m
+[92m
+	nao: negativo [0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase: Dilma nega crise, mas pede para "puxarem freio" nos gastos http://t.co/gL2YcxIcZQ
+ 
+
+	Normalizado: dilma nega crise, mas pede para "puxarem freio" nos gastos url  
+
+	Caracteristicas - [u'neg', u'ped', u'gast'] 
+[91m
+	neg: Termo Desconhecido[0m
+[92m
+	ped: negativo [0m
+[92m
+	gast: negativo [0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase: DILMA Ñ OFERECE MAIS RISCO AO BRASIL, POIS NÃO DEVERA MAIS SER REELEITA. O PROBLEMA É A PERDA DE PATRIMONIO DA PETROBRAS. IRRECUPERAVEL
+ 
+
+	Normalizado: dilma n oferece mais risco ao brasil, pois nao devera mais ser reeleita. o problema e a perda de patrimonio da petrobras. irrecuperavel  
+
+	Caracteristicas - [u'oferec', u'risc', u'poi', 'nao', u'dev', u'reeleit', u'perd', u'patrimoni', u'petrobr', u'irrecupera'] 
+[91m
+	oferec: Termo Desconhecido[0m
+[91m
+	risc: Termo Desconhecido[0m
+[91m
+	poi: Termo Desconhecido[0m
+[92m
+	nao: negativo [0m
+[92m
+	dev: negativo [0m
+[94m
+	reeleit: positivo [0m
+[91m
+	perd: Termo Desconhecido[0m
+[91m
+	patrimoni: Termo Desconhecido[0m
+[91m
+	petrobr: Termo Desconhecido[0m
+[91m
+	irrecupera: Termo Desconhecido[0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase: dilma, o povo sofre de indignidade...
+ 
+
+	Normalizado: dilma, o povo sofre de indignidade...  
+
+	Caracteristicas - [u'sofr', u'indign'] 
+[92m
+	sofr: negativo [0m
+[91m
+	indign: Termo Desconhecido[0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase: DILMA QUER UM PACTO COM OS ALIADOS NA CÂMARA FEDERAL PARA NÃO VOTAREM O PISO SALARIAL NACIONAL DOS ACS E ACE.
+ 
+
+	Normalizado: dilma quer um pacto com os aliados na camara federal para nao votarem o piso salarial nacional dos acs e ace.  
+
+	Caracteristicas - [u'pact', u'ali', 'nao', u'vot', u'pis', u'salar', u'ac', 'ace'] 
+[91m
+	pact: Termo Desconhecido[0m
+[91m
+	ali: Termo Desconhecido[0m
+[92m
+	nao: negativo [0m
+[94m
+	vot: positivo [0m
+[91m
+	pis: Termo Desconhecido[0m
+[92m
+	salar: negativo [0m
+[91m
+	ac: Termo Desconhecido[0m
+[91m
+	ace: Termo Desconhecido[0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase: #dilma #senadores #deputados #sociedade #flatulentos #diarreia #eu #tu #ele #nós #vós #eles http://t.co/h8n41n1BlN
+ 
+
+	Normalizado: dilma senadores deputados sociedade flatulentos diarreia eu tu ele nos vos eles url  
+
+	Caracteristicas - [u'sen', u'deput', u'flatulent', u'diarre'] 
+[91m
+	sen: Termo Desconhecido[0m
+[91m
+	deput: Termo Desconhecido[0m
+[91m
+	flatulent: Termo Desconhecido[0m
+[91m
+	diarre: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase: Dilma terá de solucionar conflitos indígenas, diz Lula:  http://t.co/Mla0YYtKoK
+ 
+
+	Normalizado: dilma tera de solucionar conflitos indigenas, diz lula: url  
+
+	Caracteristicas - [u'ter', u'soluc', u'conflit'] 
+[91m
+	ter: Termo Desconhecido[0m
+[91m
+	soluc: Termo Desconhecido[0m
+[91m
+	conflit: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase: Dilma terá de solucionar conflitos indígenas, diz Lula http://t.co/qrr5Zg3M31
+ 
+
+	Normalizado: dilma tera de solucionar conflitos indigenas, diz lula url  
+
+	Caracteristicas - [u'ter', u'soluc', u'conflit'] 
+[91m
+	ter: Termo Desconhecido[0m
+[91m
+	soluc: Termo Desconhecido[0m
+[91m
+	conflit: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase: DILMA teve o menor crescimento do PIB da historia, só perdendo p/ as presidências Floriano Peixoto (meio a 1 longa guerra civil) e Collor
+ 
+
+	Normalizado: dilma teve o menor crescimento do pib da historia, so perdendo p/ as presidencias floriano peixoto (meio a 1 longa guerra civil) e collor  
+
+	Caracteristicas - [u'men', u'cresc', 'pib', 'so', u'perd', u'presidenc', u'flori', u'peixot', u'long', u'guerr', u'coll'] 
+[91m
+	men: Termo Desconhecido[0m
+[94m
+	cresc: positivo [0m
+[91m
+	pib: Termo Desconhecido[0m
+[94m
+	so: positivo [0m
+[91m
+	perd: Termo Desconhecido[0m
+[94m
+	presidenc: positivo [0m
+[91m
+	flori: Termo Desconhecido[0m
+[91m
+	peixot: Termo Desconhecido[0m
+[91m
+	long: Termo Desconhecido[0m
+[91m
+	guerr: Termo Desconhecido[0m
+[91m
+	coll: Termo Desconhecido[0m
+
+	Sentimento Provavel: positivo 
+
+
+	Frase: Dilma tirando as férias é isso mesmo? VAMOS PRA RUA PROTESTAR
+ 
+
+	Normalizado: dilma tirando as ferias e isso mesmo? vamos pra rua protestar  
+
+	Caracteristicas - [u'tir', u'fer', u'vam', 'pra', 'rua', u'protest'] 
+[91m
+	tir: Termo Desconhecido[0m
+[91m
+	fer: Termo Desconhecido[0m
+[92m
+	vam: negativo [0m
+[94m
+	pra: positivo [0m
+[91m
+	rua: Termo Desconhecido[0m
+[91m
+	protest: Termo Desconhecido[0m
+
+	Sentimento Provavel: positivo 
+
+
+	Frase: Dilma você bebeu? como assim vc quer tirar as férias?
+ 
+
+	Normalizado: dilma voce bebeu? como assim vc quer tirar as ferias?  
+
+	Caracteristicas - [u'beb', 'vc', u'tir', u'fer'] 
+[91m
+	beb: Termo Desconhecido[0m
+[94m
+	vc: positivo [0m
+[91m
+	tir: Termo Desconhecido[0m
+[91m
+	fer: Termo Desconhecido[0m
+
+	Sentimento Provavel: positivo 
+
+
+	Frase: Eduardo Campos hashtag @@ Por Blog do Magno Martins:- "Na briga com Dilma, empresários têm Eduardo plano B...... http://t.co/EMr3PMrGIi
+ 
+
+	Normalizado: eduardo campos hashtag at_user por blog do magno martins:- "na briga com dilma, empresarios tem eduardo plano b...... url  
+
+	Caracteristicas - [u'eduard', u'camp', 'hashtag', u'magn', u'brig', u'empresari', 'b'] 
+[91m
+	eduard: Termo Desconhecido[0m
+[91m
+	camp: Termo Desconhecido[0m
+[91m
+	hashtag: Termo Desconhecido[0m
+[91m
+	magn: Termo Desconhecido[0m
+[91m
+	brig: Termo Desconhecido[0m
+[91m
+	empresari: Termo Desconhecido[0m
+[91m
+	b: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase: @elianefs_ @lindakardinaly Alô Dilma?! Favor criar o "Bolsa Livro". Grato! u.u
+ 
+
+	Normalizado: at_user at_user alo dilma?. favor criar o "bolsa livro". grato. u.u  
+
+	Caracteristicas - ['alo', 'favor', u'cri', u'grat', 'uu'] 
+[91m
+	alo: Termo Desconhecido[0m
+[91m
+	favor: Termo Desconhecido[0m
+[91m
+	cri: Termo Desconhecido[0m
+[91m
+	grat: Termo Desconhecido[0m
+[91m
+	uu: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase: Em setembro, a presidenta Dilma Rousseff discursou na Assembleia Geral da ONU, em Nova York, e criticou as ações... http://t.co/wJkcFRrngw
+ 
+
+	Normalizado: em setembro, a presidenta dilma rousseff discursou na assembleia geral da onu, em nova york, e criticou as acoes... url  
+
+	Caracteristicas - [u'president', u'discurs', u'assemble', 'geral', u'critic', u'aco'] 
+[94m
+	president: positivo [0m
+[91m
+	discurs: Termo Desconhecido[0m
+[91m
+	assemble: Termo Desconhecido[0m
+[91m
+	geral: Termo Desconhecido[0m
+[92m
+	critic: negativo [0m
+[91m
+	aco: Termo Desconhecido[0m
+
+	Sentimento Provavel: positivo 
+
+
+	Frase: E Padilha aqui!!
+ 
+
+	Normalizado: e padilha aqui..  
+
+	Caracteristicas - [u'padilh'] 
+[91m
+	padilh: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase: Eu gosto da Presidenta Dilma, é boa pessoa.Gosto do Suplicy também.  http://t.co/J4RLS0y69t
+ 
+
+	Normalizado: eu gosto da presidenta dilma, e boa pessoa.gosto do suplicy tambem. url  
+
+	Caracteristicas - [u'gost', u'president', 'boa', u'pessoagost', 'suplicy'] 
+[94m
+	gost: positivo [0m
+[94m
+	president: positivo [0m
+[91m
+	boa: Termo Desconhecido[0m
+[91m
+	pessoagost: Termo Desconhecido[0m
+[91m
+	suplicy: Termo Desconhecido[0m
+
+	Sentimento Provavel: positivo 
+
+
+	Frase: eu quero um ipad mini com tela retinaaaa brasil de cu  vai chegar aqui no preço de uma casa... dilma fdp '--
+ 
+
+	Normalizado: eu quero um ipad mini com tela retinaaaa brasil de cu vai chegar aqui no preco de uma casa... dilma fdp '--  
+
+	Caracteristicas - [u'quer', 'ipad', u'min', u'tel', u'retina', 'cu', u'cheg', u'prec', 'fdp'] 
+[91m
+	quer: Termo Desconhecido[0m
+[91m
+	ipad: Termo Desconhecido[0m
+[91m
+	min: Termo Desconhecido[0m
+[91m
+	tel: Termo Desconhecido[0m
+[91m
+	retina: Termo Desconhecido[0m
+[91m
+	cu: Termo Desconhecido[0m
+[92m
+	cheg: negativo [0m
+[91m
+	prec: Termo Desconhecido[0m
+[91m
+	fdp: Termo Desconhecido[0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase: Eu, vc, Dilma, todos nós no momento http://t.co/HgnSHVkPOz
+ 
+
+	Normalizado: eu, vc, dilma, todos nos no momento url  
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase: Excelente artigo do Ricardo Kotscho: Só pesquisa traz boas notícias para governo Dilma  http://t.co/kWZIl0iJGp
+ 
+
+	Normalizado: excelente artigo do ricardo kotscho: so pesquisa traz boas noticias para governo dilma url  
+
+	Caracteristicas - [u'excel', u'artig', u'ricard', u'kotsch', 'so', 'traz', u'boa', u'notic'] 
+[91m
+	excel: Termo Desconhecido[0m
+[91m
+	artig: Termo Desconhecido[0m
+[91m
+	ricard: Termo Desconhecido[0m
+[91m
+	kotsch: Termo Desconhecido[0m
+[94m
+	so: positivo [0m
+[91m
+	traz: Termo Desconhecido[0m
+[91m
+	boa: Termo Desconhecido[0m
+[91m
+	notic: Termo Desconhecido[0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase: Excelente artigo do Ricardo Kotscho: Só pesquisa traz boas notícias para governo Dilma  http://t.co/tSRcKL7yxv
+ 
+
+	Normalizado: excelente artigo do ricardo kotscho: so pesquisa traz boas noticias para governo dilma url  
+
+	Caracteristicas - [u'excel', u'artig', u'ricard', u'kotsch', 'so', 'traz', u'boa', u'notic'] 
+[91m
+	excel: Termo Desconhecido[0m
+[91m
+	artig: Termo Desconhecido[0m
+[91m
+	ricard: Termo Desconhecido[0m
+[91m
+	kotsch: Termo Desconhecido[0m
+[94m
+	so: positivo [0m
+[91m
+	traz: Termo Desconhecido[0m
+[91m
+	boa: Termo Desconhecido[0m
+[91m
+	notic: Termo Desconhecido[0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase: Galera tava numa reunião com a dilma não vai ter quinta feira amanhã vai ser sexta tão avisados abraço...!
+ 
+
+	Normalizado: galera tava numa reuniao com a dilma nao vai ter quinta feira amanha vai ser sexta tao avisados abraco....  
+
+	Caracteristicas - [u'gal', u'tav', u'reunia', 'nao', u'feir', u'amanh', u'avis', u'abrac'] 
+[91m
+	gal: Termo Desconhecido[0m
+[91m
+	tav: Termo Desconhecido[0m
+[91m
+	reunia: Termo Desconhecido[0m
+[92m
+	nao: negativo [0m
+[91m
+	feir: Termo Desconhecido[0m
+[91m
+	amanh: Termo Desconhecido[0m
+[91m
+	avis: Termo Desconhecido[0m
+[91m
+	abrac: Termo Desconhecido[0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase: galera vamo pixar a dilma
+ 
+
+	Normalizado: galera vamo pixar a dilma  
+
+	Caracteristicas - [u'gal', u'vam', u'pix'] 
+[91m
+	gal: Termo Desconhecido[0m
+[92m
+	vam: negativo [0m
+[91m
+	pix: Termo Desconhecido[0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase: @giovannimeirele Se fosse depender da Grande Mídia e dos interlocutores dessa Mídia o PT não existiria. Com ELA e tudo DILMA será reeleita
+ 
+
+	Normalizado: at_user se fosse depender da grande midia e dos interlocutores dessa midia o pt nao existiria. com ela e tudo dilma sera reeleita  
+
+	Caracteristicas - [u'depend', u'mid', u'interlocu', u'dess', 'nao', u'exist', u'reeleit'] 
+[91m
+	depend: Termo Desconhecido[0m
+[94m
+	mid: positivo [0m
+[91m
+	interlocu: Termo Desconhecido[0m
+[91m
+	dess: Termo Desconhecido[0m
+[92m
+	nao: negativo [0m
+[91m
+	exist: Termo Desconhecido[0m
+[94m
+	reeleit: positivo [0m
+
+	Sentimento Provavel: positivo 
+
+
+	Frase: Gostei de um vídeo @YouTube de @blogduka7 http://t.co/SfXVebwOTj PRONUNCIAMENTO OFICIAL - DILMA ROUSSEFF SOBRE JUSTIN BIEBER
+ 
+
+	Normalizado: gostei de um video at_user de at_user url pronunciamento oficial - dilma rousseff sobre justin bieber  
+
+	Caracteristicas - [u'gost', u'vide', u'pronunc', u'ofic', 'justin', u'bieb'] 
+[94m
+	gost: positivo [0m
+[91m
+	vide: Termo Desconhecido[0m
+[91m
+	pronunc: Termo Desconhecido[0m
+[91m
+	ofic: Termo Desconhecido[0m
+[91m
+	justin: Termo Desconhecido[0m
+[91m
+	bieb: Termo Desconhecido[0m
+
+	Sentimento Provavel: positivo 
+
+
+	Frase: Governo Dilma Rousseff faz contratos recordes com Ceará http://t.co/xkwr9BFgLN
+ 
+
+	Normalizado: governo dilma rousseff faz contratos recordes com ceara url  
+
+	Caracteristicas - [u'contrat', u'record', u'ce'] 
+[91m
+	contrat: Termo Desconhecido[0m
+[91m
+	record: Termo Desconhecido[0m
+[91m
+	ce: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase: @heitorbonfim Poderia ser tetra da safadeza tbm, com a reeleição da Dilma, pois estão usando a máquina, dinheiro público e sujeiras.
+ 
+
+	Normalizado: at_user poderia ser tetra da safadeza tbm, com a reeleicao da dilma, pois estao usando a maquina, dinheiro publico e sujeiras.  
+
+	Caracteristicas - [u'pod', u'tetr', u'safad', u'reeleica', u'poi', u'us', u'suj'] 
+[94m
+	pod: positivo [0m
+[91m
+	tetr: Termo Desconhecido[0m
+[91m
+	safad: Termo Desconhecido[0m
+[91m
+	reeleica: Termo Desconhecido[0m
+[91m
+	poi: Termo Desconhecido[0m
+[91m
+	us: Termo Desconhecido[0m
+[91m
+	suj: Termo Desconhecido[0m
+
+	Sentimento Provavel: positivo 
+
+
+	Frase: https://t.co/aUdAGhRoMq concordo com a dilma!
+ 
+
+	Normalizado: url concordo com a dilma.  
+
+	Caracteristicas - [u'concord'] 
+[91m
+	concord: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase: @impedimento eu torço pra lusa e voto na dilma.
+ 
+
+	Normalizado: at_user eu torco pra lusa e voto na dilma.  
+
+	Caracteristicas - [u'torc', 'pra', u'lus', u'vot'] 
+[91m
+	torc: Termo Desconhecido[0m
+[94m
+	pra: positivo [0m
+[91m
+	lus: Termo Desconhecido[0m
+[94m
+	vot: positivo [0m
+
+	Sentimento Provavel: positivo 
+
+
+	Frase: Inauguração do Contorno Viário de Caicó será em março com presença da presidenta Dilma Rousseff http://t.co/bu0Uez3Nis
+ 
+
+	Normalizado: inauguracao do contorno viario de caico sera em marco com presenca da presidenta dilma rousseff url  
+
+	Caracteristicas - [u'inauguraca', u'contorn', u'viari', u'caic', u'marc', u'presenc', u'president'] 
+[91m
+	inauguraca: Termo Desconhecido[0m
+[91m
+	contorn: Termo Desconhecido[0m
+[91m
+	viari: Termo Desconhecido[0m
+[91m
+	caic: Termo Desconhecido[0m
+[91m
+	marc: Termo Desconhecido[0m
+[91m
+	presenc: Termo Desconhecido[0m
+[94m
+	president: positivo [0m
+
+	Sentimento Provavel: positivo 
+
+
+	Frase: independente de ideologia o Governo Dilma é mediocre
+ 
+
+	Normalizado: independente de ideologia o governo dilma e mediocre  
+
+	Caracteristicas - [u'independ', u'ideolog', u'mediocr'] 
+[92m
+	independ: negativo [0m
+[91m
+	ideolog: Termo Desconhecido[0m
+[92m
+	ideolog: negativo [0m
+[91m
+	mediocr: Termo Desconhecido[0m
+[92m
+	mediocr: negativo [0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase: "Kassab anunciará na próxima semana a aliança com Dilma para 2014,... http://t.co/SXVSr1jv3A
+ 
+
+	Normalizado: kassab anunciara na proxima semana a alianca com dilma para 2014,... url  
+
+	Caracteristicas - ['kassab', u'anunci', u'prox', u'alianc'] 
+[91m
+	kassab: Termo Desconhecido[0m
+[91m
+	anunci: Termo Desconhecido[0m
+[91m
+	prox: Termo Desconhecido[0m
+[91m
+	alianc: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase: @KennedyAlencar Se fosse depender da Grande Mídia e de vocês interlocutores dessa Mídia o PT ñ existiria. Com vocês e tudo DILMA será eleita
+ 
+
+	Normalizado: at_user se fosse depender da grande midia e de voces interlocutores dessa midia o pt n existiria. com voces e tudo dilma sera eleita  
+
+	Caracteristicas - [u'depend', u'mid', u'voc', u'interlocu', u'dess', u'exist', u'eleit'] 
+[91m
+	depend: Termo Desconhecido[0m
+[94m
+	mid: positivo [0m
+[92m
+	voc: negativo [0m
+[91m
+	interlocu: Termo Desconhecido[0m
+[91m
+	dess: Termo Desconhecido[0m
+[91m
+	exist: Termo Desconhecido[0m
+[91m
+	eleit: Termo Desconhecido[0m
+
+	Sentimento Provavel: positivo 
+
+
+	Frase: @Kit_Snicket a Dilma manda estar certo então tá certo
+ 
+
+	Normalizado: at_user a dilma manda estar certo entao ta certo  
+
+	Caracteristicas - [u'mand', u'est', u'cert'] 
+[91m
+	mand: Termo Desconhecido[0m
+[91m
+	est: Termo Desconhecido[0m
+[91m
+	cert: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase: La Mañana Córdoba - Dilma expresó su felicidad por la recuperación de Cristina Fernández http://t.co/kTJUfH2FhX
+ 
+
+	Normalizado: la manana cordoba - dilma expreso su felicidad por la recuperacion de cristina fernandez url  
+
+	Caracteristicas - [u'manan', u'cordob', u'expres', 'su', 'felicidad', 'recuperacion', u'cristin', u'fernand'] 
+[91m
+	manan: Termo Desconhecido[0m
+[91m
+	cordob: Termo Desconhecido[0m
+[91m
+	expres: Termo Desconhecido[0m
+[94m
+	su: positivo [0m
+[91m
+	felicidad: Termo Desconhecido[0m
+[91m
+	recuperacion: Termo Desconhecido[0m
+[91m
+	cristin: Termo Desconhecido[0m
+[91m
+	fernand: Termo Desconhecido[0m
+
+	Sentimento Provavel: positivo 
+
+
+	Frase: Las oportunidades de negocio para los cordobeses en Brasil (desde los ojos del gobierno de Dilma) http://t.co/J0wcUQ9xPA
+ 
+
+	Normalizado: las oportunidades de negocio para los cordobeses en brasil (desde los ojos del gobierno de dilma) url  
+
+	Caracteristicas - [u'la', u'oportun', u'negoci', u'lo', u'cordobes', 'en', u'ojo', 'del', u'gobiern'] 
+[91m
+	la: Termo Desconhecido[0m
+[91m
+	oportun: Termo Desconhecido[0m
+[91m
+	negoci: Termo Desconhecido[0m
+[91m
+	lo: Termo Desconhecido[0m
+[91m
+	cordobes: Termo Desconhecido[0m
+[91m
+	en: Termo Desconhecido[0m
+[91m
+	ojo: Termo Desconhecido[0m
+[91m
+	del: Termo Desconhecido[0m
+[91m
+	gobiern: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase: @luiznetto777 @soniabrasilera @requiaopmdb carreira de estado para interiorização. A Dilma vetou. Surpreso?
+ 
+
+	Normalizado: at_user at_user at_user carreira de estado para interiorizacao. a dilma vetou. surpreso?  
+
+	Caracteristicas - [u'carr', u'interiorizaca', u'vet', u'surpres'] 
+[91m
+	carr: Termo Desconhecido[0m
+[91m
+	interiorizaca: Termo Desconhecido[0m
+[91m
+	vet: Termo Desconhecido[0m
+[91m
+	surpres: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase: Mais isso não seria formação de quadrilha???
+ 
+
+	Normalizado: mais isso nao seria formacao de quadrilha???  
+
+	Caracteristicas - ['nao', u'formaca', u'quadrilh'] 
+[92m
+	nao: negativo [0m
+[91m
+	formaca: Termo Desconhecido[0m
+[91m
+	quadrilh: Termo Desconhecido[0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase: Marqueteiro de Dilma vai trabalhar para o PT na eleição para governador de São Paulo http://t.co/3u8VaoP4OG via @VEJA
+ 
+
+	Normalizado: marqueteiro de dilma vai trabalhar para o pt na eleicao para governador de sao paulo url via at_user  
+
+	Caracteristicas - [u'marquet', u'trabalh', u'eleica', u'govern'] 
+[91m
+	marquet: Termo Desconhecido[0m
+[91m
+	trabalh: Termo Desconhecido[0m
+[91m
+	eleica: Termo Desconhecido[0m
+[91m
+	govern: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase: @NandaLima3 @Isis_DF @ditamorim UHOUAHOUSHAOUHSOUAHOH dilma bem que poderia fazer um bolsa cinema
+ 
+
+	Normalizado: at_user at_user at_user uhouahoushaouhsouahoh dilma bem que poderia fazer um bolsa cinema  
+
+	Caracteristicas - ['uhouahoushaouhsouahoh', u'pod', u'bols'] 
+[91m
+	uhouahoushaouhsouahoh: Termo Desconhecido[0m
+[94m
+	pod: positivo [0m
+[91m
+	bols: Termo Desconhecido[0m
+
+	Sentimento Provavel: positivo 
+
+
+	Frase: Obra do saneamento básico de Tabira está abandonada pelo Governo Dilma
+ 
+
+	Normalizado: obra do saneamento basico de tabira esta abandonada pelo governo dilma  
+
+	Caracteristicas - [u'obr', u'sane', u'basic', u'tab', u'abandon'] 
+[92m
+	obr: negativo [0m
+[91m
+	sane: Termo Desconhecido[0m
+[91m
+	basic: Termo Desconhecido[0m
+[91m
+	tab: Termo Desconhecido[0m
+[91m
+	abandon: Termo Desconhecido[0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase: ola dilma, qual é a sua opinião sobre as passeatas desse ano ?
+ 
+
+	Normalizado: ola dilma, qual e a sua opiniao sobre as passeatas desse ano ?  
+
+	Caracteristicas - ['ola', u'opinia', u'passeat', u'dess'] 
+[91m
+	ola: Termo Desconhecido[0m
+[91m
+	opinia: Termo Desconhecido[0m
+[91m
+	passeat: Termo Desconhecido[0m
+[91m
+	dess: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase: Política Civil Brasileira desde a Constituição de 1988: "Corrupta e Manipuladora Sensacionalista!!!" #Sarney&amp;Dilma
+ 
+
+	Normalizado: politica civil brasileira desde a constituicao de 1988: "corrupta e manipuladora sensacionalista..." sarney&amp;dilma  
+
+	Caracteristicas - ['civil', u'constituica', u'manipul'] 
+[91m
+	civil: Termo Desconhecido[0m
+[91m
+	constituica: Termo Desconhecido[0m
+[91m
+	manipul: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase: Por Blog do Magno Martins:- "Na briga com Dilma, empresários têm Eduardo plano B... Cresce a preocupação, no... http://t.co/MguQ6VxQUk
+ 
+
+	Normalizado: por blog do magno martins:- "na briga com dilma, empresarios tem eduardo plano b... cresce a preocupacao, no... url  
+
+	Caracteristicas - [u'magn', u'brig', u'empresari', u'eduard', 'b', u'cresc'] 
+[91m
+	magn: Termo Desconhecido[0m
+[91m
+	brig: Termo Desconhecido[0m
+[91m
+	empresari: Termo Desconhecido[0m
+[91m
+	eduard: Termo Desconhecido[0m
+[91m
+	b: Termo Desconhecido[0m
+[94m
+	cresc: positivo [0m
+
+	Sentimento Provavel: positivo 
+
+
+	Frase: por causa da copa não vamos ter férias em dezembro foi isso que falaram pra mim gente (minha escola), e isso tudo é culpa da Dilma.
+ 
+
+	Normalizado: por causa da copa nao vamos ter ferias em dezembro foi isso que falaram pra mim gente (minha escola), e isso tudo e culpa da dilma.  
+
+	Caracteristicas - [u'caus', 'nao', u'vam', u'fer', u'dezembr', u'fal', 'pra', 'mim', u'gent', u'culp'] 
+[91m
+	caus: Termo Desconhecido[0m
+[92m
+	nao: negativo [0m
+[92m
+	vam: negativo [0m
+[91m
+	fer: Termo Desconhecido[0m
+[91m
+	dezembr: Termo Desconhecido[0m
+[91m
+	fal: Termo Desconhecido[0m
+[94m
+	pra: positivo [0m
+[91m
+	mim: Termo Desconhecido[0m
+[91m
+	gent: Termo Desconhecido[0m
+[92m
+	culp: negativo [0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase: pq só o tf vai ter aula amanhã pq dilma
+ 
+
+	Normalizado: pq so o tf vai ter aula amanha pq dilma  
+
+	Caracteristicas - ['pq', 'so', 'tf', u'aul', u'amanh'] 
+[91m
+	pq: Termo Desconhecido[0m
+[94m
+	so: positivo [0m
+[91m
+	tf: Termo Desconhecido[0m
+[91m
+	aul: Termo Desconhecido[0m
+[91m
+	amanh: Termo Desconhecido[0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase: Pré-sal de Dilma, metrô de Alckmin e perimetral de Eduardo Paes - Portogente / http://t.co/pkFCEMAavS #cobertura
+ 
+
+	Normalizado: pre-sal de dilma, metro de alckmin e perimetral de eduardo paes - portogente / url cobertura  
+
+	Caracteristicas - [u'metr', 'alckmin', u'perimetr', u'eduard', u'pae', u'portog', u'cobert'] 
+[91m
+	metr: Termo Desconhecido[0m
+[91m
+	alckmin: Termo Desconhecido[0m
+[91m
+	perimetr: Termo Desconhecido[0m
+[91m
+	eduard: Termo Desconhecido[0m
+[91m
+	pae: Termo Desconhecido[0m
+[91m
+	portog: Termo Desconhecido[0m
+[91m
+	cobert: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase: Presidente Dilma Rousseff: Proibição aos testes animais para cosméticos no Brasil http://t.co/dadtqWJLal via @change
+ 
+
+	Normalizado: presidente dilma rousseff: proibicao aos testes animais para cosmeticos no brasil url via at_user  
+
+	Caracteristicas - [u'proibica', u'test', u'animal', u'cosme'] 
+[91m
+	proibica: Termo Desconhecido[0m
+[91m
+	test: Termo Desconhecido[0m
+[91m
+	animal: Termo Desconhecido[0m
+[91m
+	cosme: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase: Presidente Dilma Rousseff: Proibição aos testes animais para cosméticos no Brasil http://t.co/Exn00sbEbc via @change
+ 
+
+	Normalizado: presidente dilma rousseff: proibicao aos testes animais para cosmeticos no brasil url via at_user  
+
+	Caracteristicas - [u'proibica', u'test', u'animal', u'cosme'] 
+[91m
+	proibica: Termo Desconhecido[0m
+[91m
+	test: Termo Desconhecido[0m
+[91m
+	animal: Termo Desconhecido[0m
+[91m
+	cosme: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase: Pro Genoíno e Dirceu, qto mais tatde forem presos, melhor. E pra Dilma, candidata do PT em 2014? Para mim, Janot está jogando com a Dilma.
+ 
+
+	Normalizado: pro genoino e dirceu, qto mais tatde forem presos, melhor. e pra dilma, candidata do pt em 2014? para mim, janot esta jogando com a dilma.  
+
+	Caracteristicas - ['pro', u'genoin', 'qto', u'tatd', 'pra', u'candidat', 'janot', u'jog'] 
+[91m
+	pro: Termo Desconhecido[0m
+[91m
+	genoin: Termo Desconhecido[0m
+[91m
+	qto: Termo Desconhecido[0m
+[91m
+	tatd: Termo Desconhecido[0m
+[94m
+	pra: positivo [0m
+[91m
+	candidat: Termo Desconhecido[0m
+[91m
+	janot: Termo Desconhecido[0m
+[91m
+	jog: Termo Desconhecido[0m
+
+	Sentimento Provavel: positivo 
+
+
+	Frase: Que maravilha Parabéns, Dilma Assim o Brasil continua crescendo.
+ 
+
+	Normalizado: que maravilha parabens, dilma assim o brasil continua crescendo.  
+
+	Caracteristicas - [u'maravilh', u'continu', u'cresc'] 
+[94m
+	maravilh: positivo [0m
+[94m
+	continu: positivo [0m
+[94m
+	cresc: positivo [0m
+
+	Sentimento Provavel: positivo 
+
+
+	Frase: Queria ver a cara dos #PTralhas Dilma e Lula e Dirceu e ETC... cara!! A cara deles já é feia, deve está uma Morgana. #MensaleirosNaCadeia
+ 
+
+	Normalizado: queria ver a cara dos ptralhas dilma e lula e dirceu e etc... cara.. a cara deles ja e feia, deve esta uma morgana. mensaleirosnacadeia  
+
+	Caracteristicas - [u'quer', 'ver', u'car', u'ptralh', u'dirc', 'etc', u'morg', u'mensaleirosnacade'] 
+[91m
+	quer: Termo Desconhecido[0m
+[92m
+	ver: negativo [0m
+[92m
+	car: negativo [0m
+[91m
+	ptralh: Termo Desconhecido[0m
+[91m
+	dirc: Termo Desconhecido[0m
+[91m
+	etc: Termo Desconhecido[0m
+[91m
+	morg: Termo Desconhecido[0m
+[91m
+	mensaleirosnacade: Termo Desconhecido[0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase: Remédios grátis ou com desconto beneficiaram 16,4 milhões
+ 
+
+	Normalizado: remedios gratis ou com desconto beneficiaram 16,4 milhoes  
+
+	Caracteristicas - [u'remedi', u'gratil', u'descont', u'benefici'] 
+[94m
+	remedi: positivo [0m
+[94m
+	gratil: positivo [0m
+[94m
+	descont: positivo [0m
+[94m
+	benefici: positivo [0m
+
+	Sentimento Provavel: positivo 
+
+
+	Frase: RT @13betinho: tanto calor que a dilma podia começar a distribuir o bolsa refresco que ajuda os brasileiros a construirem piscinas em casa
+ 
+
+	Normalizado: rt at_user tanto calor que a dilma podia comecar a distribuir o bolsa refresco que ajuda os brasileiros a construirem piscinas em casa  
+
+	Caracteristicas - [u'tant', u'cal', u'pod', u'comec', u'distribu', u'bols', u'refr', u'ajud', u'constru', u'piscin'] 
+[91m
+	tant: Termo Desconhecido[0m
+[91m
+	cal: Termo Desconhecido[0m
+[94m
+	pod: positivo [0m
+[91m
+	comec: Termo Desconhecido[0m
+[91m
+	distribu: Termo Desconhecido[0m
+[91m
+	bols: Termo Desconhecido[0m
+[91m
+	refr: Termo Desconhecido[0m
+[91m
+	ajud: Termo Desconhecido[0m
+[91m
+	constru: Termo Desconhecido[0m
+[91m
+	piscin: Termo Desconhecido[0m
+
+	Sentimento Provavel: positivo 
+
+
+	Frase: RT @AlbertoTomasi: “@rrrenata_: Sou a favor de colocar os restos mortais do Jango, no lugar da Dilma#foradilma” sou a favor de botar no cu …
+ 
+
+	Normalizado: rt at_user at_user sou a favor de colocar os restos mortais do jango, no lugar da dilmaforadilma sou a favor de botar no cu ...  
+
+	Caracteristicas - ['favor', u'coloc', u'rest', u'mort', u'dilmaforadilm', u'bot', 'cu'] 
+[91m
+	favor: Termo Desconhecido[0m
+[91m
+	coloc: Termo Desconhecido[0m
+[91m
+	rest: Termo Desconhecido[0m
+[91m
+	mort: Termo Desconhecido[0m
+[91m
+	dilmaforadilm: Termo Desconhecido[0m
+[91m
+	bot: Termo Desconhecido[0m
+[91m
+	cu: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase: RT @aloiziofilho: @VEJA OAB critica posição do AGU - Adams - e do Governo Dilma sobre honorários da advocacia pública http://t.co/l7sMVKdJyo
+ 
+
+	Normalizado: rt at_user at_user oab critica posicao do agu - adams - e do governo dilma sobre honorarios da advocacia publica url  
+
+	Caracteristicas - ['oab', u'crit', u'posica', 'agu', u'ad', u'honorari', u'advocac', u'publ'] 
+[91m
+	oab: Termo Desconhecido[0m
+[91m
+	crit: Termo Desconhecido[0m
+[91m
+	posica: Termo Desconhecido[0m
+[91m
+	agu: Termo Desconhecido[0m
+[91m
+	ad: Termo Desconhecido[0m
+[91m
+	honorari: Termo Desconhecido[0m
+[91m
+	advocac: Termo Desconhecido[0m
+[92m
+	publ: negativo [0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase: RT @arquiber: @IucasSantos_ @frulanis E é bom lembrar q Dilma enfrenta a oposição "cancerígena" até p parte de PTistas.
+ 
+
+	Normalizado: rt at_user at_user at_user e e bom lembrar q dilma enfrenta a oposicao "cancerigena" ate p parte de ptistas.  
+
+	Caracteristicas - [u'lembr', u'enfrent', u'oposica', 'p', u'ptist'] 
+[91m
+	lembr: Termo Desconhecido[0m
+[94m
+	enfrent: positivo [0m
+[91m
+	oposica: Termo Desconhecido[0m
+[91m
+	p: Termo Desconhecido[0m
+[91m
+	ptist: Termo Desconhecido[0m
+
+	Sentimento Provavel: positivo 
+
+
+	Frase: RT @Arykara2: Mensalão do Lula/Dilma/PT : 74% dos brasileiros querem prisão imediata de condenados, aponta Datafolha. http://t.co/jgh5hZG0lk
+ 
+
+	Normalizado: rt at_user mensalao do lula/dilma/pt : 74% dos brasileiros querem prisao imediata de condenados, aponta datafolha. url  
+
+	Caracteristicas - [u'mensala', u'quer', u'prisa', u'imediat', u'apont', u'datafolh'] 
+[91m
+	mensala: Termo Desconhecido[0m
+[91m
+	quer: Termo Desconhecido[0m
+[91m
+	prisa: Termo Desconhecido[0m
+[91m
+	imediat: Termo Desconhecido[0m
+[91m
+	apont: Termo Desconhecido[0m
+[91m
+	datafolh: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase: RT @arykara: "@andre_sobania: @AnonymousBr4sil @arykara Collor é um canalha" // A Dilma compra ambulancia do ex-tesoureiro dele kkk
+ 
+
+	Normalizado: rt at_user "at_user at_user at_user collor e um canalha" // a dilma compra ambulancia do ex-tesoureiro dele kkk  
+
+	Caracteristicas - [u'coll', u'compr', u'ambulanc', 'kk'] 
+[91m
+	coll: Termo Desconhecido[0m
+[91m
+	compr: Termo Desconhecido[0m
+[91m
+	ambulanc: Termo Desconhecido[0m
+[91m
+	kk: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase: RT @belaspalavras: @belaspalavras agradecemos a dilma a escolha do cagao barroso e a lula a escolha da mijona carmen e do toffoli cagado
+ 
+
+	Normalizado: rt at_user at_user agradecemos a dilma a escolha do cagao barroso e a lula a escolha da mijona carmen e do toffoli cagado  
+
+	Caracteristicas - [u'agradec', u'escolh', u'caga', u'barr', u'mij', 'carmen', u'toffol', u'cag'] 
+[91m
+	agradec: Termo Desconhecido[0m
+[91m
+	escolh: Termo Desconhecido[0m
+[91m
+	caga: Termo Desconhecido[0m
+[91m
+	barr: Termo Desconhecido[0m
+[91m
+	mij: Termo Desconhecido[0m
+[91m
+	carmen: Termo Desconhecido[0m
+[91m
+	toffol: Termo Desconhecido[0m
+[91m
+	cag: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase: RT @belaspalavras: @belaspalavras obrigado dilma por presentear o povo brasileiro com mais uma cobra criada REPUBLICANA OFCOURSE
+ 
+
+	Normalizado: rt at_user at_user obrigado dilma por presentear o povo brasileiro com mais uma cobra criada republicana ofcourse  
+
+	Caracteristicas - [u'obrig', u'present', u'cobr', u'cri', u'republic', u'ofcours'] 
+[94m
+	obrig: positivo [0m
+[91m
+	present: Termo Desconhecido[0m
+[91m
+	cobr: Termo Desconhecido[0m
+[91m
+	cri: Termo Desconhecido[0m
+[91m
+	republic: Termo Desconhecido[0m
+[91m
+	ofcours: Termo Desconhecido[0m
+
+	Sentimento Provavel: positivo 
+
+
+	Frase: RT @BLOGDOMAGNO: Na briga com Dilma, empresários têm Eduardo plano B -http://t.co/QRLwhsSMwv
+ 
+
+	Normalizado: rt at_user na briga com dilma, empresarios tem eduardo plano b -url  
+
+	Caracteristicas - [u'brig', u'empresari', u'eduard', 'b'] 
+[91m
+	brig: Termo Desconhecido[0m
+[91m
+	empresari: Termo Desconhecido[0m
+[91m
+	eduard: Termo Desconhecido[0m
+[91m
+	b: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase: RT @bmotahc: @luiznetto777 @soniabrasilera @requiaopmdb Mentira. Nunca tivemos tão poucos leitos. 13 mil fechados pela Dilma. Sinceridade h…
+ 
+
+	Normalizado: rt at_user at_user at_user at_user mentira. nunca tivemos tao poucos leitos. 13 mil fechados pela dilma. sinceridade h...  
+
+	Caracteristicas - [u'ment', u'nunc', u'pouc', u'leit', u'fech', u'sincer', 'h'] 
+[92m
+	ment: negativo [0m
+[91m
+	nunc: Termo Desconhecido[0m
+[91m
+	pouc: Termo Desconhecido[0m
+[91m
+	leit: Termo Desconhecido[0m
+[91m
+	fech: Termo Desconhecido[0m
+[91m
+	sincer: Termo Desconhecido[0m
+[91m
+	h: Termo Desconhecido[0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase: RT @DaniloBrito15: ola dilma, qual é a sua opinião sobre as passeatas desse ano ?
+ 
+
+	Normalizado: rt at_user ola dilma, qual e a sua opiniao sobre as passeatas desse ano ?  
+
+	Caracteristicas - ['ola', u'opinia', u'passeat', u'dess'] 
+[91m
+	ola: Termo Desconhecido[0m
+[91m
+	opinia: Termo Desconhecido[0m
+[91m
+	passeat: Termo Desconhecido[0m
+[91m
+	dess: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase: RT @delubiosoares: Para o ódio dos tucanos: PIB do Brasil cresce mais que o dos Estados Unidos e Coréia do Sul #PT #Dilma #Lula #Brasil  ht…
+ 
+
+	Normalizado: rt at_user para o odio dos tucanos: pib do brasil cresce mais que o dos estados unidos e coreia do sul pt dilma lula brasil ht...  
+
+	Caracteristicas - [u'odi', u'tucan', 'pib', u'cresc', u'unid', u'core', 'ht'] 
+[91m
+	odi: Termo Desconhecido[0m
+[91m
+	tucan: Termo Desconhecido[0m
+[91m
+	pib: Termo Desconhecido[0m
+[94m
+	cresc: positivo [0m
+[91m
+	unid: Termo Desconhecido[0m
+[91m
+	core: Termo Desconhecido[0m
+[91m
+	ht: Termo Desconhecido[0m
+
+	Sentimento Provavel: positivo 
+
+
+	Frase: RT @dennisd: "Sinal amarelo no Planalto". Empresários estão todos pulando fora do barco da Presidente. → http://t.co/3g4CHrysu7
+ 
+
+	Normalizado: rt at_user "sinal amarelo no planalto". empresarios estao todos pulando fora do barco da presidente. url  
+
+	Caracteristicas - [u'amarel', u'empresari', u'pul', u'barc'] 
+[91m
+	amarel: Termo Desconhecido[0m
+[91m
+	empresari: Termo Desconhecido[0m
+[91m
+	pul: Termo Desconhecido[0m
+[91m
+	barc: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase: RT @diImabr: Wrecking Ball Dilma Rousseff: destruindo toda a oposição recalcada e liderando todas as pesquisas... http://t.co/Who3Bw9EO8
+ 
+
+	Normalizado: rt at_user wrecking ball dilma rousseff: destruindo toda a oposicao recalcada e liderando todas as pesquisas... url  
+
+	Caracteristicas - ['wrecking', 'ball', u'destru', u'oposica', u'recalc', u'lider', u'pesquis'] 
+[91m
+	wrecking: Termo Desconhecido[0m
+[91m
+	ball: Termo Desconhecido[0m
+[91m
+	destru: Termo Desconhecido[0m
+[91m
+	oposica: Termo Desconhecido[0m
+[91m
+	recalc: Termo Desconhecido[0m
+[91m
+	lider: Termo Desconhecido[0m
+[91m
+	pesquis: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase: RT @fabiocampana: Luz amarela: Dilma já  desagrada empresários http://t.co/pOpoPk0UgY
+ 
+
+	Normalizado: rt at_user luz amarela: dilma ja desagrada empresarios url  
+
+	Caracteristicas - ['luz', u'amarel', u'desagr', u'empresari'] 
+[91m
+	luz: Termo Desconhecido[0m
+[91m
+	amarel: Termo Desconhecido[0m
+[91m
+	desagr: Termo Desconhecido[0m
+[91m
+	empresari: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase: RT @FlaviaCass: Tbm odeio... Lula, Dilma e sua corja de ladrões...Vão tudo pro inferno! #NãoReelejaOPT #TamoJunto #ForaPT #foradilma
+ 
+
+	Normalizado: rt at_user tbm odeio... lula, dilma e sua corja de ladroes...vao tudo pro inferno. naoreelejaopt tamojunto forapt foradilma  
+
+	Caracteristicas - ['tbm', u'odei', u'corj', u'ladroesva', 'pro', u'infern', 'naoreelejaopt', u'tamojunt', 'forapt', u'foradilm'] 
+[91m
+	tbm: Termo Desconhecido[0m
+[91m
+	odei: Termo Desconhecido[0m
+[91m
+	corj: Termo Desconhecido[0m
+[91m
+	ladroesva: Termo Desconhecido[0m
+[91m
+	pro: Termo Desconhecido[0m
+[91m
+	infern: Termo Desconhecido[0m
+[91m
+	naoreelejaopt: Termo Desconhecido[0m
+[91m
+	tamojunt: Termo Desconhecido[0m
+[91m
+	forapt: Termo Desconhecido[0m
+[91m
+	foradilm: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase: RT @frulanis: Recordando um interessante texto. Leiam, por favor "As revoluções simultâneas de Dilma Rousseff" http://t.co/jT0e57V06o
+ 
+
+	Normalizado: rt at_user recordando um interessante texto. leiam, por favor "as revolucoes simultaneas de dilma rousseff" url  
+
+	Caracteristicas - [u'record', u'interess', u'text', 'favor', u'revoluco', u'simultane'] 
+[91m
+	record: Termo Desconhecido[0m
+[91m
+	interess: Termo Desconhecido[0m
+[91m
+	text: Termo Desconhecido[0m
+[91m
+	favor: Termo Desconhecido[0m
+[91m
+	revoluco: Termo Desconhecido[0m
+[91m
+	simultane: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase: RT @frulanis: Vcs precisam ter a dimensão do que a Dilma está enfrentando e mudando... Dilma com esses enfrentamentos pode motivar um golpe…
+ 
+
+	Normalizado: rt at_user vcs precisam ter a dimensao do que a dilma esta enfrentando e mudando... dilma com esses enfrentamentos pode motivar um golpe...  
+
+	Caracteristicas - [u'vc', u'precis', u'dimensa', u'enfrent', u'mud', u'motiv', u'golp'] 
+[94m
+	vc: positivo [0m
+[91m
+	precis: Termo Desconhecido[0m
+[91m
+	dimensa: Termo Desconhecido[0m
+[94m
+	enfrent: positivo [0m
+[94m
+	mud: positivo [0m
+[91m
+	motiv: Termo Desconhecido[0m
+[91m
+	golp: Termo Desconhecido[0m
+
+	Sentimento Provavel: positivo 
+
+
+	Frase: RT @giannatiempo: @dilmabr "Estoy feliz por saber que Cristina regresará pronto a trabajar" Gracias Dilma #PatriaGrande
+ 
+
+	Normalizado: rt at_user at_user "estoy feliz por saber que cristina regresara pronto a trabajar" gracias dilma patriagrande  
+
+	Caracteristicas - ['feliz', u'sab', u'cristin', u'regres', u'pront', u'grac', u'patriagrand'] 
+[91m
+	feliz: Termo Desconhecido[0m
+[91m
+	sab: Termo Desconhecido[0m
+[91m
+	cristin: Termo Desconhecido[0m
+[91m
+	regres: Termo Desconhecido[0m
+[91m
+	pront: Termo Desconhecido[0m
+[91m
+	grac: Termo Desconhecido[0m
+[91m
+	patriagrand: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase: RT @gohander: dilma investe em mim
+ 
+
+	Normalizado: rt at_user dilma investe em mim  
+
+	Caracteristicas - [u'inv', 'mim'] 
+[91m
+	inv: Termo Desconhecido[0m
+[91m
+	mim: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase: RT @jcmonteiro50: “@rrrenata_: Eu sou a favor de colocar os restos mortais do Jango, no lugar da Dilma #foradilma.”
+ 
+
+	Normalizado: rt at_user at_user eu sou a favor de colocar os restos mortais do jango, no lugar da dilma foradilma.  
+
+	Caracteristicas - ['favor', u'coloc', u'rest', u'mort', u'foradilm'] 
+[91m
+	favor: Termo Desconhecido[0m
+[91m
+	coloc: Termo Desconhecido[0m
+[91m
+	rest: Termo Desconhecido[0m
+[91m
+	mort: Termo Desconhecido[0m
+[91m
+	foradilm: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase: RT @jprcampos: @sandraffarias @frulanis @solongranja O objetivo era jogar Dilma contra Lula para ficar mais fácil derrubar Dilma. Não deu c…
+ 
+
+	Normalizado: rt at_user at_user at_user at_user o objetivo era jogar dilma contra lula para ficar mais facil derrubar dilma. nao deu c...  
+
+	Caracteristicas - [u'obje', u'jog', u'fic', 'facil', u'derrub', 'nao', 'deu', 'c'] 
+[91m
+	obje: Termo Desconhecido[0m
+[91m
+	jog: Termo Desconhecido[0m
+[91m
+	fic: Termo Desconhecido[0m
+[91m
+	facil: Termo Desconhecido[0m
+[91m
+	derrub: Termo Desconhecido[0m
+[92m
+	nao: negativo [0m
+[91m
+	deu: Termo Desconhecido[0m
+[91m
+	c: Termo Desconhecido[0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase: RT @jubsmendel: Dilma kirida, tá na hora de criar o "bolsa rolé" pra quem quer sair com os amigos mais não tem dinheirol
+ 
+
+	Normalizado: rt at_user dilma kirida, ta na hora de criar o "bolsa role" pra quem quer sair com os amigos mais nao tem dinheirol  
+
+	Caracteristicas - [u'hor', u'cri', 'pra', 'sair', u'amig', 'nao', 'dinheirol'] 
+[92m
+	hor: negativo [0m
+[91m
+	cri: Termo Desconhecido[0m
+[94m
+	pra: positivo [0m
+[91m
+	sair: Termo Desconhecido[0m
+[91m
+	amig: Termo Desconhecido[0m
+[92m
+	nao: negativo [0m
+[91m
+	dinheirol: Termo Desconhecido[0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase: RT @lovemoneyspn: espero que quando a miley vir pro brasil seja mais polemica que a passagem do justin, tomara que ela grafite a testa da d…
+ 
+
+	Normalizado: rt at_user espero que quando a miley vir pro brasil seja mais polemica que a passagem do justin, tomara que ela grafite a testa da d...  
+
+	Caracteristicas - [u'esper', 'miley', 'vir', 'pro', u'polem', u'pass', u'tom', u'grafit', u'test', 'd'] 
+[91m
+	esper: Termo Desconhecido[0m
+[91m
+	miley: Termo Desconhecido[0m
+[94m
+	vir: positivo [0m
+[91m
+	pro: Termo Desconhecido[0m
+[91m
+	polem: Termo Desconhecido[0m
+[92m
+	pass: negativo [0m
+[91m
+	tom: Termo Desconhecido[0m
+[91m
+	grafit: Termo Desconhecido[0m
+[91m
+	test: Termo Desconhecido[0m
+[91m
+	d: Termo Desconhecido[0m
+
+	Sentimento Provavel: positivo 
+
+]0;root@Infoway: /media/silvio/Dados/Fatec/6_semestre/TG/versao3root@Infoway:/media/silvio/Dados/Fatec/6_semestre/TG/versao3# python testarTwitter.py dilma[11Pmore tg_dilma_uniqlog-dilma.uniq[1Ptg_dilma_uniq
+Script started on Sáb 16 Nov 2013 17:17:53 BRST
+]0;root@Infoway: /media/silvio/Dados/Fatec/6_semestre/TG/versao3root@Infoway:/media/silvio/Dados/Fatec/6_semestre/TG/versao3# python testarTwitt
+er.py dilma
+[H[2J[94m
+		Análise de Sentimento
+		Assunto: DILMA [0m
+
+	Frase: A dilma quebrou tanto o país que até os jogadores de futebol tão fazendo greve Gauahauahauha #brasil
+ 
+
+	Normalizado: a dilma quebrou tanto o pais que ate os jogadores de futebol tao fazendo greve gauahauahauha brasil  
+
+	Caracteristicas - [u'quebr', u'tant', u'jog', 'futebol', u'faz', u'grev', u'gauahauahauh'] 
+[91m
+	quebr: Termo Desconhecido[0m
+[91m
+	tant: Termo Desconhecido[0m
+[91m
+	jog: Termo Desconhecido[0m
+[91m
+	futebol: Termo Desconhecido[0m
+[91m
+	faz: Termo Desconhecido[0m
+[91m
+	grev: Termo Desconhecido[0m
+[91m
+	gauahauahauh: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase: @antunesafonso putz pode cre cara, que nem a tua pra dilma
+ 
+
+	Normalizado: at_user putz pode cre cara, que nem a tua pra dilma  
+
+	Caracteristicas - ['putz', 'cre', 'pra'] 
+[91m
+	putz: Termo Desconhecido[0m
+[7m--More--(2%)[27m[91m[K
+[7m--More--(2%)[27m[K	cre: Termo Desconhecido[0m
+[7m--More--(2%)[27m[94m[K
+[7m--More--(2%)[27m[K	pra: positivo [0m
+[7m--More--(2%)[27m[K
+[7m--More--(2%)[27m[K	Sentimento Provavel: positivo 
+[7m--More--(2%)[27m[K
+[7m--More--(2%)[27m[K
+[7m--More--(2%)[27m[K	Frase: A prisão de Dirceu e Genoíno vai tomar 45' do Jornal Nacional, e virar um Globo Repórter. Em plena campanha de 2014, não ajudaria
+[7m--More--(2%)[27m a Dilma.[K
+[7m--More--(2%)[27m [K
+[7m--More--(2%)[27m[K
+[7m--More--(2%)[27m[K	Normalizado: a prisao de dirceu e genoino vai tomar 45' do jornal nacional, e virar um globo reporter. em plena campanha de 2014, nao aj
+[7m--More--(2%)[27mudaria a dilma.  
+[7m--More--(2%)[27m[K
+[7m--More--(2%)[27m[K	Caracteristicas - [u'prisa', u'dirc', u'genoin', u'tom', u'jorn', u'vir', u'glob', u'report', u'plen', 'nao', u'ajud'] 
+[7m--More--(3%)[27m[91m[K
+[7m--More--(3%)[27m[K	prisa: Termo Desconhecido[0m
+[7m--More--(3%)[27m[91m[K
+[7m--More--(3%)[27m[K	dirc: Termo Desconhecido[0m
+[7m--More--(3%)[27m[91m[K
+[7m--More--(3%)[27m[K	genoin: Termo Desconhecido[0m
+[7m--More--(3%)[27m[91m[K
+[7m--More--(3%)[27m[K	tom: Termo Desconhecido[0m
+[7m--More--(3%)[27m[91m[K
+[7m--More--(3%)[27m[K	jorn: Termo Desconhecido[0m
+[7m--More--(3%)[27m[94m[K
+[7m--More--(3%)[27m[K	vir: positivo [0m
+[7m--More--(3%)[27m[91m[K
+[7m--More--(3%)[27m[K	glob: Termo Desconhecido[0m
+[7m--More--(3%)[27m[91m[K
+[7m--More--(3%)[27m[K	report: Termo Desconhecido[0m
+[7m--More--(3%)[27m[91m[K
+[7m--More--(3%)[27m[K	plen: Termo Desconhecido[0m
+[7m--More--(3%)[27m[92m[K
+[7m--More--(3%)[27m[K	nao: negativo [0m
+[7m--More--(3%)[27m[91m[K
+[7m--More--(3%)[27m[K	ajud: Termo Desconhecido[0m
+[7m--More--(3%)[27m[K
+[7m--More--(3%)[27m[K	Sentimento Provavel: negativo 
+[7m--More--(3%)[27m[K
+[7m--More--(4%)[27m[K
+[7m--More--(4%)[27m[K	Frase: Aprovação de Eduardo Campos supera a de Dilma no Recife http://t.co/8lFfOArfB3 via @blogmarioflavio
+[7m--More--(4%)[27m [K
+[7m--More--(4%)[27m[K
+[7m--More--(4%)[27m[K	Normalizado: aprovacao de eduardo campos supera a de dilma no recife url via at_user  
+[7m--More--(4%)[27m[K
+[7m--More--(4%)[27m[K	Caracteristicas - [u'aprovaca', u'eduard', u'camp', u'sup', u'recif'] 
+[7m--More--(4%)[27m[91m[K
+[7m--More--(4%)[27m[K	aprovaca: Termo Desconhecido[0m
+[7m--More--(4%)[27m[91m[K
+[7m--More--(4%)[27m[K	eduard: Termo Desconhecido[0m
+[7m--More--(4%)[27m[91m[K
+[7m--More--(4%)[27m[K	camp: Termo Desconhecido[0m
+[7m--More--(4%)[27m[91m[K
+[7m--More--(4%)[27m[K	sup: Termo Desconhecido[0m
+[7m--More--(4%)[27m[91m[K
+[7m--More--(4%)[27m[K	recif: Termo Desconhecido[0m
+[7m--More--(4%)[27m[91m[K
+[7m--More--(4%)[27m[K	Avaliação Impossível 
+[7m--More--(4%)[27m[K
+[7m--More--(4%)[27m[0m[K
+[7m--More--(4%)[27m[K
+[7m--More--(4%)[27m[K	Frase: AvrilWeNeedM&amp;G mas quando veem os preços só faltam ir no planalto e reclamar pra Dilma
+[7m--More--(5%)[27m [K
+[7m--More--(5%)[27m[K
+[7m--More--(5%)[27m[K	Normalizado: avrilweneedm&amp;g mas quando veem os precos so faltam ir no planalto e reclamar pra dilma  
+[7m--More--(5%)[27m[K
+[7m--More--(5%)[27m[K	Caracteristicas - [u've', u'prec', 'so', u'falt', 'ir', u'planalt', u'reclam', 'pra'] 
+[7m--More--(5%)[27m[91m[K
+[7m--More--(5%)[27m[K	ve: Termo Desconhecido[0m
+[7m--More--(5%)[27m[91m[K
+[7m--More--(5%)[27m[K	prec: Termo Desconhecido[0m
+[7m--More--(5%)[27m[94m[K
+[7m--More--(5%)[27m[K	so: positivo [0m
+[7m--More--(5%)[27m[91m[K
+[7m--More--(5%)[27m[K	falt: Termo Desconhecido[0m
+[7m--More--(5%)[27m[91m[K
+[7m--More--(5%)[27m[K	ir: Termo Desconhecido[0m
+[7m--More--(5%)[27m[91m[K
+[7m--More--(5%)[27m[K	planalt: Termo Desconhecido[0m
+[7m--More--(5%)[27m[91m[K
+[7m--More--(5%)[27m[K	reclam: Termo Desconhecido[0m
+[7m--More--(6%)[27m[94m[K
+[7m--More--(6%)[27m[K	pra: positivo [0m
+[7m--More--(6%)[27m[K
+[7m--More--(6%)[27m[K	Sentimento Provavel: positivo 
+[7m--More--(6%)[27m[K
+[7m--More--(6%)[27m[K
+[7m--More--(6%)[27m[K	Frase: Biafra is our Right and we must have it @EU_Commission @dilmabr Dilma @TonyAbbottMHR @marianorajoy #Biafra #indigenouspeopleofBia
+[7m--More--(6%)[27mfra RT[K
+[7m--More--(6%)[27m [K
+[7m--More--(6%)[27m[K
+[7m--More--(6%)[27m[K	Normalizado: biafra is our right and we must have it at_user at_user dilma at_user at_user biafra indigenouspeopleofbiafra rt  
+[7m--More--(6%)[27m[K
+[7m--More--(6%)[27m[K	Caracteristicas - [u'biafr', 'is', 'our', 'right', 'and', 'we', 'must', u'hav', 'it', u'indigenouspeopleofbiafr'] 
+[7m--More--(6%)[27m[91m[K
+[7m--More--(6%)[27m[K	biafr: Termo Desconhecido[0m
+[7m--More--(6%)[27m[91m[K
+[7m--More--(6%)[27m[K	is: Termo Desconhecido[0m
+[7m--More--(7%)[27m[91m[K
+[7m--More--(7%)[27m[K	our: Termo Desconhecido[0m
+[7m--More--(7%)[27m[91m[K
+[7m--More--(7%)[27m[K	right: Termo Desconhecido[0m
+[7m--More--(7%)[27m[91m[K
+[7m--More--(7%)[27m[K	and: Termo Desconhecido[0m
+[7m--More--(7%)[27m[91m[K
+[7m--More--(7%)[27m[K	we: Termo Desconhecido[0m
+[7m--More--(7%)[27m[91m[K
+[7m--More--(7%)[27m[K	must: Termo Desconhecido[0m
+[7m--More--(7%)[27m[91m[K
+[7m--More--(7%)[27m[K	hav: Termo Desconhecido[0m
+[7m--More--(7%)[27m[91m[K
+[7m--More--(7%)[27m[K	it: Termo Desconhecido[0m
+[7m--More--(7%)[27m[91m[K
+[7m--More--(7%)[27m[K	indigenouspeopleofbiafr: Termo Desconhecido[0m
+[7m--More--(7%)[27m[91m[K
+[7m--More--(7%)[27m[K	Avaliação Impossível 
+[7m--More--(7%)[27m[K
+[7m--More--(7%)[27m[0m[K
+[7m--More--(7%)[27m[K
+[7m--More--(7%)[27m[K	Frase: Blerghs ~&gt; RT @obsrvatorio: Só pesquisa traz boas notícias para governo Dilma http://t.co/pX6ZIAUcp9
+[7m--More--(7%)[27m [K
+[7m--More--(7%)[27m[K
+[7m--More--(7%)[27m[K	Normalizado: blerghs ~&gt; rt at_user so pesquisa traz boas noticias para governo dilma url  
+[7m--More--(8%)[27m[K
+[7m--More--(8%)[27m[K	Caracteristicas - [u'blergh', 'so', 'traz', u'boa', u'notic'] 
+[7m--More--(8%)[27m[91m[K
+[7m--More--(8%)[27m[K	blergh: Termo Desconhecido[0m
+[7m--More--(8%)[27m[94m[K
+[7m--More--(8%)[27m[K	so: positivo [0m
+[7m--More--(8%)[27m[91m[K
+[7m--More--(8%)[27m[K	traz: Termo Desconhecido[0m
+[7m--More--(8%)[27m[91m[K
+[7m--More--(8%)[27m[K	boa: Termo Desconhecido[0m
+[7m--More--(8%)[27m[91m[K
+[7m--More--(8%)[27m[K	notic: Termo Desconhecido[0m
+[7m--More--(8%)[27m[K
+[7m--More--(8%)[27m[K	Sentimento Provavel: negativo 
+[7m--More--(8%)[27m[K
+[7m--More--(8%)[27m[K
+[7m--More--(8%)[27m[K	Frase: Bom demais! Vampiro Serra agora está apoiando Dilma…Por Zé Dirceu: http://t.co/ybiDVD6TCd Blog A Justiceira
+[7m--More--(8%)[27m [K
+[7m--More--(8%)[27m[K
+[7m--More--(8%)[27m[K	Normalizado: bom demais. vampiro serra agora esta apoiando dilma...por ze dirceu: url blog a justiceira  
+[7m--More--(9%)[27m[K
+[7m--More--(9%)[27m[K	Caracteristicas - [u'demal', u'vampir', u'apoi', u'dilmap', 'ze', u'dirc', u'justic'] 
+[7m--More--(9%)[27m[91m[K
+[7m--More--(9%)[27m[K	demal: Termo Desconhecido[0m
+[7m--More--(9%)[27m[91m[K
+[7m--More--(9%)[27m[K	vampir: Termo Desconhecido[0m
+[7m--More--(9%)[27m[94m[K
+[7m--More--(9%)[27m[K	apoi: positivo [0m
+[7m--More--(9%)[27m[91m[K
+[7m--More--(9%)[27m[K	dilmap: Termo Desconhecido[0m
+[7m--More--(9%)[27m[91m[K
+[7m--More--(9%)[27m[K	ze: Termo Desconhecido[0m
+[7m--More--(9%)[27m[91m[K
+[7m--More--(9%)[27m[K	dirc: Termo Desconhecido[0m
+[7m--More--(9%)[27m[91m[K
+[7m--More--(9%)[27m[K	justic: Termo Desconhecido[0m
+[7m--More--(9%)[27m[K
+[7m--More--(9%)[27m[K	Sentimento Provavel: positivo 
+[7m--More--(9%)[27m[K
+[7m--More--(9%)[27m[K
+[7m--More--(9%)[27m[K	Frase: Bom, o importante é que ano que vem é Dilma-lá! 
+[7m--More--(9%)[27m [K
+[7m--More--(9%)[27m[K
+[7m--More--(9%)[27m[K	Normalizado: bom, o importante e que ano que vem e dilma-la.  
+[7m--More--(10%)[27m[K
+[7m--More--(10%)[27m[K	Caracteristicas - [u'import'] 
+[7m--More--(10%)[27m[91m[K
+[7m--More--(10%)[27m[K	import: Termo Desconhecido[0m
+[7m--More--(10%)[27m[91m[K
+[7m--More--(10%)[27m[K	Avaliação Impossível 
+[7m--More--(10%)[27m[K
+[7m--More--(10%)[27m[0m[K
+[7m--More--(10%)[27m[K
+[7m--More--(10%)[27m[K	Frase: "Cinismo e mentira viraram métodos de governo ou de defesa do governo."(Serge Goulart) http://t.co/hGeCM7xbZl via @SergeGoulart
+[7m--More--(10%)[27m [K
+[7m--More--(10%)[27m[K
+[7m--More--(10%)[27m[K	Normalizado: cinismo e mentira viraram metodos de governo ou de defesa do governo."(serge goulart) url via at_user  
+[7m--More--(10%)[27m[K
+[7m--More--(10%)[27m[K	Caracteristicas - [u'cinism', u'ment', u'vir', u'metod', u'def\xeas'] 
+[7m--More--(10%)[27m[91m[K
+[7m--More--(10%)[27m[K	cinism: Termo Desconhecido[0m
+[7m--More--(11%)[27m[92m[K
+[7m--More--(11%)[27m[K	ment: negativo [0m
+[7m--More--(11%)[27m[94m[K
+[7m--More--(11%)[27m[K	vir: positivo [0m
+[7m--More--(11%)[27m[91m[K
+[7m--More--(11%)[27m[K	metod: Termo Desconhecido[0m
+[7m--More--(11%)[27m[91m[K
+[7m--More--(11%)[27m[K	defês: Termo Desconhecido[0m
+[7m--More--(11%)[27m[K
+[7m--More--(11%)[27m[K	Sentimento Provavel: negativo 
+[7m--More--(11%)[27m[K
+[7m--More--(11%)[27m[K
+[7m--More--(11%)[27m[K	Frase: como o PT tem coragem de fazer isto com o povo??? http://t.co/zvjXTxuuJQ
+[7m--More--(11%)[27m [K
+[7m--More--(11%)[27m[K
+[7m--More--(11%)[27m[K	Normalizado: como o pt tem coragem de fazer isto com o povo??? url  
+[7m--More--(11%)[27m[K
+[7m--More--(11%)[27m[K	Caracteristicas - [u'corag'] 
+[7m--More--(11%)[27m[94m[K
+[7m--More--(11%)[27m[K	corag: positivo [0m
+[7m--More--(11%)[27m[K
+[7m--More--(11%)[27m[K	Sentimento Provavel: positivo 
+[7m--More--(11%)[27m[K
+[7m--More--(11%)[27m[K
+[7m--More--(11%)[27m[K	Frase: Concluído PED, PT prioriza reeleição de Dilma e programa para disputar Governo do Estado em 2014 http://t.co/1REC8iYjIc via @Tony
+[7m--More--(12%)[27mShowOficial[K
+[7m--More--(12%)[27m [K
+[7m--More--(12%)[27m[K
+[7m--More--(12%)[27m[K	Normalizado: concluido ped, pt prioriza reeleicao de dilma e programa para disputar governo do estado em 2014 url via at_user  
+[7m--More--(12%)[27m[K
+[7m--More--(12%)[27m[K	Caracteristicas - [u'conclu', u'prioriz', u'reeleica', u'disput'] 
+[7m--More--(12%)[27m[91m[K
+[7m--More--(12%)[27m[K	conclu: Termo Desconhecido[0m
+[7m--More--(12%)[27m[91m[K
+[7m--More--(12%)[27m[K	prioriz: Termo Desconhecido[0m
+[7m--More--(12%)[27m[91m[K
+[7m--More--(12%)[27m[K	reeleica: Termo Desconhecido[0m
+[7m--More--(12%)[27m[91m[K
+[7m--More--(12%)[27m[K	disput: Termo Desconhecido[0m
+[7m--More--(12%)[27m[91m[K
+[7m--More--(12%)[27m[K	Avaliação Impossível 
+[7m--More--(12%)[27m[K
+[7m--More--(12%)[27m[0m[K
+[7m--More--(12%)[27m[K
+[7m--More--(12%)[27m[K	Frase: @diImabr rsrsrs dilma...q isso?? rsrsrs copa do brasil hj não.rsrs
+[7m--More--(13%)[27m [K
+[7m--More--(13%)[27m[K
+[7m--More--(13%)[27m[K	Normalizado: at_user rsrsrs dilma...q isso?? rsrsrs copa do brasil hj nao.rsrs  
+[7m--More--(13%)[27m[K
+[7m--More--(13%)[27m[K	Caracteristicas - [u'rsrsr', 'dilmaq', 'hj', u'naorsr'] 
+[7m--More--(13%)[27m[91m[K
+[7m--More--(13%)[27m[K	rsrsr: Termo Desconhecido[0m
+[7m--More--(13%)[27m[91m[K
+[7m--More--(13%)[27m[K	dilmaq: Termo Desconhecido[0m
+[7m--More--(13%)[27m[91m[K
+[7m--More--(13%)[27m[K	hj: Termo Desconhecido[0m
+[7m--More--(13%)[27m[91m[K
+[7m--More--(13%)[27m[K	naorsr: Termo Desconhecido[0m
+[7m--More--(13%)[27m[91m[K
+[7m--More--(13%)[27m[K	Avaliação Impossível 
+[7m--More--(13%)[27m[K
+[7m--More--(13%)[27m[0m[K
+[7m--More--(13%)[27m[K
+[7m--More--(13%)[27m[K	Frase: #Dilma2014 &gt; Campos supera Dilma nas intenções de voto, mas só no Recife - CdB | Jornal Correio do Brasil http://t.co/3ZajcJWK
+[7m--More--(13%)[27mNo[K
+[7m--More--(13%)[27m [K
+[7m--More--(13%)[27m[K
+[7m--More--(13%)[27m[K	Normalizado: dilma2014 &gt; campos supera dilma nas intencoes de voto, mas so no recife - cdb | jornal correio do brasil url  
+[7m--More--(14%)[27m[K
+[7m--More--(14%)[27m[K	Caracteristicas - ['dilma2014', u'camp', u'sup', u'intenco', 'so', u'recif', 'cdb', u'jorn', u'correi'] 
+[7m--More--(14%)[27m[91m[K
+[7m--More--(14%)[27m[K	dilma2014: Termo Desconhecido[0m
+[7m--More--(14%)[27m[91m[K
+[7m--More--(14%)[27m[K	camp: Termo Desconhecido[0m
+[7m--More--(14%)[27m[91m[K
+[7m--More--(14%)[27m[K	sup: Termo Desconhecido[0m
+[7m--More--(14%)[27m[91m[K
+[7m--More--(14%)[27m[K	intenco: Termo Desconhecido[0m
+[7m--More--(14%)[27m[94m[K
+[7m--More--(14%)[27m[K	so: positivo [0m
+[7m--More--(14%)[27m[91m[K
+[7m--More--(14%)[27m[K	recif: Termo Desconhecido[0m
+[7m--More--(14%)[27m[91m[K
+[7m--More--(14%)[27m[K	cdb: Termo Desconhecido[0m
+[7m--More--(14%)[27m[91m[K
+[7m--More--(14%)[27m[K	jorn: Termo Desconhecido[0m
+[7m--More--(14%)[27m[91m[K
+[7m--More--(15%)[27m[K	correi: Termo Desconhecido[0m
+[7m--More--(15%)[27m[K
+[7m--More--(15%)[27m[K	Sentimento Provavel: negativo 
+[7m--More--(15%)[27m[K
+[7m--More--(15%)[27m[K
+[7m--More--(15%)[27m[K	Frase: Dilma bem que podia criar o bolsa ingresso para favorecer a nação.
+[7m--More--(15%)[27m [K
+[7m--More--(15%)[27m[K
+[7m--More--(15%)[27m[K	Normalizado: dilma bem que podia criar o bolsa ingresso para favorecer a nacao.  
+[7m--More--(15%)[27m[K
+[7m--More--(15%)[27m[K	Caracteristicas - [u'pod', u'cri', u'bols', u'ingress', u'favorec', u'naca'] 
+[7m--More--(15%)[27m[94m[K
+[7m--More--(15%)[27m[K	pod: positivo [0m
+[7m--More--(15%)[27m[91m[K
+[7m--More--(15%)[27m[K	cri: Termo Desconhecido[0m
+[7m--More--(15%)[27m[91m[K
+[7m--More--(15%)[27m[K	bols: Termo Desconhecido[0m
+[7m--More--(15%)[27m[91m[K
+[7m--More--(15%)[27m[K	ingress: Termo Desconhecido[0m
+[7m--More--(15%)[27m[91m[K
+[7m--More--(15%)[27m[K	favorec: Termo Desconhecido[0m
+[7m--More--(15%)[27m[91m[K
+[7m--More--(15%)[27m[K	naca: Termo Desconhecido[0m
+[7m--More--(16%)[27m[K
+[7m--More--(16%)[27m[K	Sentimento Provavel: positivo 
+[7m--More--(16%)[27m[K
+[7m--More--(16%)[27m[K
+[7m--More--(16%)[27m[K	Frase: “@dilmabr foi enganada por FBC sobre Canal do Sertão” afirma deputada. http://t.co/EsUJX8P8Md
+[7m--More--(16%)[27m [K
+[7m--More--(16%)[27m[K
+[7m--More--(16%)[27m[K	Normalizado: at_user foi enganada por fbc sobre canal do sertao afirma deputada. url  
+[7m--More--(16%)[27m[K
+[7m--More--(16%)[27m[K	Caracteristicas - [u'engan', 'fbc', 'canal', u'serta', u'deput'] 
+[7m--More--(16%)[27m[92m[K
+[7m--More--(16%)[27m[K	engan: negativo [0m
+[7m--More--(16%)[27m[91m[K
+[7m--More--(16%)[27m[K	fbc: Termo Desconhecido[0m
+[7m--More--(16%)[27m[91m[K
+[7m--More--(16%)[27m[K	canal: Termo Desconhecido[0m
+[7m--More--(16%)[27m[91m[K
+[7m--More--(16%)[27m[K	serta: Termo Desconhecido[0m
+[7m--More--(16%)[27m[91m[K
+[7m--More--(16%)[27m[K	deput: Termo Desconhecido[0m
+[7m--More--(16%)[27m[K
+[7m--More--(16%)[27m[K	Sentimento Provavel: negativo 
+[7m--More--(17%)[27m[K
+[7m--More--(17%)[27m[K
+[7m--More--(17%)[27m[K	Frase: @dilmabr Só pesquisa traz boas notícias para governo Dilma http://t.co/lfuil4s7M3
+[7m--More--(17%)[27m [K
+[7m--More--(17%)[27m[K
+[7m--More--(17%)[27m[K	Normalizado: at_user so pesquisa traz boas noticias para governo dilma url  
+[7m--More--(17%)[27m[K
+[7m--More--(17%)[27m[K	Caracteristicas - ['so', 'traz', u'boa', u'notic'] 
+[7m--More--(17%)[27m[94m[K
+[7m--More--(17%)[27m[K	so: positivo [0m
+[7m--More--(17%)[27m[91m[K
+[7m--More--(17%)[27m[K	traz: Termo Desconhecido[0m
+[7m--More--(17%)[27m[91m[K
+[7m--More--(17%)[27m[K	boa: Termo Desconhecido[0m
+[7m--More--(17%)[27m[91m[K
+[7m--More--(17%)[27m[K	notic: Termo Desconhecido[0m
+[7m--More--(17%)[27m[K
+[7m--More--(17%)[27m[K	Sentimento Provavel: negativo 
+[7m--More--(17%)[27m[K
+[7m--More--(17%)[27m[K
+[7m--More--(17%)[27m[K	Frase: @dilmabr Viu Dilma... me falaram que a senhora não quer contratar Agentes comunitários de saúde, e o salário deles é R$950 só ? Q
+[7m--More--(18%)[27mue FEIO !![K
+[7m--More--(18%)[27m [K
+[7m--More--(18%)[27m[K
+[7m--More--(18%)[27m[K	Normalizado: at_user viu dilma... me falaram que a senhora nao quer contratar agentes comunitarios de saude, e o salario deles e r$950 s
+[7m--More--(18%)[27mo ? que feio ..  
+[7m--More--(18%)[27m[K
+[7m--More--(18%)[27m[K	Caracteristicas - ['viu', u'fal', u'senh', 'nao', u'contrat', u'agent', u'comunitari', u'salari', 'so', u'fei'] 
+[7m--More--(18%)[27m[91m[K
+[7m--More--(18%)[27m[K	viu: Termo Desconhecido[0m
+[7m--More--(18%)[27m[91m[K
+[7m--More--(18%)[27m[K	fal: Termo Desconhecido[0m
+[7m--More--(18%)[27m[91m[K
+[7m--More--(18%)[27m[K	senh: Termo Desconhecido[0m
+[7m--More--(18%)[27m[92m[K
+[7m--More--(18%)[27m[K	nao: negativo [0m
+[7m--More--(18%)[27m[91m[K
+[7m--More--(18%)[27m[K	contrat: Termo Desconhecido[0m
+[7m--More--(18%)[27m[91m[K
+[7m--More--(18%)[27m[K	agent: Termo Desconhecido[0m
+[7m--More--(19%)[27m[91m[K
+[7m--More--(19%)[27m[K	comunitari: Termo Desconhecido[0m
+[7m--More--(19%)[27m[91m[K
+[7m--More--(19%)[27m[K	salari: Termo Desconhecido[0m
+[7m--More--(19%)[27m[94m[K
+[7m--More--(19%)[27m[K	so: positivo [0m
+[7m--More--(19%)[27m[91m[K
+[7m--More--(19%)[27m[K	fei: Termo Desconhecido[0m
+[7m--More--(19%)[27m[K
+[7m--More--(19%)[27m[K	Sentimento Provavel: negativo 
+[7m--More--(19%)[27m[K
+[7m--More--(19%)[27m[K
+[7m--More--(19%)[27m[K	Frase: Dilma convoca empresários peruanos a investir em projetos de integração http://t.co/nFRED1dPhR
+[7m--More--(19%)[27m [K
+[7m--More--(19%)[27m[K
+[7m--More--(19%)[27m[K	Normalizado: dilma convoca empresarios peruanos a investir em projetos de integracao url  
+[7m--More--(19%)[27m[K
+[7m--More--(19%)[27m[K	Caracteristicas - [u'convoc', u'empresari', u'peru', u'invest', u'projet', u'integraca'] 
+[7m--More--(19%)[27m[91m[K
+[7m--More--(19%)[27m[K	convoc: Termo Desconhecido[0m
+[7m--More--(20%)[27m[91m[K
+[7m--More--(20%)[27m[K	empresari: Termo Desconhecido[0m
+[7m--More--(20%)[27m[91m[K
+[7m--More--(20%)[27m[K	peru: Termo Desconhecido[0m
+[7m--More--(20%)[27m[94m[K
+[7m--More--(20%)[27m[K	invest: positivo [0m
+[7m--More--(20%)[27m[91m[K
+[7m--More--(20%)[27m[K	projet: Termo Desconhecido[0m
+[7m--More--(20%)[27m[91m[K
+[7m--More--(20%)[27m[K	integraca: Termo Desconhecido[0m
+[7m--More--(20%)[27m[K
+[7m--More--(20%)[27m[K	Sentimento Provavel: positivo 
+[7m--More--(20%)[27m[K
+[7m--More--(20%)[27m[K
+[7m--More--(20%)[27m[K	Frase: Dilma convocará para a próxima terça-feira(19)uma reunião para debater o compromisso pela não aprovação de projetos que resultem 
+[7m--More--(20%)[27mem despesas[K
+[7m--More--(20%)[27m [K
+[7m--More--(20%)[27m[K
+[7m--More--(20%)[27m[K	Normalizado: dilma convocara para a proxima terca-feira(19)uma reuniao para debater o compromisso pela nao aprovacao de projetos que res
+[7m--More--(21%)[27multem em despesas  
+[7m--More--(21%)[27m[K
+[7m--More--(21%)[27m[K	Caracteristicas - [u'convoc', u'prox', u'reunia', u'debat', u'compromiss', 'nao', u'aprovaca', u'projet', u'result', u'desp'] 
+[7m--More--(21%)[27m[91m[K
+[7m--More--(21%)[27m[K	convoc: Termo Desconhecido[0m
+[7m--More--(21%)[27m[91m[K
+[7m--More--(21%)[27m[K	prox: Termo Desconhecido[0m
+[7m--More--(21%)[27m[91m[K
+[7m--More--(21%)[27m[K	reunia: Termo Desconhecido[0m
+[7m--More--(21%)[27m[91m[K
+[7m--More--(21%)[27m[K	debat: Termo Desconhecido[0m
+[7m--More--(21%)[27m[91m[K
+[7m--More--(21%)[27m[K	compromiss: Termo Desconhecido[0m
+[7m--More--(21%)[27m[92m[K
+[7m--More--(21%)[27m[K	nao: negativo [0m
+[7m--More--(21%)[27m[91m[K
+[7m--More--(21%)[27m[K	aprovaca: Termo Desconhecido[0m
+[7m--More--(21%)[27m[91m[K
+[7m--More--(21%)[27m[K	projet: Termo Desconhecido[0m
+[7m--More--(21%)[27m[91m[K
+[7m--More--(21%)[27m[K	result: Termo Desconhecido[0m
+[7m--More--(21%)[27m[91m[K
+[7m--More--(21%)[27m[K	desp: Termo Desconhecido[0m
+[7m--More--(22%)[27m[K
+[7m--More--(22%)[27m[K	Sentimento Provavel: negativo 
+[7m--More--(22%)[27m[K
+[7m--More--(22%)[27m[K
+[7m--More--(22%)[27m[K	Frase: Dilma eu odeio você seu cafetão do kpt
+[7m--More--(22%)[27m [K
+[7m--More--(22%)[27m[K
+[7m--More--(22%)[27m[K	Normalizado: dilma eu odeio voce seu cafetao do kpt  
+[7m--More--(22%)[27m[K
+[7m--More--(22%)[27m[K	Caracteristicas - [u'odei', u'cafeta', 'kpt'] 
+[7m--More--(22%)[27m[91m[K
+[7m--More--(22%)[27m[K	odei: Termo Desconhecido[0m
+[7m--More--(22%)[27m[91m[K
+[7m--More--(22%)[27m[K	cafeta: Termo Desconhecido[0m
+[7m--More--(22%)[27m[91m[K
+[7m--More--(22%)[27m[K	kpt: Termo Desconhecido[0m
+[7m--More--(22%)[27m[91m[K
+[7m--More--(22%)[27m[K	Avaliação Impossível 
+[7m--More--(22%)[27m[K
+[7m--More--(22%)[27m[0m[K
+[7m--More--(22%)[27m[K
+[7m--More--(22%)[27m[K	Frase: dilma fez um discurso em favor dos mensaleiros...
+[7m--More--(22%)[27m [K
+[7m--More--(22%)[27m[K
+[7m--More--(22%)[27m[K	Normalizado: dilma fez um discurso em favor dos mensaleiros...  
+[7m--More--(22%)[27m[K
+[7m--More--(22%)[27m[K	Caracteristicas - [u'discurs', 'favor', u'mensal'] 
+[7m--More--(23%)[27m[91m[K
+[7m--More--(23%)[27m[K	discurs: Termo Desconhecido[0m
+[7m--More--(23%)[27m[91m[K
+[7m--More--(23%)[27m[K	favor: Termo Desconhecido[0m
+[7m--More--(23%)[27m[91m[K
+[7m--More--(23%)[27m[K	mensal: Termo Desconhecido[0m
+[7m--More--(23%)[27m[91m[K
+[7m--More--(23%)[27m[K	Avaliação Impossível 
+[7m--More--(23%)[27m[K
+[7m--More--(23%)[27m[0m[K
+[7m--More--(23%)[27m[K
+[7m--More--(23%)[27m[K	Frase: “Dilma foi enganada por Fernando Bezerra Coelho sobre Canal do Sertão” afirma deputada. http://t.co/EsUJX8P8Md
+[7m--More--(23%)[27m [K
+[7m--More--(23%)[27m[K
+[7m--More--(23%)[27m[K	Normalizado: dilma foi enganada por fernando bezerra coelho sobre canal do sertao afirma deputada. url  
+[7m--More--(23%)[27m[K
+[7m--More--(23%)[27m[K	Caracteristicas - [u'engan', u'bezerr', u'coelh', 'canal', u'serta', u'deput'] 
+[7m--More--(23%)[27m[92m[K
+[7m--More--(23%)[27m[K	engan: negativo [0m
+[7m--More--(24%)[27m[91m[K
+[7m--More--(24%)[27m[K	bezerr: Termo Desconhecido[0m
+[7m--More--(24%)[27m[91m[K
+[7m--More--(24%)[27m[K	coelh: Termo Desconhecido[0m
+[7m--More--(24%)[27m[91m[K
+[7m--More--(24%)[27m[K	canal: Termo Desconhecido[0m
+[7m--More--(24%)[27m[91m[K
+[7m--More--(24%)[27m[K	serta: Termo Desconhecido[0m
+[7m--More--(24%)[27m[91m[K
+[7m--More--(24%)[27m[K	deput: Termo Desconhecido[0m
+[7m--More--(24%)[27m[K
+[7m--More--(24%)[27m[K	Sentimento Provavel: negativo 
+[7m--More--(24%)[27m[K
+[7m--More--(24%)[27m[K
+[7m--More--(24%)[27m[K	Frase: Dilma já tem bode expiatório para casos de atraso de obra: o Tribunal de Contas http://t.co/vbuBk9NWVt via @VEJA
+[7m--More--(24%)[27m [K
+[7m--More--(24%)[27m[K
+[7m--More--(24%)[27m[K	Normalizado: dilma ja tem bode expiatorio para casos de atraso de obra: o tribunal de contas url via at_user  
+[7m--More--(24%)[27m[K
+[7m--More--(24%)[27m[K	Caracteristicas - [u'bod', u'expiatori', u'cas', u'atras', u'obr', u'tribun', u'cont'] 
+[7m--More--(25%)[27m[91m[K
+[7m--More--(25%)[27m[K	bod: Termo Desconhecido[0m
+[7m--More--(25%)[27m[91m[K
+[7m--More--(25%)[27m[K	expiatori: Termo Desconhecido[0m
+[7m--More--(25%)[27m[91m[K
+[7m--More--(25%)[27m[K	cas: Termo Desconhecido[0m
+[7m--More--(25%)[27m[91m[K
+[7m--More--(25%)[27m[K	atras: Termo Desconhecido[0m
+[7m--More--(25%)[27m[92m[K
+[7m--More--(25%)[27m[K	obr: negativo [0m
+[7m--More--(25%)[27m[91m[K
+[7m--More--(25%)[27m[K	tribun: Termo Desconhecido[0m
+[7m--More--(25%)[27m[91m[K
+[7m--More--(25%)[27m[K	cont: Termo Desconhecido[0m
+[7m--More--(25%)[27m[K
+[7m--More--(25%)[27m[K	Sentimento Provavel: negativo 
+[7m--More--(25%)[27m[K
+[7m--More--(25%)[27m[K
+[7m--More--(25%)[27m[K	Frase: Dilma joga damas; Lula, xadrez - LUIZ CARLOS AZEDO http://t.co/DZtsE9J1gD
+[7m--More--(25%)[27m [K
+[7m--More--(25%)[27m[K
+[7m--More--(25%)[27m[K	Normalizado: dilma joga damas; lula, xadrez - luiz carlos azedo url  
+[7m--More--(25%)[27m[K
+[7m--More--(25%)[27m[K	Caracteristicas - [u'jog', u'xadr', 'luiz', u'azed'] 
+[7m--More--(26%)[27m[91m[K
+[7m--More--(26%)[27m[K	jog: Termo Desconhecido[0m
+[7m--More--(26%)[27m[91m[K
+[7m--More--(26%)[27m[K	xadr: Termo Desconhecido[0m
+[7m--More--(26%)[27m[91m[K
+[7m--More--(26%)[27m[K	luiz: Termo Desconhecido[0m
+[7m--More--(26%)[27m[91m[K
+[7m--More--(26%)[27m[K	azed: Termo Desconhecido[0m
+[7m--More--(26%)[27m[91m[K
+[7m--More--(26%)[27m[K	Avaliação Impossível 
+[7m--More--(26%)[27m[K
+[7m--More--(26%)[27m[0m[K
+[7m--More--(26%)[27m[K
+[7m--More--(26%)[27m[K	Frase: Dilma kirida, tá na hora de criar o "bolsa rolé" pra quem quer sair com os amigos mais não tem dinheiro
+[7m--More--(26%)[27m [K
+[7m--More--(26%)[27m[K
+[7m--More--(26%)[27m[K	Normalizado: dilma kirida, ta na hora de criar o "bolsa role" pra quem quer sair com os amigos mais nao tem dinheiro  
+[7m--More--(26%)[27m[K
+[7m--More--(26%)[27m[K	Caracteristicas - [u'hor', u'cri', 'pra', 'sair', u'amig', 'nao'] 
+[7m--More--(27%)[27m[92m[K
+[7m--More--(27%)[27m[K	hor: negativo [0m
+[7m--More--(27%)[27m[91m[K
+[7m--More--(27%)[27m[K	cri: Termo Desconhecido[0m
+[7m--More--(27%)[27m[94m[K
+[7m--More--(27%)[27m[K	pra: positivo [0m
+[7m--More--(27%)[27m[91m[K
+[7m--More--(27%)[27m[K	sair: Termo Desconhecido[0m
+[7m--More--(27%)[27m[91m[K
+[7m--More--(27%)[27m[K	amig: Termo Desconhecido[0m
+[7m--More--(27%)[27m[92m[K
+[7m--More--(27%)[27m[K	nao: negativo [0m
+[7m--More--(27%)[27m[K
+[7m--More--(27%)[27m[K	Sentimento Provavel: negativo 
+[7m--More--(27%)[27m[K
+[7m--More--(27%)[27m[K
+[7m--More--(27%)[27m[K	Frase: Dilma nega crise, mas pede para "puxarem freio" nos gastos http://t.co/gL2YcxIcZQ
+[7m--More--(27%)[27m [K
+[7m--More--(27%)[27m[K
+[7m--More--(27%)[27m[K	Normalizado: dilma nega crise, mas pede para "puxarem freio" nos gastos url  
+[7m--More--(27%)[27m[K
+[7m--More--(27%)[27m[K	Caracteristicas - [u'neg', u'ped', u'gast'] 
+[7m--More--(27%)[27m[91m[K
+[7m--More--(27%)[27m[K	neg: Termo Desconhecido[0m
+[7m--More--(27%)[27m[92m[K
+[7m--More--(27%)[27m[K	ped: negativo [0m
+[7m--More--(28%)[27m[92m[K
+[7m--More--(28%)[27m[K	gast: negativo [0m
+[7m--More--(28%)[27m[K
+[7m--More--(28%)[27m[K	Sentimento Provavel: negativo 
+[7m--More--(28%)[27m[K
+[7m--More--(28%)[27m[K
+[7m--More--(28%)[27m[K	Frase: DILMA Ñ OFERECE MAIS RISCO AO BRASIL, POIS NÃO DEVERA MAIS SER REELEITA. O PROBLEMA É A PERDA DE PATRIMONIO DA PETROBRAS. IRRECUP
+[7m--More--(28%)[27mERAVEL[K
+[7m--More--(28%)[27m [K
+[7m--More--(28%)[27m[K
+[7m--More--(28%)[27m[K	Normalizado: dilma n oferece mais risco ao brasil, pois nao devera mais ser reeleita. o problema e a perda de patrimonio da petrobras. i
+[7m--More--(28%)[27mrrecuperavel  
+[7m--More--(28%)[27m[K
+[7m--More--(28%)[27m[K	Caracteristicas - [u'oferec', u'risc', u'poi', 'nao', u'dev', u'reeleit', u'perd', u'patrimoni', u'petrobr', u'irrecupera'] 
+[7m--More--(28%)[27m[91m[K
+[7m--More--(28%)[27m[K	oferec: Termo Desconhecido[0m
+[7m--More--(29%)[27m[91m[K
+[7m--More--(29%)[27m[K	risc: Termo Desconhecido[0m
+[7m--More--(29%)[27m[91m[K
+[7m--More--(29%)[27m[K	poi: Termo Desconhecido[0m
+[7m--More--(29%)[27m[92m[K
+[7m--More--(29%)[27m[K	nao: negativo [0m
+[7m--More--(29%)[27m[92m[K
+[7m--More--(29%)[27m[K	dev: negativo [0m
+[7m--More--(29%)[27m[94m[K
+[7m--More--(29%)[27m[K	reeleit: positivo [0m
+[7m--More--(29%)[27m[91m[K
+[7m--More--(29%)[27m[K	perd: Termo Desconhecido[0m
+[7m--More--(29%)[27m[91m[K
+[7m--More--(29%)[27m[K	patrimoni: Termo Desconhecido[0m
+[7m--More--(29%)[27m[91m[K
+[7m--More--(29%)[27m[K	petrobr: Termo Desconhecido[0m
+[7m--More--(29%)[27m[91m[K
+[7m--More--(29%)[27m[K	irrecupera: Termo Desconhecido[0m
+[7m--More--(29%)[27m[K
+[7m--More--(29%)[27m[K	Sentimento Provavel: negativo 
+[7m--More--(29%)[27m[K
+[7m--More--(29%)[27m[K
+[7m--More--(29%)[27m[K	Frase: dilma, o povo sofre de indignidade...
+[7m--More--(29%)[27m [K
+[7m--More--(29%)[27m[K
+[7m--More--(29%)[27m[K	Normalizado: dilma, o povo sofre de indignidade...  
+[7m--More--(29%)[27m[K
+[7m--More--(29%)[27m[K	Caracteristicas - [u'sofr', u'indign'] 
+[7m--More--(30%)[27m[92m[K
+[7m--More--(30%)[27m[K	sofr: negativo [0m
+[7m--More--(30%)[27m[91m[K
+[7m--More--(30%)[27m[K	indign: Termo Desconhecido[0m
+[7m--More--(30%)[27m[K
+[7m--More--(30%)[27m[K	Sentimento Provavel: negativo 
+[7m--More--(30%)[27m[K
+[7m--More--(30%)[27m[K
+[7m--More--(30%)[27m[K	Frase: DILMA QUER UM PACTO COM OS ALIADOS NA CÂMARA FEDERAL PARA NÃO VOTAREM O PISO SALARIAL NACIONAL DOS ACS E ACE.
+[7m--More--(30%)[27m [K
+[7m--More--(30%)[27m[K
+[7m--More--(30%)[27m[K	Normalizado: dilma quer um pacto com os aliados na camara federal para nao votarem o piso salarial nacional dos acs e ace.  
+[7m--More--(30%)[27m[K
+[7m--More--(30%)[27m[K	Caracteristicas - [u'pact', u'ali', 'nao', u'vot', u'pis', u'salar', u'ac', 'ace'] 
+[7m--More--(30%)[27m[91m[K
+[7m--More--(30%)[27m[K	pact: Termo Desconhecido[0m
+[7m--More--(30%)[27m[91m[K
+[7m--More--(30%)[27m[K	ali: Termo Desconhecido[0m
+[7m--More--(31%)[27m[92m[K
+[7m--More--(31%)[27m[K	nao: negativo [0m
+[7m--More--(31%)[27m[94m[K
+[7m--More--(31%)[27m[K	vot: positivo [0m
+[7m--More--(31%)[27m[91m[K
+[7m--More--(31%)[27m[K	pis: Termo Desconhecido[0m
+[7m--More--(31%)[27m[92m[K
+[7m--More--(31%)[27m[K	salar: negativo [0m
+[7m--More--(31%)[27m[91m[K
+[7m--More--(31%)[27m[K	ac: Termo Desconhecido[0m
+[7m--More--(31%)[27m[91m[K
+[7m--More--(31%)[27m[K	ace: Termo Desconhecido[0m
+[7m--More--(31%)[27m[K
+[7m--More--(31%)[27m[K	Sentimento Provavel: negativo 
+[7m--More--(31%)[27m[K
+[7m--More--(31%)[27m[K
+[7m--More--(31%)[27m[K	Frase: #dilma #senadores #deputados #sociedade #flatulentos #diarreia #eu #tu #ele #nós #vós #eles http://t.co/h8n41n1BlN
+[7m--More--(31%)[27m [K
+[7m--More--(31%)[27m[K
+[7m--More--(31%)[27m[K	Normalizado: dilma senadores deputados sociedade flatulentos diarreia eu tu ele nos vos eles url  
+[7m--More--(31%)[27m[K
+[7m--More--(31%)[27m[K	Caracteristicas - [u'sen', u'deput', u'flatulent', u'diarre'] 
+[7m--More--(32%)[27m[91m[K
+[7m--More--(32%)[27m[K	sen: Termo Desconhecido[0m
+[7m--More--(32%)[27m[91m[K
+[7m--More--(32%)[27m[K	deput: Termo Desconhecido[0m
+[7m--More--(32%)[27m[91m[K
+[7m--More--(32%)[27m[K	flatulent: Termo Desconhecido[0m
+[7m--More--(32%)[27m[91m[K
+[7m--More--(32%)[27m[K	diarre: Termo Desconhecido[0m
+[7m--More--(32%)[27m[91m[K
+[7m--More--(32%)[27m[K	Avaliação Impossível 
+[7m--More--(32%)[27m[K
+[7m--More--(32%)[27m[0m[K
+[7m--More--(32%)[27m[K
+[7m--More--(32%)[27m[K	Frase: Dilma terá de solucionar conflitos indígenas, diz Lula:  http://t.co/Mla0YYtKoK
+[7m--More--(32%)[27m [K
+[7m--More--(32%)[27m[K
+[7m--More--(32%)[27m[K	Normalizado: dilma tera de solucionar conflitos indigenas, diz lula: url  
+[7m--More--(32%)[27m[K
+[7m--More--(32%)[27m[K	Caracteristicas - [u'ter', u'soluc', u'conflit'] 
+[7m--More--(32%)[27m[91m[K
+[7m--More--(32%)[27m[K	ter: Termo Desconhecido[0m
+[7m--More--(32%)[27m[91m[K
+[7m--More--(32%)[27m[K	soluc: Termo Desconhecido[0m
+[7m--More--(32%)[27m[91m[K
+[7m--More--(32%)[27m[K	conflit: Termo Desconhecido[0m
+[7m--More--(33%)[27m[91m[K
+[7m--More--(33%)[27m[K	Avaliação Impossível 
+[7m--More--(33%)[27m[K
+[7m--More--(33%)[27m[0m[K
+[7m--More--(33%)[27m[K
+[7m--More--(33%)[27m[K	Frase: Dilma terá de solucionar conflitos indígenas, diz Lula http://t.co/qrr5Zg3M31
+[7m--More--(33%)[27m [K
+[7m--More--(33%)[27m[K
+[7m--More--(33%)[27m[K	Normalizado: dilma tera de solucionar conflitos indigenas, diz lula url  
+[7m--More--(33%)[27m[K
+[7m--More--(33%)[27m[K	Caracteristicas - [u'ter', u'soluc', u'conflit'] 
+[7m--More--(33%)[27m[91m[K
+[7m--More--(33%)[27m[K	ter: Termo Desconhecido[0m
+[7m--More--(33%)[27m[91m[K
+[7m--More--(33%)[27m[K	soluc: Termo Desconhecido[0m
+[7m--More--(33%)[27m[91m[K
+[7m--More--(33%)[27m[K	conflit: Termo Desconhecido[0m
+[7m--More--(33%)[27m[91m[K
+[7m--More--(33%)[27m[K	Avaliação Impossível 
+[7m--More--(33%)[27m[K
+[7m--More--(33%)[27m[0m[K
+[7m--More--(33%)[27m[K
+[7m--More--(33%)[27m[K	Frase: DILMA teve o menor crescimento do PIB da historia, só perdendo p/ as presidências Floriano Peixoto (meio a 1 longa guerra civil) 
+[7m--More--(34%)[27me Collor[K
+[7m--More--(34%)[27m [K
+[7m--More--(34%)[27m[K
+[7m--More--(34%)[27m[K	Normalizado: dilma teve o menor crescimento do pib da historia, so perdendo p/ as presidencias floriano peixoto (meio a 1 longa guerra c
+[7m--More--(34%)[27mivil) e collor  
+[7m--More--(34%)[27m[K
+[7m--More--(34%)[27m[K	Caracteristicas - [u'men', u'cresc', 'pib', 'so', u'perd', u'presidenc', u'flori', u'peixot', u'long', u'guerr', u'coll'] 
+[7m--More--(34%)[27m[91m[K
+[7m--More--(34%)[27m[K	men: Termo Desconhecido[0m
+[7m--More--(34%)[27m[94m[K
+[7m--More--(34%)[27m[K	cresc: positivo [0m
+[7m--More--(34%)[27m[91m[K
+[7m--More--(34%)[27m[K	pib: Termo Desconhecido[0m
+[7m--More--(34%)[27m[94m[K
+[7m--More--(34%)[27m[K	so: positivo [0m
+[7m--More--(34%)[27m[91m[K
+[7m--More--(34%)[27m[K	perd: Termo Desconhecido[0m
+[7m--More--(34%)[27m[94m[K
+[7m--More--(34%)[27m[K	presidenc: positivo [0m
+[7m--More--(35%)[27m[91m[K
+[7m--More--(35%)[27m[K	flori: Termo Desconhecido[0m
+[7m--More--(35%)[27m[91m[K
+[7m--More--(35%)[27m[K	peixot: Termo Desconhecido[0m
+[7m--More--(35%)[27m[91m[K
+[7m--More--(35%)[27m[K	long: Termo Desconhecido[0m
+[7m--More--(35%)[27m[91m[K
+[7m--More--(35%)[27m[K	guerr: Termo Desconhecido[0m
+[7m--More--(35%)[27m[91m[K
+[7m--More--(35%)[27m[K	coll: Termo Desconhecido[0m
+[7m--More--(35%)[27m[K
+[7m--More--(35%)[27m[K	Sentimento Provavel: positivo 
+[7m--More--(35%)[27m[K
+[7m--More--(35%)[27m[K
+[7m--More--(35%)[27m[K]0;root@Infoway: /media/silvio/Dados/Fatec/6_semestre/TG/versao3root@Infoway:/media/silvio/Dados/Fatec/6_semestre/TG/versao3# more tg_dilma_uniq
+Script started on Sáb 16 Nov 2013 17:17:53 BRST
+]0;root@Infoway: /media/silvio/Dados/Fatec/6_semestre/TG/versao3root@Infoway:/media/silvio/Dados/Fatec/6_semestre/TG/versao3# python testarTwitt
+er.py dilma
+[H[2J[94m
+		Análise de Sentimento
+		Assunto: DILMA [0m
+
+	Frase: A dilma quebrou tanto o país que até os jogadores de futebol tão fazendo greve Gauahauahauha #brasil
+ 
+
+	Normalizado: a dilma quebrou tanto o pais que ate os jogadores de futebol tao fazendo greve gauahauahauha brasil  
+
+	Caracteristicas - [u'quebr', u'tant', u'jog', 'futebol', u'faz', u'grev', u'gauahauahauh'] 
+[91m
+	quebr: Termo Desconhecido[0m
+[91m
+	tant: Termo Desconhecido[0m
+[91m
+	jog: Termo Desconhecido[0m
+[91m
+	futebol: Termo Desconhecido[0m
+[91m
+	faz: Termo Desconhecido[0m
+[91m
+	grev: Termo Desconhecido[0m
+[91m
+	gauahauahauh: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase: @antunesafonso putz pode cre cara, que nem a tua pra dilma
+ 
+
+	Normalizado: at_user putz pode cre cara, que nem a tua pra dilma  
+
+	Caracteristicas - ['putz', 'cre', 'pra'] 
+[91m
+	putz: Termo Desconhecido[0m
+[7m--More--(1%)[27m[91m[K
+[7m--More--(1%)[27m[K	cre: Termo Desconhecido[0m
+[7m--More--(1%)[27m[94m[K
+[7m--More--(1%)[27m[K	pra: positivo [0m
+[7m--More--(1%)[27m[K
+[7m--More--(1%)[27m[K	Sentimento Provavel: positivo 
+[7m--More--(1%)[27m[K
+[7m--More--(1%)[27m[K
+[7m--More--(1%)[27m[K	Frase: A prisão de Dirceu e Genoíno vai tomar 45' do Jornal Nacional, e virar um Globo Repórter. Em plena campanha de 2014, não ajudaria
+[7m--More--(1%)[27m a Dilma.[K
+[7m--More--(1%)[27m [K
+[7m--More--(1%)[27m[K
+[7m--More--(1%)[27m[K	Normalizado: a prisao de dirceu e genoino vai tomar 45' do jornal nacional, e virar um globo reporter. em plena campanha de 2014, nao aj
+[7m--More--(1%)[27mudaria a dilma.  
+[7m--More--(1%)[27m[K
+[7m--More--(1%)[27m[K	Caracteristicas - [u'prisa', u'dirc', u'genoin', u'tom', u'jorn', u'vir', u'glob', u'report', u'plen', 'nao', u'ajud'] 
+[7m--More--(1%)[27m[91m[K
+[7m--More--(1%)[27m[K	prisa: Termo Desconhecido[0m
+[7m--More--(1%)[27m[91m[K
+[7m--More--(1%)[27m[K	dirc: Termo Desconhecido[0m
+[7m--More--(1%)[27m[91m[K
+[7m--More--(1%)[27m[K	genoin: Termo Desconhecido[0m
+[7m--More--(1%)[27m[91m[K
+[7m--More--(1%)[27m[K	tom: Termo Desconhecido[0m
+[7m--More--(1%)[27m[91m[K
+[7m--More--(1%)[27m[K	jorn: Termo Desconhecido[0m
+[7m--More--(1%)[27m[94m[K
+[7m--More--(2%)[27m[K	vir: positivo [0m
+[7m--More--(2%)[27m[91m[K
+[7m--More--(2%)[27m[K	glob: Termo Desconhecido[0m
+[7m--More--(2%)[27m[91m[K
+[7m--More--(2%)[27m[K	report: Termo Desconhecido[0m
+[7m--More--(2%)[27m[91m[K
+[7m--More--(2%)[27m[K	plen: Termo Desconhecido[0m
+[7m--More--(2%)[27m[92m[K
+[7m--More--(2%)[27m[K	nao: negativo [0m
+[7m--More--(2%)[27m[91m[K
+[7m--More--(2%)[27m[K	ajud: Termo Desconhecido[0m
+[7m--More--(2%)[27m[K
+[7m--More--(2%)[27m[K	Sentimento Provavel: negativo 
+[7m--More--(2%)[27m[K
+[7m--More--(2%)[27m[K
+[7m--More--(2%)[27m[K	Frase: Aprovação de Eduardo Campos supera a de Dilma no Recife http://t.co/8lFfOArfB3 via @blogmarioflavio
+[7m--More--(2%)[27m [K
+[7m--More--(2%)[27m[K
+[7m--More--(2%)[27m[K	Normalizado: aprovacao de eduardo campos supera a de dilma no recife url via at_user  
+[7m--More--(2%)[27m[K
+[7m--More--(2%)[27m[K	Caracteristicas - [u'aprovaca', u'eduard', u'camp', u'sup', u'recif'] 
+[7m--More--(2%)[27m[91m[K
+[7m--More--(2%)[27m[K	aprovaca: Termo Desconhecido[0m
+[7m--More--(2%)[27m[91m[K
+[7m--More--(2%)[27m[K	eduard: Termo Desconhecido[0m
+[7m--More--(2%)[27m[91m[K
+[7m--More--(2%)[27m[K	camp: Termo Desconhecido[0m
+[7m--More--(2%)[27m[91m[K
+[7m--More--(2%)[27m[K	sup: Termo Desconhecido[0m
+[7m--More--(2%)[27m[91m[K
+[7m--More--(2%)[27m[K	recif: Termo Desconhecido[0m
+[7m--More--(2%)[27m[91m[K
+[7m--More--(2%)[27m[K	Avaliação Impossível 
+[7m--More--(2%)[27m[K
+[7m--More--(2%)[27m[0m[K
+[7m--More--(2%)[27m[K
+[7m--More--(2%)[27m[K	Frase: AvrilWeNeedM&amp;G mas quando veem os preços só faltam ir no planalto e reclamar pra Dilma
+[7m--More--(2%)[27m [K
+[7m--More--(2%)[27m[K
+[7m--More--(2%)[27m[K	Normalizado: avrilweneedm&amp;g mas quando veem os precos so faltam ir no planalto e reclamar pra dilma  
+[7m--More--(3%)[27m[K
+[7m--More--(3%)[27m[K	Caracteristicas - [u've', u'prec', 'so', u'falt', 'ir', u'planalt', u'reclam', 'pra'] 
+[7m--More--(3%)[27m[91m[K
+[7m--More--(3%)[27m[K	ve: Termo Desconhecido[0m
+[7m--More--(3%)[27m[91m[K
+[7m--More--(3%)[27m[K	prec: Termo Desconhecido[0m
+[7m--More--(3%)[27m[94m[K
+[7m--More--(3%)[27m[K	so: positivo [0m
+[7m--More--(3%)[27m[91m[K
+[7m--More--(3%)[27m[K	falt: Termo Desconhecido[0m
+[7m--More--(3%)[27m[91m[K
+[7m--More--(3%)[27m[K	ir: Termo Desconhecido[0m
+[7m--More--(3%)[27m[91m[K
+[7m--More--(3%)[27m[K	planalt: Termo Desconhecido[0m
+[7m--More--(3%)[27m[91m[K
+[7m--More--(3%)[27m[K	reclam: Termo Desconhecido[0m
+[7m--More--(3%)[27m[94m[K
+[7m--More--(3%)[27m[K	pra: positivo [0m
+[7m--More--(3%)[27m[K
+[7m--More--(3%)[27m[K	Sentimento Provavel: positivo 
+[7m--More--(3%)[27m[K
+[7m--More--(3%)[27m[K
+[7m--More--(3%)[27m[K	Frase: Biafra is our Right and we must have it @EU_Commission @dilmabr Dilma @TonyAbbottMHR @marianorajoy #Biafra #indigenouspeopleofBia
+[7m--More--(3%)[27mfra RT[K
+[7m--More--(3%)[27m [K
+[7m--More--(3%)[27m[K
+[7m--More--(3%)[27m[K	Normalizado: biafra is our right and we must have it at_user at_user dilma at_user at_user biafra indigenouspeopleofbiafra rt  
+[7m--More--(3%)[27m[K
+[7m--More--(3%)[27m[K	Caracteristicas - [u'biafr', 'is', 'our', 'right', 'and', 'we', 'must', u'hav', 'it', u'indigenouspeopleofbiafr'] 
+[7m--More--(3%)[27m[91m[K
+[7m--More--(3%)[27m[K	biafr: Termo Desconhecido[0m
+[7m--More--(3%)[27m[91m[K
+[7m--More--(3%)[27m[K	is: Termo Desconhecido[0m
+[7m--More--(3%)[27m[91m[K
+[7m--More--(3%)[27m[K	our: Termo Desconhecido[0m
+[7m--More--(4%)[27m[91m[K
+[7m--More--(4%)[27m[K	right: Termo Desconhecido[0m
+[7m--More--(4%)[27m[91m[K
+[7m--More--(4%)[27m[K	and: Termo Desconhecido[0m
+[7m--More--(4%)[27m[91m[K
+[7m--More--(4%)[27m[K	we: Termo Desconhecido[0m
+[7m--More--(4%)[27m[91m[K
+[7m--More--(4%)[27m[K	must: Termo Desconhecido[0m
+[7m--More--(4%)[27m[91m[K
+[7m--More--(4%)[27m[K	hav: Termo Desconhecido[0m
+[7m--More--(4%)[27m[91m[K
+[7m--More--(4%)[27m[K	it: Termo Desconhecido[0m
+[7m--More--(4%)[27m[91m[K
+[7m--More--(4%)[27m[K	indigenouspeopleofbiafr: Termo Desconhecido[0m
+[7m--More--(4%)[27m[91m[K
+[7m--More--(4%)[27m[K	Avaliação Impossível 
+[7m--More--(4%)[27m[K
+[7m--More--(4%)[27m[0m[K
+[7m--More--(4%)[27m[K
+[7m--More--(4%)[27m[K	Frase: Blerghs ~&gt; RT @obsrvatorio: Só pesquisa traz boas notícias para governo Dilma http://t.co/pX6ZIAUcp9
+[7m--More--(4%)[27m [K
+[7m--More--(4%)[27m[K
+[7m--More--(4%)[27m[K	Normalizado: blerghs ~&gt; rt at_user so pesquisa traz boas noticias para governo dilma url  
+[7m--More--(4%)[27m[K
+[7m--More--(4%)[27m[K	Caracteristicas - [u'blergh', 'so', 'traz', u'boa', u'notic'] 
+[7m--More--(4%)[27m[91m[K
+[7m--More--(4%)[27m[K	blergh: Termo Desconhecido[0m
+[7m--More--(4%)[27m[94m[K
+[7m--More--(4%)[27m[K	so: positivo [0m
+[7m--More--(4%)[27m[91m[K
+[7m--More--(4%)[27m[K	traz: Termo Desconhecido[0m
+[7m--More--(4%)[27m[91m[K
+[7m--More--(4%)[27m[K	boa: Termo Desconhecido[0m
+[7m--More--(4%)[27m[91m[K
+[7m--More--(4%)[27m[K	notic: Termo Desconhecido[0m
+[7m--More--(4%)[27m[K
+[7m--More--(4%)[27m[K	Sentimento Provavel: negativo 
+[7m--More--(4%)[27m[K
+[7m--More--(4%)[27m[K
+[7m--More--(4%)[27m[K	Frase: Bom demais! Vampiro Serra agora está apoiando Dilma…Por Zé Dirceu: http://t.co/ybiDVD6TCd Blog A Justiceira
+[7m--More--(5%)[27m [K
+[7m--More--(5%)[27m[K
+[7m--More--(5%)[27m[K	Normalizado: bom demais. vampiro serra agora esta apoiando dilma...por ze dirceu: url blog a justiceira  
+[7m--More--(5%)[27m[K
+[7m--More--(5%)[27m[K	Caracteristicas - [u'demal', u'vampir', u'apoi', u'dilmap', 'ze', u'dirc', u'justic'] 
+[7m--More--(5%)[27m[91m[K
+[7m--More--(5%)[27m[K	demal: Termo Desconhecido[0m
+[7m--More--(5%)[27m[91m[K
+[7m--More--(5%)[27m[K	vampir: Termo Desconhecido[0m
+[7m--More--(5%)[27m[94m[K
+[7m--More--(5%)[27m[K	apoi: positivo [0m
+[7m--More--(5%)[27m[91m[K
+[7m--More--(5%)[27m[K	dilmap: Termo Desconhecido[0m
+[7m--More--(5%)[27m[91m[K
+[7m--More--(5%)[27m[K	ze: Termo Desconhecido[0m
+[7m--More--(5%)[27m[91m[K
+[7m--More--(5%)[27m[K	dirc: Termo Desconhecido[0m
+[7m--More--(5%)[27m[91m[K
+[7m--More--(5%)[27m[K	justic: Termo Desconhecido[0m
+[7m--More--(5%)[27m[K
+[7m--More--(5%)[27m[K	Sentimento Provavel: positivo 
+[7m--More--(5%)[27m[K
+[7m--More--(5%)[27m[K
+[7m--More--(5%)[27m[K	Frase: Bom, o importante é que ano que vem é Dilma-lá! 
+[7m--More--(5%)[27m [K
+[7m--More--(5%)[27m[K
+[7m--More--(5%)[27m[K	Normalizado: bom, o importante e que ano que vem e dilma-la.  
+[7m--More--(5%)[27m[K
+[7m--More--(5%)[27m[K	Caracteristicas - [u'import'] 
+[7m--More--(5%)[27m[91m[K
+[7m--More--(5%)[27m[K	import: Termo Desconhecido[0m
+[7m--More--(5%)[27m[91m[K
+[7m--More--(5%)[27m[K	Avaliação Impossível 
+[7m--More--(5%)[27m[K
+[7m--More--(5%)[27m[0m[K
+[7m--More--(5%)[27m[K
+[7m--More--(5%)[27m[K	Frase: "Cinismo e mentira viraram métodos de governo ou de defesa do governo."(Serge Goulart) http://t.co/hGeCM7xbZl via @SergeGoulart
+[7m--More--(5%)[27m [K
+[7m--More--(5%)[27m[K
+[7m--More--(5%)[27m[K	Normalizado: cinismo e mentira viraram metodos de governo ou de defesa do governo."(serge goulart) url via at_user  
+[7m--More--(6%)[27m[K
+[7m--More--(6%)[27m[K	Caracteristicas - [u'cinism', u'ment', u'vir', u'metod', u'def\xeas'] 
+[7m--More--(6%)[27m[91m[K
+[7m--More--(6%)[27m[K	cinism: Termo Desconhecido[0m
+[7m--More--(6%)[27m[92m[K
+[7m--More--(6%)[27m[K	ment: negativo [0m
+[7m--More--(6%)[27m[94m[K
+[7m--More--(6%)[27m[K	vir: positivo [0m
+[7m--More--(6%)[27m[91m[K
+[7m--More--(6%)[27m[K	metod: Termo Desconhecido[0m
+[7m--More--(6%)[27m[91m[K
+[7m--More--(6%)[27m[K	defês: Termo Desconhecido[0m
+[7m--More--(6%)[27m[K
+[7m--More--(6%)[27m[K	Sentimento Provavel: negativo 
+[7m--More--(6%)[27m[K
+[7m--More--(6%)[27m[K
+[7m--More--(6%)[27m[K	Frase: como o PT tem coragem de fazer isto com o povo??? http://t.co/zvjXTxuuJQ
+[7m--More--(6%)[27m [K
+[7m--More--(6%)[27m[K
+[7m--More--(6%)[27m[K	Normalizado: como o pt tem coragem de fazer isto com o povo??? url  
+[7m--More--(6%)[27m[K
+[7m--More--(6%)[27m[K	Caracteristicas - [u'corag'] 
+[7m--More--(6%)[27m[94m[K
+[7m--More--(6%)[27m[K	corag: positivo [0m
+[7m--More--(6%)[27m[K
+[7m--More--(6%)[27m[K	Sentimento Provavel: positivo 
+[7m--More--(6%)[27m[K
+[7m--More--(6%)[27m[K
+[7m--More--(6%)[27m[K	Frase: Concluído PED, PT prioriza reeleição de Dilma e programa para disputar Governo do Estado em 2014 http://t.co/1REC8iYjIc v

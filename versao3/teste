@@ -1,0 +1,2620 @@
+Script started on Qui 14 Nov 2013 18:40:05 BRST
+]0;root@Infoway: /media/silvio/Dados/Fatec/6_semestre/TG/versao3root@Infoway:/media/silvio/Dados/Fatec/6_semestre/TG/versao3# python testarMsg.py "﻿Dilma te amo " dilma[C[1P[1P[1P[1P[1P[1P[1@v[1@e[1@n[1@c[1@e[1@r[1@i[1@a[C[1@ [1@n[1@o[C[1@ [1@p[1@r[1@i[1@m[1@e[1@i[1@r[C[1@ [1P[1@o[C[1@ [1@t[1@i[1@u[1@r[1@n[1P[1P[1P[1P[1@u[1@r[1@n[1@p[1P[1@o
+[94m
+		Análise de Sentimento
+		Assunto: DILMA [0m
+
+	Analisar Msg: ﻿dilma venceria no primeiro turno  
+
+	Caracteristicas da Msg - [u'venc', u'turn'] 
+Count: 1 
+Termo1: venc Termo2: voc 
+Count: 1 
+Termo1: venc Termo2: ach 
+Count: 1 
+Termo1: venc Termo2: acab 
+Count: 1 
+Termo1: venc Termo2: corrupca 
+Count: 2 
+Termo1: venc Termo2: nao 
+Count: 2 
+Termo1: venc Termo2: arrum 
+Count: 2 
+Termo1: venc Termo2: voc 
+Count: 2 
+Termo1: venc Termo2: ach 
+Count: 3 
+Termo1: venc Termo2: voc 
+Count: 3 
+Termo1: venc Termo2: ach 
+Count: 3 
+Termo1: venc Termo2: acab 
+Count: 3 
+Termo1: venc Termo2: corrupca 
+Count: 4 
+Termo1: venc Termo2: parab 
+Count: 4 
+Termo1: venc Termo2: acredit 
+Count: 5 
+Termo1: venc Termo2: admiraca 
+Count: 5 
+Termo1: venc Termo2: respeit 
+Count: 5 
+Termo1: venc Termo2: president 
+Count: 5 
+Termo1: venc Termo2: rum 
+Count: 5 
+Termo1: venc Termo2: vitor 
+Count: 6 
+Termo1: venc Termo2: ilusa 
+Count: 6 
+Termo1: venc Termo2: pens 
+Count: 6 
+Termo1: venc Termo2: ilud 
+Count: 6 
+Termo1: venc Termo2: algu 
+Count: 6 
+Termo1: venc Termo2: igual 
+Count: 6 
+Termo1: venc Termo2: ment 
+Count: 7 
+Termo1: venc Termo2: amo 
+Count: 8 
+Termo1: venc Termo2: apoi 
+Count: 9 
+Termo1: venc Termo2: president 
+Count: 9 
+Termo1: venc Termo2: apost 
+Count: 9 
+Termo1: venc Termo2: logis 
+Count: 9 
+Termo1: venc Termo2: cresc 
+Count: 10 
+Termo1: venc Termo2: aprend 
+Count: 10 
+Termo1: venc Termo2: orgulh 
+Count: 11 
+Termo1: venc Termo2: nao 
+Count: 11 
+Termo1: venc Termo2: arrum 
+Count: 11 
+Termo1: venc Termo2: voc 
+Count: 11 
+Termo1: venc Termo2: ach 
+Count: 12 
+Termo1: venc Termo2: prior 
+Count: 12 
+Termo1: venc Termo2: assegur 
+Count: 12 
+Termo1: venc Termo2: invest 
+Count: 12 
+Termo1: venc Termo2: educaca 
+Count: 13 
+Termo1: venc Termo2: parabeniz 
+Count: 13 
+Termo1: venc Termo2: sancion 
+Count: 13 
+Termo1: venc Termo2: obrig 
+Count: 13 
+Termo1: venc Termo2: su 
+Count: 13 
+Termo1: venc Termo2: prest 
+Count: 13 
+Termo1: venc Termo2: atend 
+Count: 13 
+Termo1: venc Termo2: integr 
+Count: 13 
+Termo1: venc Termo2: mulh 
+Count: 14 
+Termo1: venc Termo2: uso 
+Count: 14 
+Termo1: venc Termo2: avia 
+Count: 14 
+Termo1: venc Termo2: fab 
+Count: 14 
+Termo1: venc Termo2: autoridad 
+Count: 14 
+Termo1: venc Termo2: cresc 
+Count: 15 
+Termo1: venc Termo2: avanc 
+Count: 15 
+Termo1: venc Termo2: mulh 
+Count: 15 
+Termo1: venc Termo2: pod 
+Count: 16 
+Termo1: venc Termo2: uso 
+Count: 16 
+Termo1: venc Termo2: avia 
+Count: 16 
+Termo1: venc Termo2: fab 
+Count: 16 
+Termo1: venc Termo2: autoridad 
+Count: 16 
+Termo1: venc Termo2: cresc 
+Count: 17 
+Termo1: venc Termo2: bas 
+Count: 17 
+Termo1: venc Termo2: paquiderm 
+Count: 17 
+Termo1: venc Termo2: serpentari 
+Count: 17 
+Termo1: venc Termo2: lut 
+Count: 17 
+Termo1: venc Termo2: intestin 
+Count: 17 
+Termo1: venc Termo2: mist 
+Count: 17 
+Termo1: venc Termo2: torr 
+Count: 17 
+Termo1: venc Termo2: babel 
+Count: 17 
+Termo1: venc Termo2: nau 
+Count: 17 
+Termo1: venc Termo2: rum 
+Count: 18 
+Termo1: venc Termo2: vot 
+Count: 18 
+Termo1: venc Termo2: band 
+Count: 18 
+Termo1: venc Termo2: troux 
+Count: 19 
+Termo1: venc Termo2: bas 
+Count: 19 
+Termo1: venc Termo2: paquiderm 
+Count: 19 
+Termo1: venc Termo2: serpentari 
+Count: 19 
+Termo1: venc Termo2: lut 
+Count: 19 
+Termo1: venc Termo2: intestin 
+Count: 19 
+Termo1: venc Termo2: mist 
+Count: 19 
+Termo1: venc Termo2: torr 
+Count: 19 
+Termo1: venc Termo2: babel 
+Count: 19 
+Termo1: venc Termo2: nau 
+Count: 19 
+Termo1: venc Termo2: rum 
+Count: 20 
+Termo1: venc Termo2: remedi 
+Count: 20 
+Termo1: venc Termo2: gratil 
+Count: 20 
+Termo1: venc Termo2: descont 
+Count: 20 
+Termo1: venc Termo2: benefici 
+Count: 21 
+Termo1: venc Termo2: gast 
+Count: 21 
+Termo1: venc Termo2: bi 
+Count: 21 
+Termo1: venc Termo2: so 
+Count: 21 
+Termo1: venc Termo2: cust 
+Count: 21 
+Termo1: venc Termo2: maquin 
+Count: 21 
+Termo1: venc Termo2: publ 
+Count: 21 
+Termo1: venc Termo2: serv 
+Count: 21 
+Termo1: venc Termo2: cidada 
+Count: 21 
+Termo1: venc Termo2: pess 
+Count: 22 
+Termo1: venc Termo2: qued 
+Count: 22 
+Termo1: venc Termo2: popular 
+Count: 22 
+Termo1: venc Termo2: sinal 
+Count: 22 
+Termo1: venc Termo2: cans 
+Count: 22 
+Termo1: venc Termo2: engan 
+Count: 23 
+Termo1: venc Termo2: incomod 
+Count: 23 
+Termo1: venc Termo2: serv 
+Count: 23 
+Termo1: venc Termo2: poder 
+Count: 23 
+Termo1: venc Termo2: capit 
+Count: 23 
+Termo1: venc Termo2: vir 
+Count: 23 
+Termo1: venc Termo2: cost 
+Count: 23 
+Termo1: venc Termo2: direit 
+Count: 24 
+Termo1: venc Termo2: demoniz 
+Count: 24 
+Termo1: venc Termo2: categor 
+Count: 24 
+Termo1: venc Termo2: medic 
+Count: 24 
+Termo1: venc Termo2: culp 
+Count: 24 
+Termo1: venc Termo2: su 
+Count: 25 
+Termo1: venc Termo2: prefir 
+Count: 25 
+Termo1: venc Termo2: centraliz 
+Count: 26 
+Termo1: venc Termo2: cheg 
+Count: 26 
+Termo1: venc Termo2: corrupca 
+Count: 26 
+Termo1: venc Termo2: vam 
+Count: 26 
+Termo1: venc Termo2: demit 
+Count: 26 
+Termo1: venc Termo2: metad 
+Count: 26 
+Termo1: venc Termo2: dest 
+Count: 26 
+Termo1: venc Termo2: ministr 
+Count: 27 
+Termo1: venc Termo2: gast 
+Count: 27 
+Termo1: venc Termo2: bi 
+Count: 27 
+Termo1: venc Termo2: so 
+Count: 27 
+Termo1: venc Termo2: cust 
+Count: 27 
+Termo1: venc Termo2: maquin 
+Count: 27 
+Termo1: venc Termo2: publ 
+Count: 27 
+Termo1: venc Termo2: serv 
+Count: 27 
+Termo1: venc Termo2: cidada 
+Count: 27 
+Termo1: venc Termo2: pess 
+Count: 28 
+Termo1: venc Termo2: ment 
+Count: 28 
+Termo1: venc Termo2: nao 
+Count: 28 
+Termo1: venc Termo2: combat 
+Count: 28 
+Termo1: venc Termo2: mis 
+Count: 29 
+Termo1: venc Termo2: contest 
+Count: 29 
+Termo1: venc Termo2: marketing 
+Count: 29 
+Termo1: venc Termo2: mis 
+Count: 29 
+Termo1: venc Termo2: ment 
+Count: 30 
+Termo1: venc Termo2: maravilh 
+Count: 30 
+Termo1: venc Termo2: continu 
+Count: 30 
+Termo1: venc Termo2: cresc 
+Count: 31 
+Termo1: venc Termo2: continu 
+Count: 31 
+Termo1: venc Termo2: cresc 
+Count: 32 
+Termo1: venc Termo2: maravilh 
+Count: 32 
+Termo1: venc Termo2: continu 
+Count: 32 
+Termo1: venc Termo2: cresc 
+Count: 33 
+Termo1: venc Termo2: cheg 
+Count: 33 
+Termo1: venc Termo2: corrupca 
+Count: 33 
+Termo1: venc Termo2: vam 
+Count: 33 
+Termo1: venc Termo2: demit 
+Count: 33 
+Termo1: venc Termo2: metad 
+Count: 33 
+Termo1: venc Termo2: dest 
+Count: 33 
+Termo1: venc Termo2: ministr 
+Count: 34 
+Termo1: venc Termo2: voc 
+Count: 34 
+Termo1: venc Termo2: ach 
+Count: 34 
+Termo1: venc Termo2: acab 
+Count: 34 
+Termo1: venc Termo2: corrupca 
+Count: 35 
+Termo1: venc Termo2: incomod 
+Count: 35 
+Termo1: venc Termo2: serv 
+Count: 35 
+Termo1: venc Termo2: poder 
+Count: 35 
+Termo1: venc Termo2: capit 
+Count: 35 
+Termo1: venc Termo2: vir 
+Count: 35 
+Termo1: venc Termo2: cost 
+Count: 35 
+Termo1: venc Termo2: direit 
+Count: 36 
+Termo1: venc Termo2: maravilh 
+Count: 36 
+Termo1: venc Termo2: continu 
+Count: 36 
+Termo1: venc Termo2: cresc 
+Count: 37 
+Termo1: venc Termo2: president 
+Count: 37 
+Termo1: venc Termo2: apost 
+Count: 37 
+Termo1: venc Termo2: logis 
+Count: 37 
+Termo1: venc Termo2: cresc 
+Count: 38 
+Termo1: venc Termo2: continu 
+Count: 38 
+Termo1: venc Termo2: cresc 
+Count: 39 
+Termo1: venc Termo2: maravilh 
+Count: 39 
+Termo1: venc Termo2: continu 
+Count: 39 
+Termo1: venc Termo2: cresc 
+Count: 40 
+Termo1: venc Termo2: uso 
+Count: 40 
+Termo1: venc Termo2: avia 
+Count: 40 
+Termo1: venc Termo2: fab 
+Count: 40 
+Termo1: venc Termo2: autoridad 
+Count: 40 
+Termo1: venc Termo2: cresc 
+Count: 41 
+Termo1: venc Termo2: cris 
+Count: 41 
+Termo1: venc Termo2: encolh 
+Count: 41 
+Termo1: venc Termo2: qued 
+Count: 42 
+Termo1: venc Termo2: demoniz 
+Count: 42 
+Termo1: venc Termo2: categor 
+Count: 42 
+Termo1: venc Termo2: medic 
+Count: 42 
+Termo1: venc Termo2: culp 
+Count: 42 
+Termo1: venc Termo2: su 
+Count: 43 
+Termo1: venc Termo2: cusp 
+Count: 43 
+Termo1: venc Termo2: rost 
+Count: 43 
+Termo1: venc Termo2: medic 
+Count: 44 
+Termo1: venc Termo2: gast 
+Count: 44 
+Termo1: venc Termo2: bi 
+Count: 44 
+Termo1: venc Termo2: so 
+Count: 44 
+Termo1: venc Termo2: cust 
+Count: 44 
+Termo1: venc Termo2: maquin 
+Count: 44 
+Termo1: venc Termo2: publ 
+Count: 44 
+Termo1: venc Termo2: serv 
+Count: 44 
+Termo1: venc Termo2: cidada 
+Count: 44 
+Termo1: venc Termo2: pess 
+Count: 45 
+Termo1: venc Termo2: farr 
+Count: 45 
+Termo1: venc Termo2: ministeri 
+Count: 45 
+Termo1: venc Termo2: cust 
+Count: 46 
+Termo1: venc Termo2: defend 
+Count: 46 
+Termo1: venc Termo2: mud 
+Count: 46 
+Termo1: venc Termo2: qual 
+Count: 46 
+Termo1: venc Termo2: educaca 
+Count: 46 
+Termo1: venc Termo2: melhor 
+Count: 47 
+Termo1: venc Termo2: cheg 
+Count: 47 
+Termo1: venc Termo2: corrupca 
+Count: 47 
+Termo1: venc Termo2: vam 
+Count: 47 
+Termo1: venc Termo2: demit 
+Count: 47 
+Termo1: venc Termo2: metad 
+Count: 47 
+Termo1: venc Termo2: dest 
+Count: 47 
+Termo1: venc Termo2: ministr 
+Count: 48 
+Termo1: venc Termo2: demoniz 
+Count: 48 
+Termo1: venc Termo2: categor 
+Count: 48 
+Termo1: venc Termo2: medic 
+Count: 48 
+Termo1: venc Termo2: culp 
+Count: 48 
+Termo1: venc Termo2: su 
+Count: 49 
+Termo1: venc Termo2: remedi 
+Count: 49 
+Termo1: venc Termo2: gratil 
+Count: 49 
+Termo1: venc Termo2: descont 
+Count: 49 
+Termo1: venc Termo2: benefici 
+Count: 50 
+Termo1: venc Termo2: descoordenaca 
+Count: 50 
+Termo1: venc Termo2: ilusion 
+Count: 51 
+Termo1: venc Termo2: escol 
+Count: 51 
+Termo1: venc Termo2: nazist 
+Count: 51 
+Termo1: venc Termo2: franklin 
+Count: 51 
+Termo1: venc Termo2: martim 
+Count: 51 
+Termo1: venc Termo2: tent 
+Count: 51 
+Termo1: venc Termo2: desmoral 
+Count: 51 
+Termo1: venc Termo2: juiz 
+Count: 52 
+Termo1: venc Termo2: cheg 
+Count: 52 
+Termo1: venc Termo2: corrupca 
+Count: 52 
+Termo1: venc Termo2: vam 
+Count: 52 
+Termo1: venc Termo2: demit 
+Count: 52 
+Termo1: venc Termo2: metad 
+Count: 52 
+Termo1: venc Termo2: dest 
+Count: 52 
+Termo1: venc Termo2: ministr 
+Count: 53 
+Termo1: venc Termo2: incomod 
+Count: 53 
+Termo1: venc Termo2: serv 
+Count: 53 
+Termo1: venc Termo2: poder 
+Count: 53 
+Termo1: venc Termo2: capit 
+Count: 53 
+Termo1: venc Termo2: vir 
+Count: 53 
+Termo1: venc Termo2: cost 
+Count: 53 
+Termo1: venc Termo2: direit 
+Count: 54 
+Termo1: venc Termo2: defend 
+Count: 54 
+Termo1: venc Termo2: mud 
+Count: 54 
+Termo1: venc Termo2: qual 
+Count: 54 
+Termo1: venc Termo2: educaca 
+Count: 54 
+Termo1: venc Termo2: melhor 
+Count: 55 
+Termo1: venc Termo2: prior 
+Count: 55 
+Termo1: venc Termo2: assegur 
+Count: 55 
+Termo1: venc Termo2: invest 
+Count: 55 
+Termo1: venc Termo2: educaca 
+Count: 56 
+Termo1: venc Termo2: cris 
+Count: 56 
+Termo1: venc Termo2: encolh 
+Count: 56 
+Termo1: venc Termo2: qued 
+Count: 57 
+Termo1: venc Termo2: qued 
+Count: 57 
+Termo1: venc Termo2: popular 
+Count: 57 
+Termo1: venc Termo2: sinal 
+Count: 57 
+Termo1: venc Termo2: cans 
+Count: 57 
+Termo1: venc Termo2: engan 
+Count: 58 
+Termo1: venc Termo2: escol 
+Count: 58 
+Termo1: venc Termo2: nazist 
+Count: 58 
+Termo1: venc Termo2: franklin 
+Count: 58 
+Termo1: venc Termo2: martim 
+Count: 58 
+Termo1: venc Termo2: tent 
+Count: 58 
+Termo1: venc Termo2: desmoral 
+Count: 58 
+Termo1: venc Termo2: juiz 
+Count: 59 
+Termo1: venc Termo2: uso 
+Count: 59 
+Termo1: venc Termo2: avia 
+Count: 59 
+Termo1: venc Termo2: fab 
+Count: 59 
+Termo1: venc Termo2: autoridad 
+Count: 59 
+Termo1: venc Termo2: cresc 
+Count: 60 
+Termo1: venc Termo2: farr 
+Count: 60 
+Termo1: venc Termo2: ministeri 
+Count: 60 
+Termo1: venc Termo2: cust 
+Count: 61 
+Termo1: venc Termo2: escol 
+Count: 61 
+Termo1: venc Termo2: nazist 
+Count: 61 
+Termo1: venc Termo2: franklin 
+Count: 61 
+Termo1: venc Termo2: martim 
+Count: 61 
+Termo1: venc Termo2: tent 
+Count: 61 
+Termo1: venc Termo2: desmoral 
+Count: 61 
+Termo1: venc Termo2: juiz 
+Count: 62 
+Termo1: venc Termo2: funk 
+Count: 63 
+Termo1: venc Termo2: gast 
+Count: 63 
+Termo1: venc Termo2: bi 
+Count: 63 
+Termo1: venc Termo2: so 
+Count: 63 
+Termo1: venc Termo2: cust 
+Count: 63 
+Termo1: venc Termo2: maquin 
+Count: 63 
+Termo1: venc Termo2: publ 
+Count: 63 
+Termo1: venc Termo2: serv 
+Count: 63 
+Termo1: venc Termo2: cidada 
+Count: 63 
+Termo1: venc Termo2: pess 
+Count: 64 
+Termo1: venc Termo2: pess 
+Count: 64 
+Termo1: venc Termo2: ges 
+Count: 65 
+Termo1: venc Termo2: pess 
+Count: 65 
+Termo1: venc Termo2: ges 
+Count: 66 
+Termo1: venc Termo2: pess 
+Count: 66 
+Termo1: venc Termo2: ges 
+Count: 67 
+Termo1: venc Termo2: pess 
+Count: 67 
+Termo1: venc Termo2: ges 
+Count: 68 
+Termo1: venc Termo2: pess 
+Count: 68 
+Termo1: venc Termo2: ges 
+Count: 69 
+Termo1: venc Termo2: pess 
+Count: 69 
+Termo1: venc Termo2: ges 
+Count: 70 
+Termo1: venc Termo2: remedi 
+Count: 70 
+Termo1: venc Termo2: gratil 
+Count: 70 
+Termo1: venc Termo2: descont 
+Count: 70 
+Termo1: venc Termo2: benefici 
+Count: 71 
+Termo1: venc Termo2: ilusa 
+Count: 71 
+Termo1: venc Termo2: pens 
+Count: 71 
+Termo1: venc Termo2: ilud 
+Count: 71 
+Termo1: venc Termo2: algu 
+Count: 71 
+Termo1: venc Termo2: igual 
+Count: 71 
+Termo1: venc Termo2: ment 
+Count: 72 
+Termo1: venc Termo2: ilusa 
+Count: 72 
+Termo1: venc Termo2: pens 
+Count: 72 
+Termo1: venc Termo2: ilud 
+Count: 72 
+Termo1: venc Termo2: algu 
+Count: 72 
+Termo1: venc Termo2: igual 
+Count: 72 
+Termo1: venc Termo2: ment 
+Count: 73 
+Termo1: venc Termo2: ilusa 
+Count: 73 
+Termo1: venc Termo2: pens 
+Count: 73 
+Termo1: venc Termo2: ilud 
+Count: 73 
+Termo1: venc Termo2: algu 
+Count: 73 
+Termo1: venc Termo2: igual 
+Count: 73 
+Termo1: venc Termo2: ment 
+Count: 74 
+Termo1: venc Termo2: descoordenaca 
+Count: 74 
+Termo1: venc Termo2: ilusion 
+Count: 75 
+Termo1: venc Termo2: incomod 
+Count: 75 
+Termo1: venc Termo2: serv 
+Count: 75 
+Termo1: venc Termo2: poder 
+Count: 75 
+Termo1: venc Termo2: capit 
+Count: 75 
+Termo1: venc Termo2: vir 
+Count: 75 
+Termo1: venc Termo2: cost 
+Count: 75 
+Termo1: venc Termo2: direit 
+Count: 76 
+Termo1: venc Termo2: parabeniz 
+Count: 76 
+Termo1: venc Termo2: sancion 
+Count: 76 
+Termo1: venc Termo2: obrig 
+Count: 76 
+Termo1: venc Termo2: su 
+Count: 76 
+Termo1: venc Termo2: prest 
+Count: 76 
+Termo1: venc Termo2: atend 
+Count: 76 
+Termo1: venc Termo2: integr 
+Count: 76 
+Termo1: venc Termo2: mulh 
+Count: 77 
+Termo1: venc Termo2: bas 
+Count: 77 
+Termo1: venc Termo2: paquiderm 
+Count: 77 
+Termo1: venc Termo2: serpentari 
+Count: 77 
+Termo1: venc Termo2: lut 
+Count: 77 
+Termo1: venc Termo2: intestin 
+Count: 77 
+Termo1: venc Termo2: mist 
+Count: 77 
+Termo1: venc Termo2: torr 
+Count: 77 
+Termo1: venc Termo2: babel 
+Count: 77 
+Termo1: venc Termo2: nau 
+Count: 77 
+Termo1: venc Termo2: rum 
+Count: 78 
+Termo1: venc Termo2: prior 
+Count: 78 
+Termo1: venc Termo2: assegur 
+Count: 78 
+Termo1: venc Termo2: invest 
+Count: 78 
+Termo1: venc Termo2: educaca 
+Count: 79 
+Termo1: venc Termo2: escol 
+Count: 79 
+Termo1: venc Termo2: nazist 
+Count: 79 
+Termo1: venc Termo2: franklin 
+Count: 79 
+Termo1: venc Termo2: martim 
+Count: 79 
+Termo1: venc Termo2: tent 
+Count: 79 
+Termo1: venc Termo2: desmoral 
+Count: 79 
+Termo1: venc Termo2: juiz 
+Count: 80 
+Termo1: venc Termo2: president 
+Count: 80 
+Termo1: venc Termo2: apost 
+Count: 80 
+Termo1: venc Termo2: logis 
+Count: 80 
+Termo1: venc Termo2: cresc 
+Count: 81 
+Termo1: venc Termo2: bas 
+Count: 81 
+Termo1: venc Termo2: paquiderm 
+Count: 81 
+Termo1: venc Termo2: serpentari 
+Count: 81 
+Termo1: venc Termo2: lut 
+Count: 81 
+Termo1: venc Termo2: intestin 
+Count: 81 
+Termo1: venc Termo2: mist 
+Count: 81 
+Termo1: venc Termo2: torr 
+Count: 81 
+Termo1: venc Termo2: babel 
+Count: 81 
+Termo1: venc Termo2: nau 
+Count: 81 
+Termo1: venc Termo2: rum 
+Count: 82 
+Termo1: venc Termo2: manifestaco 
+Count: 82 
+Termo1: venc Termo2: respeit 
+Count: 83 
+Termo1: venc Termo2: gast 
+Count: 83 
+Termo1: venc Termo2: bi 
+Count: 83 
+Termo1: venc Termo2: so 
+Count: 83 
+Termo1: venc Termo2: cust 
+Count: 83 
+Termo1: venc Termo2: maquin 
+Count: 83 
+Termo1: venc Termo2: publ 
+Count: 83 
+Termo1: venc Termo2: serv 
+Count: 83 
+Termo1: venc Termo2: cidada 
+Count: 83 
+Termo1: venc Termo2: pess 
+Count: 84 
+Termo1: venc Termo2: maravilh 
+Count: 84 
+Termo1: venc Termo2: continu 
+Count: 84 
+Termo1: venc Termo2: cresc 
+Count: 85 
+Termo1: venc Termo2: maravilh 
+Count: 85 
+Termo1: venc Termo2: continu 
+Count: 85 
+Termo1: venc Termo2: cresc 
+Count: 86 
+Termo1: venc Termo2: contest 
+Count: 86 
+Termo1: venc Termo2: marketing 
+Count: 86 
+Termo1: venc Termo2: mis 
+Count: 86 
+Termo1: venc Termo2: ment 
+Count: 87 
+Termo1: venc Termo2: escol 
+Count: 87 
+Termo1: venc Termo2: nazist 
+Count: 87 
+Termo1: venc Termo2: franklin 
+Count: 87 
+Termo1: venc Termo2: martim 
+Count: 87 
+Termo1: venc Termo2: tent 
+Count: 87 
+Termo1: venc Termo2: desmoral 
+Count: 87 
+Termo1: venc Termo2: juiz 
+Count: 88 
+Termo1: venc Termo2: cusp 
+Count: 88 
+Termo1: venc Termo2: rost 
+Count: 88 
+Termo1: venc Termo2: medic 
+Count: 89 
+Termo1: venc Termo2: demoniz 
+Count: 89 
+Termo1: venc Termo2: categor 
+Count: 89 
+Termo1: venc Termo2: medic 
+Count: 89 
+Termo1: venc Termo2: culp 
+Count: 89 
+Termo1: venc Termo2: su 
+Count: 90 
+Termo1: venc Termo2: defend 
+Count: 90 
+Termo1: venc Termo2: mud 
+Count: 90 
+Termo1: venc Termo2: qual 
+Count: 90 
+Termo1: venc Termo2: educaca 
+Count: 90 
+Termo1: venc Termo2: melhor 
+Count: 91 
+Termo1: venc Termo2: contest 
+Count: 91 
+Termo1: venc Termo2: marketing 
+Count: 91 
+Termo1: venc Termo2: mis 
+Count: 91 
+Termo1: venc Termo2: ment 
+Count: 92 
+Termo1: venc Termo2: ment 
+Count: 92 
+Termo1: venc Termo2: nao 
+Count: 92 
+Termo1: venc Termo2: combat 
+Count: 92 
+Termo1: venc Termo2: mis 
+Count: 93 
+Termo1: venc Termo2: ilusa 
+Count: 93 
+Termo1: venc Termo2: pens 
+Count: 93 
+Termo1: venc Termo2: ilud 
+Count: 93 
+Termo1: venc Termo2: algu 
+Count: 93 
+Termo1: venc Termo2: igual 
+Count: 93 
+Termo1: venc Termo2: ment 
+Count: 94 
+Termo1: venc Termo2: cheg 
+Count: 94 
+Termo1: venc Termo2: corrupca 
+Count: 94 
+Termo1: venc Termo2: vam 
+Count: 94 
+Termo1: venc Termo2: demit 
+Count: 94 
+Termo1: venc Termo2: metad 
+Count: 94 
+Termo1: venc Termo2: dest 
+Count: 94 
+Termo1: venc Termo2: ministr 
+Count: 95 
+Termo1: venc Termo2: farr 
+Count: 95 
+Termo1: venc Termo2: ministeri 
+Count: 95 
+Termo1: venc Termo2: cust 
+Count: 96 
+Termo1: venc Termo2: cheg 
+Count: 96 
+Termo1: venc Termo2: corrupca 
+Count: 96 
+Termo1: venc Termo2: vam 
+Count: 96 
+Termo1: venc Termo2: demit 
+Count: 96 
+Termo1: venc Termo2: metad 
+Count: 96 
+Termo1: venc Termo2: dest 
+Count: 96 
+Termo1: venc Termo2: ministr 
+Count: 97 
+Termo1: venc Termo2: contest 
+Count: 97 
+Termo1: venc Termo2: marketing 
+Count: 97 
+Termo1: venc Termo2: mis 
+Count: 97 
+Termo1: venc Termo2: ment 
+Count: 98 
+Termo1: venc Termo2: ment 
+Count: 98 
+Termo1: venc Termo2: nao 
+Count: 98 
+Termo1: venc Termo2: combat 
+Count: 98 
+Termo1: venc Termo2: mis 
+Count: 99 
+Termo1: venc Termo2: bas 
+Count: 99 
+Termo1: venc Termo2: paquiderm 
+Count: 99 
+Termo1: venc Termo2: serpentari 
+Count: 99 
+Termo1: venc Termo2: lut 
+Count: 99 
+Termo1: venc Termo2: intestin 
+Count: 99 
+Termo1: venc Termo2: mist 
+Count: 99 
+Termo1: venc Termo2: torr 
+Count: 99 
+Termo1: venc Termo2: babel 
+Count: 99 
+Termo1: venc Termo2: nau 
+Count: 99 
+Termo1: venc Termo2: rum 
+Count: 100 
+Termo1: venc Termo2: bas 
+Count: 100 
+Termo1: venc Termo2: paquiderm 
+Count: 100 
+Termo1: venc Termo2: serpentari 
+Count: 100 
+Termo1: venc Termo2: lut 
+Count: 100 
+Termo1: venc Termo2: intestin 
+Count: 100 
+Termo1: venc Termo2: mist 
+Count: 100 
+Termo1: venc Termo2: torr 
+Count: 100 
+Termo1: venc Termo2: babel 
+Count: 100 
+Termo1: venc Termo2: nau 
+Count: 100 
+Termo1: venc Termo2: rum 
+Count: 101 
+Termo1: venc Termo2: defend 
+Count: 101 
+Termo1: venc Termo2: mud 
+Count: 101 
+Termo1: venc Termo2: qual 
+Count: 101 
+Termo1: venc Termo2: educaca 
+Count: 101 
+Termo1: venc Termo2: melhor 
+Count: 102 
+Termo1: venc Termo2: avanc 
+Count: 102 
+Termo1: venc Termo2: mulh 
+Count: 102 
+Termo1: venc Termo2: pod 
+Count: 103 
+Termo1: venc Termo2: parabeniz 
+Count: 103 
+Termo1: venc Termo2: sancion 
+Count: 103 
+Termo1: venc Termo2: obrig 
+Count: 103 
+Termo1: venc Termo2: su 
+Count: 103 
+Termo1: venc Termo2: prest 
+Count: 103 
+Termo1: venc Termo2: atend 
+Count: 103 
+Termo1: venc Termo2: integr 
+Count: 103 
+Termo1: venc Termo2: mulh 
+Count: 104 
+Termo1: venc Termo2: ment 
+Count: 104 
+Termo1: venc Termo2: nao 
+Count: 104 
+Termo1: venc Termo2: combat 
+Count: 104 
+Termo1: venc Termo2: mis 
+Count: 105 
+Termo1: venc Termo2: nao 
+Count: 105 
+Termo1: venc Termo2: arrum 
+Count: 105 
+Termo1: venc Termo2: voc 
+Count: 105 
+Termo1: venc Termo2: ach 
+Count: 106 
+Termo1: venc Termo2: bas 
+Count: 106 
+Termo1: venc Termo2: paquiderm 
+Count: 106 
+Termo1: venc Termo2: serpentari 
+Count: 106 
+Termo1: venc Termo2: lut 
+Count: 106 
+Termo1: venc Termo2: intestin 
+Count: 106 
+Termo1: venc Termo2: mist 
+Count: 106 
+Termo1: venc Termo2: torr 
+Count: 106 
+Termo1: venc Termo2: babel 
+Count: 106 
+Termo1: venc Termo2: nau 
+Count: 106 
+Termo1: venc Termo2: rum 
+Count: 107 
+Termo1: venc Termo2: escol 
+Count: 107 
+Termo1: venc Termo2: nazist 
+Count: 107 
+Termo1: venc Termo2: franklin 
+Count: 107 
+Termo1: venc Termo2: martim 
+Count: 107 
+Termo1: venc Termo2: tent 
+Count: 107 
+Termo1: venc Termo2: desmoral 
+Count: 107 
+Termo1: venc Termo2: juiz 
+Count: 108 
+Termo1: venc Termo2: parabeniz 
+Count: 108 
+Termo1: venc Termo2: sancion 
+Count: 108 
+Termo1: venc Termo2: obrig 
+Count: 108 
+Termo1: venc Termo2: su 
+Count: 108 
+Termo1: venc Termo2: prest 
+Count: 108 
+Termo1: venc Termo2: atend 
+Count: 108 
+Termo1: venc Termo2: integr 
+Count: 108 
+Termo1: venc Termo2: mulh 
+Count: 109 
+Termo1: venc Termo2: aprend 
+Count: 109 
+Termo1: venc Termo2: orgulh 
+Count: 110 
+Termo1: venc Termo2: bas 
+Count: 110 
+Termo1: venc Termo2: paquiderm 
+Count: 110 
+Termo1: venc Termo2: serpentari 
+Count: 110 
+Termo1: venc Termo2: lut 
+Count: 110 
+Termo1: venc Termo2: intestin 
+Count: 110 
+Termo1: venc Termo2: mist 
+Count: 110 
+Termo1: venc Termo2: torr 
+Count: 110 
+Termo1: venc Termo2: babel 
+Count: 110 
+Termo1: venc Termo2: nau 
+Count: 110 
+Termo1: venc Termo2: rum 
+Count: 111 
+Termo1: venc Termo2: parab 
+Count: 111 
+Termo1: venc Termo2: acredit 
+Count: 112 
+Termo1: venc Termo2: parabeniz 
+Count: 112 
+Termo1: venc Termo2: sancion 
+Count: 112 
+Termo1: venc Termo2: obrig 
+Count: 112 
+Termo1: venc Termo2: su 
+Count: 112 
+Termo1: venc Termo2: prest 
+Count: 112 
+Termo1: venc Termo2: atend 
+Count: 112 
+Termo1: venc Termo2: integr 
+Count: 112 
+Termo1: venc Termo2: mulh 
+Count: 113 
+Termo1: venc Termo2: parabeniz 
+Count: 113 
+Termo1: venc Termo2: sancion 
+Count: 113 
+Termo1: venc Termo2: obrig 
+Count: 113 
+Termo1: venc Termo2: su 
+Count: 113 
+Termo1: venc Termo2: prest 
+Count: 113 
+Termo1: venc Termo2: atend 
+Count: 113 
+Termo1: venc Termo2: integr 
+Count: 113 
+Termo1: venc Termo2: mulh 
+Count: 114 
+Termo1: venc Termo2: ilusa 
+Count: 114 
+Termo1: venc Termo2: pens 
+Count: 114 
+Termo1: venc Termo2: ilud 
+Count: 114 
+Termo1: venc Termo2: algu 
+Count: 114 
+Termo1: venc Termo2: igual 
+Count: 114 
+Termo1: venc Termo2: ment 
+Count: 115 
+Termo1: venc Termo2: gast 
+Count: 115 
+Termo1: venc Termo2: bi 
+Count: 115 
+Termo1: venc Termo2: so 
+Count: 115 
+Termo1: venc Termo2: cust 
+Count: 115 
+Termo1: venc Termo2: maquin 
+Count: 115 
+Termo1: venc Termo2: publ 
+Count: 115 
+Termo1: venc Termo2: serv 
+Count: 115 
+Termo1: venc Termo2: cidada 
+Count: 115 
+Termo1: venc Termo2: pess 
+Count: 116 
+Termo1: venc Termo2: pess 
+Count: 116 
+Termo1: venc Termo2: ges 
+Count: 117 
+Termo1: venc Termo2: pess 
+Count: 117 
+Termo1: venc Termo2: ges 
+Count: 118 
+Termo1: venc Termo2: pess 
+Count: 118 
+Termo1: venc Termo2: ges 
+Count: 119 
+Termo1: venc Termo2: pess 
+Count: 119 
+Termo1: venc Termo2: ges 
+Count: 120 
+Termo1: venc Termo2: pess 
+Count: 120 
+Termo1: venc Termo2: ges 
+Count: 121 
+Termo1: venc Termo2: pess 
+Count: 121 
+Termo1: venc Termo2: ges 
+Count: 122 
+Termo1: venc Termo2: pib 
+Count: 122 
+Termo1: venc Termo2: ridicul 
+Count: 123 
+Termo1: venc Termo2: avanc 
+Count: 123 
+Termo1: venc Termo2: mulh 
+Count: 123 
+Termo1: venc Termo2: pod 
+Count: 124 
+Termo1: venc Termo2: poder 
+Count: 125 
+Termo1: venc Termo2: incomod 
+Count: 125 
+Termo1: venc Termo2: serv 
+Count: 125 
+Termo1: venc Termo2: poder 
+Count: 125 
+Termo1: venc Termo2: capit 
+Count: 125 
+Termo1: venc Termo2: vir 
+Count: 125 
+Termo1: venc Termo2: cost 
+Count: 125 
+Termo1: venc Termo2: direit 
+Count: 126 
+Termo1: venc Termo2: poder 
+Count: 127 
+Termo1: venc Termo2: incomod 
+Count: 127 
+Termo1: venc Termo2: serv 
+Count: 127 
+Termo1: venc Termo2: poder 
+Count: 127 
+Termo1: venc Termo2: capit 
+Count: 127 
+Termo1: venc Termo2: vir 
+Count: 127 
+Termo1: venc Termo2: cost 
+Count: 127 
+Termo1: venc Termo2: direit 
+Count: 128 
+Termo1: venc Termo2: qued 
+Count: 128 
+Termo1: venc Termo2: popular 
+Count: 128 
+Termo1: venc Termo2: sinal 
+Count: 128 
+Termo1: venc Termo2: cans 
+Count: 128 
+Termo1: venc Termo2: engan 
+Count: 129 
+Termo1: venc Termo2: prefir 
+Count: 129 
+Termo1: venc Termo2: centraliz 
+Count: 130 
+Termo1: venc Termo2: president 
+Count: 130 
+Termo1: venc Termo2: apost 
+Count: 130 
+Termo1: venc Termo2: logis 
+Count: 130 
+Termo1: venc Termo2: cresc 
+Count: 131 
+Termo1: venc Termo2: admiraca 
+Count: 131 
+Termo1: venc Termo2: respeit 
+Count: 131 
+Termo1: venc Termo2: president 
+Count: 131 
+Termo1: venc Termo2: rum 
+Count: 131 
+Termo1: venc Termo2: vitor 
+Count: 132 
+Termo1: venc Termo2: parabeniz 
+Count: 132 
+Termo1: venc Termo2: sancion 
+Count: 132 
+Termo1: venc Termo2: obrig 
+Count: 132 
+Termo1: venc Termo2: su 
+Count: 132 
+Termo1: venc Termo2: prest 
+Count: 132 
+Termo1: venc Termo2: atend 
+Count: 132 
+Termo1: venc Termo2: integr 
+Count: 132 
+Termo1: venc Termo2: mulh 
+Count: 133 
+Termo1: venc Termo2: prior 
+Count: 133 
+Termo1: venc Termo2: assegur 
+Count: 133 
+Termo1: venc Termo2: invest 
+Count: 133 
+Termo1: venc Termo2: educaca 
+Count: 134 
+Termo1: venc Termo2: gast 
+Count: 0 
+Termo1: venc Termo2: bi 
+Count: 0 
+Termo1: venc Termo2: so 
+Count: 0 
+Termo1: venc Termo2: cust 
+Count: 0 
+Termo1: venc Termo2: maquin 
+Count: 0 
+Termo1: venc Termo2: publ 
+Count: 0 
+Termo1: venc Termo2: serv 
+Count: 0 
+Termo1: venc Termo2: cidada 
+Count: 0 
+Termo1: venc Termo2: pess 
+Count: 1 
+Termo1: turn Termo2: voc 
+Count: 1 
+Termo1: turn Termo2: ach 
+Count: 1 
+Termo1: turn Termo2: acab 
+Count: 1 
+Termo1: turn Termo2: corrupca 
+Count: 2 
+Termo1: turn Termo2: nao 
+Count: 2 
+Termo1: turn Termo2: arrum 
+Count: 2 
+Termo1: turn Termo2: voc 
+Count: 2 
+Termo1: turn Termo2: ach 
+Count: 3 
+Termo1: turn Termo2: voc 
+Count: 3 
+Termo1: turn Termo2: ach 
+Count: 3 
+Termo1: turn Termo2: acab 
+Count: 3 
+Termo1: turn Termo2: corrupca 
+Count: 4 
+Termo1: turn Termo2: parab 
+Count: 4 
+Termo1: turn Termo2: acredit 
+Count: 5 
+Termo1: turn Termo2: admiraca 
+Count: 5 
+Termo1: turn Termo2: respeit 
+Count: 5 
+Termo1: turn Termo2: president 
+Count: 5 
+Termo1: turn Termo2: rum 
+Count: 5 
+Termo1: turn Termo2: vitor 
+Count: 6 
+Termo1: turn Termo2: ilusa 
+Count: 6 
+Termo1: turn Termo2: pens 
+Count: 6 
+Termo1: turn Termo2: ilud 
+Count: 6 
+Termo1: turn Termo2: algu 
+Count: 6 
+Termo1: turn Termo2: igual 
+Count: 6 
+Termo1: turn Termo2: ment 
+Count: 7 
+Termo1: turn Termo2: amo 
+Count: 8 
+Termo1: turn Termo2: apoi 
+Count: 9 
+Termo1: turn Termo2: president 
+Count: 9 
+Termo1: turn Termo2: apost 
+Count: 9 
+Termo1: turn Termo2: logis 
+Count: 9 
+Termo1: turn Termo2: cresc 
+Count: 10 
+Termo1: turn Termo2: aprend 
+Count: 10 
+Termo1: turn Termo2: orgulh 
+Count: 11 
+Termo1: turn Termo2: nao 
+Count: 11 
+Termo1: turn Termo2: arrum 
+Count: 11 
+Termo1: turn Termo2: voc 
+Count: 11 
+Termo1: turn Termo2: ach 
+Count: 12 
+Termo1: turn Termo2: prior 
+Count: 12 
+Termo1: turn Termo2: assegur 
+Count: 12 
+Termo1: turn Termo2: invest 
+Count: 12 
+Termo1: turn Termo2: educaca 
+Count: 13 
+Termo1: turn Termo2: parabeniz 
+Count: 13 
+Termo1: turn Termo2: sancion 
+Count: 13 
+Termo1: turn Termo2: obrig 
+Count: 13 
+Termo1: turn Termo2: su 
+Count: 13 
+Termo1: turn Termo2: prest 
+Count: 13 
+Termo1: turn Termo2: atend 
+Count: 13 
+Termo1: turn Termo2: integr 
+Count: 13 
+Termo1: turn Termo2: mulh 
+Count: 14 
+Termo1: turn Termo2: uso 
+Count: 14 
+Termo1: turn Termo2: avia 
+Count: 14 
+Termo1: turn Termo2: fab 
+Count: 14 
+Termo1: turn Termo2: autoridad 
+Count: 14 
+Termo1: turn Termo2: cresc 
+Count: 15 
+Termo1: turn Termo2: avanc 
+Count: 15 
+Termo1: turn Termo2: mulh 
+Count: 15 
+Termo1: turn Termo2: pod 
+Count: 16 
+Termo1: turn Termo2: uso 
+Count: 16 
+Termo1: turn Termo2: avia 
+Count: 16 
+Termo1: turn Termo2: fab 
+Count: 16 
+Termo1: turn Termo2: autoridad 
+Count: 16 
+Termo1: turn Termo2: cresc 
+Count: 17 
+Termo1: turn Termo2: bas 
+Count: 17 
+Termo1: turn Termo2: paquiderm 
+Count: 17 
+Termo1: turn Termo2: serpentari 
+Count: 17 
+Termo1: turn Termo2: lut 
+Count: 17 
+Termo1: turn Termo2: intestin 
+Count: 17 
+Termo1: turn Termo2: mist 
+Count: 17 
+Termo1: turn Termo2: torr 
+Count: 17 
+Termo1: turn Termo2: babel 
+Count: 17 
+Termo1: turn Termo2: nau 
+Count: 17 
+Termo1: turn Termo2: rum 
+Count: 18 
+Termo1: turn Termo2: vot 
+Count: 18 
+Termo1: turn Termo2: band 
+Count: 18 
+Termo1: turn Termo2: troux 
+Count: 19 
+Termo1: turn Termo2: bas 
+Count: 19 
+Termo1: turn Termo2: paquiderm 
+Count: 19 
+Termo1: turn Termo2: serpentari 
+Count: 19 
+Termo1: turn Termo2: lut 
+Count: 19 
+Termo1: turn Termo2: intestin 
+Count: 19 
+Termo1: turn Termo2: mist 
+Count: 19 
+Termo1: turn Termo2: torr 
+Count: 19 
+Termo1: turn Termo2: babel 
+Count: 19 
+Termo1: turn Termo2: nau 
+Count: 19 
+Termo1: turn Termo2: rum 
+Count: 20 
+Termo1: turn Termo2: remedi 
+Count: 20 
+Termo1: turn Termo2: gratil 
+Count: 20 
+Termo1: turn Termo2: descont 
+Count: 20 
+Termo1: turn Termo2: benefici 
+Count: 21 
+Termo1: turn Termo2: gast 
+Count: 21 
+Termo1: turn Termo2: bi 
+Count: 21 
+Termo1: turn Termo2: so 
+Count: 21 
+Termo1: turn Termo2: cust 
+Count: 21 
+Termo1: turn Termo2: maquin 
+Count: 21 
+Termo1: turn Termo2: publ 
+Count: 21 
+Termo1: turn Termo2: serv 
+Count: 21 
+Termo1: turn Termo2: cidada 
+Count: 21 
+Termo1: turn Termo2: pess 
+Count: 22 
+Termo1: turn Termo2: qued 
+Count: 22 
+Termo1: turn Termo2: popular 
+Count: 22 
+Termo1: turn Termo2: sinal 
+Count: 22 
+Termo1: turn Termo2: cans 
+Count: 22 
+Termo1: turn Termo2: engan 
+Count: 23 
+Termo1: turn Termo2: incomod 
+Count: 23 
+Termo1: turn Termo2: serv 
+Count: 23 
+Termo1: turn Termo2: poder 
+Count: 23 
+Termo1: turn Termo2: capit 
+Count: 23 
+Termo1: turn Termo2: vir 
+Count: 23 
+Termo1: turn Termo2: cost 
+Count: 23 
+Termo1: turn Termo2: direit 
+Count: 24 
+Termo1: turn Termo2: demoniz 
+Count: 24 
+Termo1: turn Termo2: categor 
+Count: 24 
+Termo1: turn Termo2: medic 
+Count: 24 
+Termo1: turn Termo2: culp 
+Count: 24 
+Termo1: turn Termo2: su 
+Count: 25 
+Termo1: turn Termo2: prefir 
+Count: 25 
+Termo1: turn Termo2: centraliz 
+Count: 26 
+Termo1: turn Termo2: cheg 
+Count: 26 
+Termo1: turn Termo2: corrupca 
+Count: 26 
+Termo1: turn Termo2: vam 
+Count: 26 
+Termo1: turn Termo2: demit 
+Count: 26 
+Termo1: turn Termo2: metad 
+Count: 26 
+Termo1: turn Termo2: dest 
+Count: 26 
+Termo1: turn Termo2: ministr 
+Count: 27 
+Termo1: turn Termo2: gast 
+Count: 27 
+Termo1: turn Termo2: bi 
+Count: 27 
+Termo1: turn Termo2: so 
+Count: 27 
+Termo1: turn Termo2: cust 
+Count: 27 
+Termo1: turn Termo2: maquin 
+Count: 27 
+Termo1: turn Termo2: publ 
+Count: 27 
+Termo1: turn Termo2: serv 
+Count: 27 
+Termo1: turn Termo2: cidada 
+Count: 27 
+Termo1: turn Termo2: pess 
+Count: 28 
+Termo1: turn Termo2: ment 
+Count: 28 
+Termo1: turn Termo2: nao 
+Count: 28 
+Termo1: turn Termo2: combat 
+Count: 28 
+Termo1: turn Termo2: mis 
+Count: 29 
+Termo1: turn Termo2: contest 
+Count: 29 
+Termo1: turn Termo2: marketing 
+Count: 29 
+Termo1: turn Termo2: mis 
+Count: 29 
+Termo1: turn Termo2: ment 
+Count: 30 
+Termo1: turn Termo2: maravilh 
+Count: 30 
+Termo1: turn Termo2: continu 
+Count: 30 
+Termo1: turn Termo2: cresc 
+Count: 31 
+Termo1: turn Termo2: continu 
+Count: 31 
+Termo1: turn Termo2: cresc 
+Count: 32 
+Termo1: turn Termo2: maravilh 
+Count: 32 
+Termo1: turn Termo2: continu 
+Count: 32 
+Termo1: turn Termo2: cresc 
+Count: 33 
+Termo1: turn Termo2: cheg 
+Count: 33 
+Termo1: turn Termo2: corrupca 
+Count: 33 
+Termo1: turn Termo2: vam 
+Count: 33 
+Termo1: turn Termo2: demit 
+Count: 33 
+Termo1: turn Termo2: metad 
+Count: 33 
+Termo1: turn Termo2: dest 
+Count: 33 
+Termo1: turn Termo2: ministr 
+Count: 34 
+Termo1: turn Termo2: voc 
+Count: 34 
+Termo1: turn Termo2: ach 
+Count: 34 
+Termo1: turn Termo2: acab 
+Count: 34 
+Termo1: turn Termo2: corrupca 
+Count: 35 
+Termo1: turn Termo2: incomod 
+Count: 35 
+Termo1: turn Termo2: serv 
+Count: 35 
+Termo1: turn Termo2: poder 
+Count: 35 
+Termo1: turn Termo2: capit 
+Count: 35 
+Termo1: turn Termo2: vir 
+Count: 35 
+Termo1: turn Termo2: cost 
+Count: 35 
+Termo1: turn Termo2: direit 
+Count: 36 
+Termo1: turn Termo2: maravilh 
+Count: 36 
+Termo1: turn Termo2: continu 
+Count: 36 
+Termo1: turn Termo2: cresc 
+Count: 37 
+Termo1: turn Termo2: president 
+Count: 37 
+Termo1: turn Termo2: apost 
+Count: 37 
+Termo1: turn Termo2: logis 
+Count: 37 
+Termo1: turn Termo2: cresc 
+Count: 38 
+Termo1: turn Termo2: continu 
+Count: 38 
+Termo1: turn Termo2: cresc 
+Count: 39 
+Termo1: turn Termo2: maravilh 
+Count: 39 
+Termo1: turn Termo2: continu 
+Count: 39 
+Termo1: turn Termo2: cresc 
+Count: 40 
+Termo1: turn Termo2: uso 
+Count: 40 
+Termo1: turn Termo2: avia 
+Count: 40 
+Termo1: turn Termo2: fab 
+Count: 40 
+Termo1: turn Termo2: autoridad 
+Count: 40 
+Termo1: turn Termo2: cresc 
+Count: 41 
+Termo1: turn Termo2: cris 
+Count: 41 
+Termo1: turn Termo2: encolh 
+Count: 41 
+Termo1: turn Termo2: qued 
+Count: 42 
+Termo1: turn Termo2: demoniz 
+Count: 42 
+Termo1: turn Termo2: categor 
+Count: 42 
+Termo1: turn Termo2: medic 
+Count: 42 
+Termo1: turn Termo2: culp 
+Count: 42 
+Termo1: turn Termo2: su 
+Count: 43 
+Termo1: turn Termo2: cusp 
+Count: 43 
+Termo1: turn Termo2: rost 
+Count: 43 
+Termo1: turn Termo2: medic 
+Count: 44 
+Termo1: turn Termo2: gast 
+Count: 44 
+Termo1: turn Termo2: bi 
+Count: 44 
+Termo1: turn Termo2: so 
+Count: 44 
+Termo1: turn Termo2: cust 
+Count: 44 
+Termo1: turn Termo2: maquin 
+Count: 44 
+Termo1: turn Termo2: publ 
+Count: 44 
+Termo1: turn Termo2: serv 
+Count: 44 
+Termo1: turn Termo2: cidada 
+Count: 44 
+Termo1: turn Termo2: pess 
+Count: 45 
+Termo1: turn Termo2: farr 
+Count: 45 
+Termo1: turn Termo2: ministeri 
+Count: 45 
+Termo1: turn Termo2: cust 
+Count: 46 
+Termo1: turn Termo2: defend 
+Count: 46 
+Termo1: turn Termo2: mud 
+Count: 46 
+Termo1: turn Termo2: qual 
+Count: 46 
+Termo1: turn Termo2: educaca 
+Count: 46 
+Termo1: turn Termo2: melhor 
+Count: 47 
+Termo1: turn Termo2: cheg 
+Count: 47 
+Termo1: turn Termo2: corrupca 
+Count: 47 
+Termo1: turn Termo2: vam 
+Count: 47 
+Termo1: turn Termo2: demit 
+Count: 47 
+Termo1: turn Termo2: metad 
+Count: 47 
+Termo1: turn Termo2: dest 
+Count: 47 
+Termo1: turn Termo2: ministr 
+Count: 48 
+Termo1: turn Termo2: demoniz 
+Count: 48 
+Termo1: turn Termo2: categor 
+Count: 48 
+Termo1: turn Termo2: medic 
+Count: 48 
+Termo1: turn Termo2: culp 
+Count: 48 
+Termo1: turn Termo2: su 
+Count: 49 
+Termo1: turn Termo2: remedi 
+Count: 49 
+Termo1: turn Termo2: gratil 
+Count: 49 
+Termo1: turn Termo2: descont 
+Count: 49 
+Termo1: turn Termo2: benefici 
+Count: 50 
+Termo1: turn Termo2: descoordenaca 
+Count: 50 
+Termo1: turn Termo2: ilusion 
+Count: 51 
+Termo1: turn Termo2: escol 
+Count: 51 
+Termo1: turn Termo2: nazist 
+Count: 51 
+Termo1: turn Termo2: franklin 
+Count: 51 
+Termo1: turn Termo2: martim 
+Count: 51 
+Termo1: turn Termo2: tent 
+Count: 51 
+Termo1: turn Termo2: desmoral 
+Count: 51 
+Termo1: turn Termo2: juiz 
+Count: 52 
+Termo1: turn Termo2: cheg 
+Count: 52 
+Termo1: turn Termo2: corrupca 
+Count: 52 
+Termo1: turn Termo2: vam 
+Count: 52 
+Termo1: turn Termo2: demit 
+Count: 52 
+Termo1: turn Termo2: metad 
+Count: 52 
+Termo1: turn Termo2: dest 
+Count: 52 
+Termo1: turn Termo2: ministr 
+Count: 53 
+Termo1: turn Termo2: incomod 
+Count: 53 
+Termo1: turn Termo2: serv 
+Count: 53 
+Termo1: turn Termo2: poder 
+Count: 53 
+Termo1: turn Termo2: capit 
+Count: 53 
+Termo1: turn Termo2: vir 
+Count: 53 
+Termo1: turn Termo2: cost 
+Count: 53 
+Termo1: turn Termo2: direit 
+Count: 54 
+Termo1: turn Termo2: defend 
+Count: 54 
+Termo1: turn Termo2: mud 
+Count: 54 
+Termo1: turn Termo2: qual 
+Count: 54 
+Termo1: turn Termo2: educaca 
+Count: 54 
+Termo1: turn Termo2: melhor 
+Count: 55 
+Termo1: turn Termo2: prior 
+Count: 55 
+Termo1: turn Termo2: assegur 
+Count: 55 
+Termo1: turn Termo2: invest 
+Count: 55 
+Termo1: turn Termo2: educaca 
+Count: 56 
+Termo1: turn Termo2: cris 
+Count: 56 
+Termo1: turn Termo2: encolh 
+Count: 56 
+Termo1: turn Termo2: qued 
+Count: 57 
+Termo1: turn Termo2: qued 
+Count: 57 
+Termo1: turn Termo2: popular 
+Count: 57 
+Termo1: turn Termo2: sinal 
+Count: 57 
+Termo1: turn Termo2: cans 
+Count: 57 
+Termo1: turn Termo2: engan 
+Count: 58 
+Termo1: turn Termo2: escol 
+Count: 58 
+Termo1: turn Termo2: nazist 
+Count: 58 
+Termo1: turn Termo2: franklin 
+Count: 58 
+Termo1: turn Termo2: martim 
+Count: 58 
+Termo1: turn Termo2: tent 
+Count: 58 
+Termo1: turn Termo2: desmoral 
+Count: 58 
+Termo1: turn Termo2: juiz 
+Count: 59 
+Termo1: turn Termo2: uso 
+Count: 59 
+Termo1: turn Termo2: avia 
+Count: 59 
+Termo1: turn Termo2: fab 
+Count: 59 
+Termo1: turn Termo2: autoridad 
+Count: 59 
+Termo1: turn Termo2: cresc 
+Count: 60 
+Termo1: turn Termo2: farr 
+Count: 60 
+Termo1: turn Termo2: ministeri 
+Count: 60 
+Termo1: turn Termo2: cust 
+Count: 61 
+Termo1: turn Termo2: escol 
+Count: 61 
+Termo1: turn Termo2: nazist 
+Count: 61 
+Termo1: turn Termo2: franklin 
+Count: 61 
+Termo1: turn Termo2: martim 
+Count: 61 
+Termo1: turn Termo2: tent 
+Count: 61 
+Termo1: turn Termo2: desmoral 
+Count: 61 
+Termo1: turn Termo2: juiz 
+Count: 62 
+Termo1: turn Termo2: funk 
+Count: 63 
+Termo1: turn Termo2: gast 
+Count: 63 
+Termo1: turn Termo2: bi 
+Count: 63 
+Termo1: turn Termo2: so 
+Count: 63 
+Termo1: turn Termo2: cust 
+Count: 63 
+Termo1: turn Termo2: maquin 
+Count: 63 
+Termo1: turn Termo2: publ 
+Count: 63 
+Termo1: turn Termo2: serv 
+Count: 63 
+Termo1: turn Termo2: cidada 
+Count: 63 
+Termo1: turn Termo2: pess 
+Count: 64 
+Termo1: turn Termo2: pess 
+Count: 64 
+Termo1: turn Termo2: ges 
+Count: 65 
+Termo1: turn Termo2: pess 
+Count: 65 
+Termo1: turn Termo2: ges 
+Count: 66 
+Termo1: turn Termo2: pess 
+Count: 66 
+Termo1: turn Termo2: ges 
+Count: 67 
+Termo1: turn Termo2: pess 
+Count: 67 
+Termo1: turn Termo2: ges 
+Count: 68 
+Termo1: turn Termo2: pess 
+Count: 68 
+Termo1: turn Termo2: ges 
+Count: 69 
+Termo1: turn Termo2: pess 
+Count: 69 
+Termo1: turn Termo2: ges 
+Count: 70 
+Termo1: turn Termo2: remedi 
+Count: 70 
+Termo1: turn Termo2: gratil 
+Count: 70 
+Termo1: turn Termo2: descont 
+Count: 70 
+Termo1: turn Termo2: benefici 
+Count: 71 
+Termo1: turn Termo2: ilusa 
+Count: 71 
+Termo1: turn Termo2: pens 
+Count: 71 
+Termo1: turn Termo2: ilud 
+Count: 71 
+Termo1: turn Termo2: algu 
+Count: 71 
+Termo1: turn Termo2: igual 
+Count: 71 
+Termo1: turn Termo2: ment 
+Count: 72 
+Termo1: turn Termo2: ilusa 
+Count: 72 
+Termo1: turn Termo2: pens 
+Count: 72 
+Termo1: turn Termo2: ilud 
+Count: 72 
+Termo1: turn Termo2: algu 
+Count: 72 
+Termo1: turn Termo2: igual 
+Count: 72 
+Termo1: turn Termo2: ment 
+Count: 73 
+Termo1: turn Termo2: ilusa 
+Count: 73 
+Termo1: turn Termo2: pens 
+Count: 73 
+Termo1: turn Termo2: ilud 
+Count: 73 
+Termo1: turn Termo2: algu 
+Count: 73 
+Termo1: turn Termo2: igual 
+Count: 73 
+Termo1: turn Termo2: ment 
+Count: 74 
+Termo1: turn Termo2: descoordenaca 
+Count: 74 
+Termo1: turn Termo2: ilusion 
+Count: 75 
+Termo1: turn Termo2: incomod 
+Count: 75 
+Termo1: turn Termo2: serv 
+Count: 75 
+Termo1: turn Termo2: poder 
+Count: 75 
+Termo1: turn Termo2: capit 
+Count: 75 
+Termo1: turn Termo2: vir 
+Count: 75 
+Termo1: turn Termo2: cost 
+Count: 75 
+Termo1: turn Termo2: direit 
+Count: 76 
+Termo1: turn Termo2: parabeniz 
+Count: 76 
+Termo1: turn Termo2: sancion 
+Count: 76 
+Termo1: turn Termo2: obrig 
+Count: 76 
+Termo1: turn Termo2: su 
+Count: 76 
+Termo1: turn Termo2: prest 
+Count: 76 
+Termo1: turn Termo2: atend 
+Count: 76 
+Termo1: turn Termo2: integr 
+Count: 76 
+Termo1: turn Termo2: mulh 
+Count: 77 
+Termo1: turn Termo2: bas 
+Count: 77 
+Termo1: turn Termo2: paquiderm 
+Count: 77 
+Termo1: turn Termo2: serpentari 
+Count: 77 
+Termo1: turn Termo2: lut 
+Count: 77 
+Termo1: turn Termo2: intestin 
+Count: 77 
+Termo1: turn Termo2: mist 
+Count: 77 
+Termo1: turn Termo2: torr 
+Count: 77 
+Termo1: turn Termo2: babel 
+Count: 77 
+Termo1: turn Termo2: nau 
+Count: 77 
+Termo1: turn Termo2: rum 
+Count: 78 
+Termo1: turn Termo2: prior 
+Count: 78 
+Termo1: turn Termo2: assegur 
+Count: 78 
+Termo1: turn Termo2: invest 
+Count: 78 
+Termo1: turn Termo2: educaca 
+Count: 79 
+Termo1: turn Termo2: escol 
+Count: 79 
+Termo1: turn Termo2: nazist 
+Count: 79 
+Termo1: turn Termo2: franklin 
+Count: 79 
+Termo1: turn Termo2: martim 
+Count: 79 
+Termo1: turn Termo2: tent 
+Count: 79 
+Termo1: turn Termo2: desmoral 
+Count: 79 
+Termo1: turn Termo2: juiz 
+Count: 80 
+Termo1: turn Termo2: president 
+Count: 80 
+Termo1: turn Termo2: apost 
+Count: 80 
+Termo1: turn Termo2: logis 
+Count: 80 
+Termo1: turn Termo2: cresc 
+Count: 81 
+Termo1: turn Termo2: bas 
+Count: 81 
+Termo1: turn Termo2: paquiderm 
+Count: 81 
+Termo1: turn Termo2: serpentari 
+Count: 81 
+Termo1: turn Termo2: lut 
+Count: 81 
+Termo1: turn Termo2: intestin 
+Count: 81 
+Termo1: turn Termo2: mist 
+Count: 81 
+Termo1: turn Termo2: torr 
+Count: 81 
+Termo1: turn Termo2: babel 
+Count: 81 
+Termo1: turn Termo2: nau 
+Count: 81 
+Termo1: turn Termo2: rum 
+Count: 82 
+Termo1: turn Termo2: manifestaco 
+Count: 82 
+Termo1: turn Termo2: respeit 
+Count: 83 
+Termo1: turn Termo2: gast 
+Count: 83 
+Termo1: turn Termo2: bi 
+Count: 83 
+Termo1: turn Termo2: so 
+Count: 83 
+Termo1: turn Termo2: cust 
+Count: 83 
+Termo1: turn Termo2: maquin 
+Count: 83 
+Termo1: turn Termo2: publ 
+Count: 83 
+Termo1: turn Termo2: serv 
+Count: 83 
+Termo1: turn Termo2: cidada 
+Count: 83 
+Termo1: turn Termo2: pess 
+Count: 84 
+Termo1: turn Termo2: maravilh 
+Count: 84 
+Termo1: turn Termo2: continu 
+Count: 84 
+Termo1: turn Termo2: cresc 
+Count: 85 
+Termo1: turn Termo2: maravilh 
+Count: 85 
+Termo1: turn Termo2: continu 
+Count: 85 
+Termo1: turn Termo2: cresc 
+Count: 86 
+Termo1: turn Termo2: contest 
+Count: 86 
+Termo1: turn Termo2: marketing 
+Count: 86 
+Termo1: turn Termo2: mis 
+Count: 86 
+Termo1: turn Termo2: ment 
+Count: 87 
+Termo1: turn Termo2: escol 
+Count: 87 
+Termo1: turn Termo2: nazist 
+Count: 87 
+Termo1: turn Termo2: franklin 
+Count: 87 
+Termo1: turn Termo2: martim 
+Count: 87 
+Termo1: turn Termo2: tent 
+Count: 87 
+Termo1: turn Termo2: desmoral 
+Count: 87 
+Termo1: turn Termo2: juiz 
+Count: 88 
+Termo1: turn Termo2: cusp 
+Count: 88 
+Termo1: turn Termo2: rost 
+Count: 88 
+Termo1: turn Termo2: medic 
+Count: 89 
+Termo1: turn Termo2: demoniz 
+Count: 89 
+Termo1: turn Termo2: categor 
+Count: 89 
+Termo1: turn Termo2: medic 
+Count: 89 
+Termo1: turn Termo2: culp 
+Count: 89 
+Termo1: turn Termo2: su 
+Count: 90 
+Termo1: turn Termo2: defend 
+Count: 90 
+Termo1: turn Termo2: mud 
+Count: 90 
+Termo1: turn Termo2: qual 
+Count: 90 
+Termo1: turn Termo2: educaca 
+Count: 90 
+Termo1: turn Termo2: melhor 
+Count: 91 
+Termo1: turn Termo2: contest 
+Count: 91 
+Termo1: turn Termo2: marketing 
+Count: 91 
+Termo1: turn Termo2: mis 
+Count: 91 
+Termo1: turn Termo2: ment 
+Count: 92 
+Termo1: turn Termo2: ment 
+Count: 92 
+Termo1: turn Termo2: nao 
+Count: 92 
+Termo1: turn Termo2: combat 
+Count: 92 
+Termo1: turn Termo2: mis 
+Count: 93 
+Termo1: turn Termo2: ilusa 
+Count: 93 
+Termo1: turn Termo2: pens 
+Count: 93 
+Termo1: turn Termo2: ilud 
+Count: 93 
+Termo1: turn Termo2: algu 
+Count: 93 
+Termo1: turn Termo2: igual 
+Count: 93 
+Termo1: turn Termo2: ment 
+Count: 94 
+Termo1: turn Termo2: cheg 
+Count: 94 
+Termo1: turn Termo2: corrupca 
+Count: 94 
+Termo1: turn Termo2: vam 
+Count: 94 
+Termo1: turn Termo2: demit 
+Count: 94 
+Termo1: turn Termo2: metad 
+Count: 94 
+Termo1: turn Termo2: dest 
+Count: 94 
+Termo1: turn Termo2: ministr 
+Count: 95 
+Termo1: turn Termo2: farr 
+Count: 95 
+Termo1: turn Termo2: ministeri 
+Count: 95 
+Termo1: turn Termo2: cust 
+Count: 96 
+Termo1: turn Termo2: cheg 
+Count: 96 
+Termo1: turn Termo2: corrupca 
+Count: 96 
+Termo1: turn Termo2: vam 
+Count: 96 
+Termo1: turn Termo2: demit 
+Count: 96 
+Termo1: turn Termo2: metad 
+Count: 96 
+Termo1: turn Termo2: dest 
+Count: 96 
+Termo1: turn Termo2: ministr 
+Count: 97 
+Termo1: turn Termo2: contest 
+Count: 97 
+Termo1: turn Termo2: marketing 
+Count: 97 
+Termo1: turn Termo2: mis 
+Count: 97 
+Termo1: turn Termo2: ment 
+Count: 98 
+Termo1: turn Termo2: ment 
+Count: 98 
+Termo1: turn Termo2: nao 
+Count: 98 
+Termo1: turn Termo2: combat 
+Count: 98 
+Termo1: turn Termo2: mis 
+Count: 99 
+Termo1: turn Termo2: bas 
+Count: 99 
+Termo1: turn Termo2: paquiderm 
+Count: 99 
+Termo1: turn Termo2: serpentari 
+Count: 99 
+Termo1: turn Termo2: lut 
+Count: 99 
+Termo1: turn Termo2: intestin 
+Count: 99 
+Termo1: turn Termo2: mist 
+Count: 99 
+Termo1: turn Termo2: torr 
+Count: 99 
+Termo1: turn Termo2: babel 
+Count: 99 
+Termo1: turn Termo2: nau 
+Count: 99 
+Termo1: turn Termo2: rum 
+Count: 100 
+Termo1: turn Termo2: bas 
+Count: 100 
+Termo1: turn Termo2: paquiderm 
+Count: 100 
+Termo1: turn Termo2: serpentari 
+Count: 100 
+Termo1: turn Termo2: lut 
+Count: 100 
+Termo1: turn Termo2: intestin 
+Count: 100 
+Termo1: turn Termo2: mist 
+Count: 100 
+Termo1: turn Termo2: torr 
+Count: 100 
+Termo1: turn Termo2: babel 
+Count: 100 
+Termo1: turn Termo2: nau 
+Count: 100 
+Termo1: turn Termo2: rum 
+Count: 101 
+Termo1: turn Termo2: defend 
+Count: 101 
+Termo1: turn Termo2: mud 
+Count: 101 
+Termo1: turn Termo2: qual 
+Count: 101 
+Termo1: turn Termo2: educaca 
+Count: 101 
+Termo1: turn Termo2: melhor 
+Count: 102 
+Termo1: turn Termo2: avanc 
+Count: 102 
+Termo1: turn Termo2: mulh 
+Count: 102 
+Termo1: turn Termo2: pod 
+Count: 103 
+Termo1: turn Termo2: parabeniz 
+Count: 103 
+Termo1: turn Termo2: sancion 
+Count: 103 
+Termo1: turn Termo2: obrig 
+Count: 103 
+Termo1: turn Termo2: su 
+Count: 103 
+Termo1: turn Termo2: prest 
+Count: 103 
+Termo1: turn Termo2: atend 
+Count: 103 
+Termo1: turn Termo2: integr 
+Count: 103 
+Termo1: turn Termo2: mulh 
+Count: 104 
+Termo1: turn Termo2: ment 
+Count: 104 
+Termo1: turn Termo2: nao 
+Count: 104 
+Termo1: turn Termo2: combat 
+Count: 104 
+Termo1: turn Termo2: mis 
+Count: 105 
+Termo1: turn Termo2: nao 
+Count: 105 
+Termo1: turn Termo2: arrum 
+Count: 105 
+Termo1: turn Termo2: voc 
+Count: 105 
+Termo1: turn Termo2: ach 
+Count: 106 
+Termo1: turn Termo2: bas 
+Count: 106 
+Termo1: turn Termo2: paquiderm 
+Count: 106 
+Termo1: turn Termo2: serpentari 
+Count: 106 
+Termo1: turn Termo2: lut 
+Count: 106 
+Termo1: turn Termo2: intestin 
+Count: 106 
+Termo1: turn Termo2: mist 
+Count: 106 
+Termo1: turn Termo2: torr 
+Count: 106 
+Termo1: turn Termo2: babel 
+Count: 106 
+Termo1: turn Termo2: nau 
+Count: 106 
+Termo1: turn Termo2: rum 
+Count: 107 
+Termo1: turn Termo2: escol 
+Count: 107 
+Termo1: turn Termo2: nazist 
+Count: 107 
+Termo1: turn Termo2: franklin 
+Count: 107 
+Termo1: turn Termo2: martim 
+Count: 107 
+Termo1: turn Termo2: tent 
+Count: 107 
+Termo1: turn Termo2: desmoral 
+Count: 107 
+Termo1: turn Termo2: juiz 
+Count: 108 
+Termo1: turn Termo2: parabeniz 
+Count: 108 
+Termo1: turn Termo2: sancion 
+Count: 108 
+Termo1: turn Termo2: obrig 
+Count: 108 
+Termo1: turn Termo2: su 
+Count: 108 
+Termo1: turn Termo2: prest 
+Count: 108 
+Termo1: turn Termo2: atend 
+Count: 108 
+Termo1: turn Termo2: integr 
+Count: 108 
+Termo1: turn Termo2: mulh 
+Count: 109 
+Termo1: turn Termo2: aprend 
+Count: 109 
+Termo1: turn Termo2: orgulh 
+Count: 110 
+Termo1: turn Termo2: bas 
+Count: 110 
+Termo1: turn Termo2: paquiderm 
+Count: 110 
+Termo1: turn Termo2: serpentari 
+Count: 110 
+Termo1: turn Termo2: lut 
+Count: 110 
+Termo1: turn Termo2: intestin 
+Count: 110 
+Termo1: turn Termo2: mist 
+Count: 110 
+Termo1: turn Termo2: torr 
+Count: 110 
+Termo1: turn Termo2: babel 
+Count: 110 
+Termo1: turn Termo2: nau 
+Count: 110 
+Termo1: turn Termo2: rum 
+Count: 111 
+Termo1: turn Termo2: parab 
+Count: 111 
+Termo1: turn Termo2: acredit 
+Count: 112 
+Termo1: turn Termo2: parabeniz 
+Count: 112 
+Termo1: turn Termo2: sancion 
+Count: 112 
+Termo1: turn Termo2: obrig 
+Count: 112 
+Termo1: turn Termo2: su 
+Count: 112 
+Termo1: turn Termo2: prest 
+Count: 112 
+Termo1: turn Termo2: atend 
+Count: 112 
+Termo1: turn Termo2: integr 
+Count: 112 
+Termo1: turn Termo2: mulh 
+Count: 113 
+Termo1: turn Termo2: parabeniz 
+Count: 113 
+Termo1: turn Termo2: sancion 
+Count: 113 
+Termo1: turn Termo2: obrig 
+Count: 113 
+Termo1: turn Termo2: su 
+Count: 113 
+Termo1: turn Termo2: prest 
+Count: 113 
+Termo1: turn Termo2: atend 
+Count: 113 
+Termo1: turn Termo2: integr 
+Count: 113 
+Termo1: turn Termo2: mulh 
+Count: 114 
+Termo1: turn Termo2: ilusa 
+Count: 114 
+Termo1: turn Termo2: pens 
+Count: 114 
+Termo1: turn Termo2: ilud 
+Count: 114 
+Termo1: turn Termo2: algu 
+Count: 114 
+Termo1: turn Termo2: igual 
+Count: 114 
+Termo1: turn Termo2: ment 
+Count: 115 
+Termo1: turn Termo2: gast 
+Count: 115 
+Termo1: turn Termo2: bi 
+Count: 115 
+Termo1: turn Termo2: so 
+Count: 115 
+Termo1: turn Termo2: cust 
+Count: 115 
+Termo1: turn Termo2: maquin 
+Count: 115 
+Termo1: turn Termo2: publ 
+Count: 115 
+Termo1: turn Termo2: serv 
+Count: 115 
+Termo1: turn Termo2: cidada 
+Count: 115 
+Termo1: turn Termo2: pess 
+Count: 116 
+Termo1: turn Termo2: pess 
+Count: 116 
+Termo1: turn Termo2: ges 
+Count: 117 
+Termo1: turn Termo2: pess 
+Count: 117 
+Termo1: turn Termo2: ges 
+Count: 118 
+Termo1: turn Termo2: pess 
+Count: 118 
+Termo1: turn Termo2: ges 
+Count: 119 
+Termo1: turn Termo2: pess 
+Count: 119 
+Termo1: turn Termo2: ges 
+Count: 120 
+Termo1: turn Termo2: pess 
+Count: 120 
+Termo1: turn Termo2: ges 
+Count: 121 
+Termo1: turn Termo2: pess 
+Count: 121 
+Termo1: turn Termo2: ges 
+Count: 122 
+Termo1: turn Termo2: pib 
+Count: 122 
+Termo1: turn Termo2: ridicul 
+Count: 123 
+Termo1: turn Termo2: avanc 
+Count: 123 
+Termo1: turn Termo2: mulh 
+Count: 123 
+Termo1: turn Termo2: pod 
+Count: 124 
+Termo1: turn Termo2: poder 
+Count: 125 
+Termo1: turn Termo2: incomod 
+Count: 125 
+Termo1: turn Termo2: serv 
+Count: 125 
+Termo1: turn Termo2: poder 
+Count: 125 
+Termo1: turn Termo2: capit 
+Count: 125 
+Termo1: turn Termo2: vir 
+Count: 125 
+Termo1: turn Termo2: cost 
+Count: 125 
+Termo1: turn Termo2: direit 
+Count: 126 
+Termo1: turn Termo2: poder 
+Count: 127 
+Termo1: turn Termo2: incomod 
+Count: 127 
+Termo1: turn Termo2: serv 
+Count: 127 
+Termo1: turn Termo2: poder 
+Count: 127 
+Termo1: turn Termo2: capit 
+Count: 127 
+Termo1: turn Termo2: vir 
+Count: 127 
+Termo1: turn Termo2: cost 
+Count: 127 
+Termo1: turn Termo2: direit 
+Count: 128 
+Termo1: turn Termo2: qued 
+Count: 128 
+Termo1: turn Termo2: popular 
+Count: 128 
+Termo1: turn Termo2: sinal 
+Count: 128 
+Termo1: turn Termo2: cans 
+Count: 128 
+Termo1: turn Termo2: engan 
+Count: 129 
+Termo1: turn Termo2: prefir 
+Count: 129 
+Termo1: turn Termo2: centraliz 
+Count: 130 
+Termo1: turn Termo2: president 
+Count: 130 
+Termo1: turn Termo2: apost 
+Count: 130 
+Termo1: turn Termo2: logis 
+Count: 130 
+Termo1: turn Termo2: cresc 
+Count: 131 
+Termo1: turn Termo2: admiraca 
+Count: 131 
+Termo1: turn Termo2: respeit 
+Count: 131 
+Termo1: turn Termo2: president 
+Count: 131 
+Termo1: turn Termo2: rum 
+Count: 131 
+Termo1: turn Termo2: vitor 
+Count: 132 
+Termo1: turn Termo2: parabeniz 
+Count: 132 
+Termo1: turn Termo2: sancion 
+Count: 132 
+Termo1: turn Termo2: obrig 
+Count: 132 
+Termo1: turn Termo2: su 
+Count: 132 
+Termo1: turn Termo2: prest 
+Count: 132 
+Termo1: turn Termo2: atend 
+Count: 132 
+Termo1: turn Termo2: integr 
+Count: 132 
+Termo1: turn Termo2: mulh 
+Count: 133 
+Termo1: turn Termo2: prior 
+Count: 133 
+Termo1: turn Termo2: assegur 
+Count: 133 
+Termo1: turn Termo2: invest 
+Count: 133 
+Termo1: turn Termo2: educaca 
+Count: 134 
+Termo1: turn Termo2: gast 
+Count: 0 
+Termo1: turn Termo2: bi 
+Count: 0 
+Termo1: turn Termo2: so 
+Count: 0 
+Termo1: turn Termo2: cust 
+Count: 0 
+Termo1: turn Termo2: maquin 
+Count: 0 
+Termo1: turn Termo2: publ 
+Count: 0 
+Termo1: turn Termo2: serv 
+Count: 0 
+Termo1: turn Termo2: cidada 
+Count: 0 
+Termo1: turn Termo2: pess 
+[91m
+	venc: Termo Desconhecido[0m
+[91m
+	turn: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível
+
+[0m
+]0;root@Infoway: /media/silvio/Dados/Fatec/6_semestre/TG/versao3root@Infoway:/media/silvio/Dados/Fatec/6_semestre/TG/versao3# exit
+
+Script done on Qui 14 Nov 2013 18:40:23 BRST

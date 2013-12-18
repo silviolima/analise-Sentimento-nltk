@@ -1,0 +1,14 @@
+# Define here the models for your scraped items
+#
+# See documentation in:
+# http://doc.scrapy.org/topics/items.html
+
+from scrapy.item import Item, Field
+class Artigo(Item):
+    nome=Field()
+    url=Field()
+    conteudo=Field()
+
+    def __str__(self):
+       # return "ARTIGO ->  \n[ NOME=%s\n CONTEUDO=%s\n ]" % (self["nome"], self["conteudo"][:300])
+        return "ARTIGO ->  \n[CONTEUDO=%s\n ]" % (self["conteudo"][:300])

@@ -1,0 +1,1522 @@
+Script started on Qui 14 Nov 2013 21:02:56 BRST
+]0;root@Infoway: /media/silvio/Dados/Fatec/6_semestre/TG/versao3root@Infoway:/media/silvio/Dados/Fatec/6_semestre/TG/versao3# python testarTwitter.py dilma
+[H[2J[94m
+		Análise de Sentimento
+		Assunto: DILMA [0m
+
+	Frase 1: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 2: RT @Esquentados: Ano que vem o Justus vai fechar um acordo com a Dilma e vai apresentar o Jovem Aprendiz, estagiários são mais superiores! …
+ 
+
+	Normalizado: rt at_user ano que vem o justus vai fechar um acordo com a dilma e vai apresentar o jovem aprendiz, estagiarios sao mais superiores. ...  
+
+	Caracteristicas - [u'justu', u'fech', u'apresent', u'jov', u'estagiari', u'superi'] 
+[91m
+	justu: Termo Desconhecido[0m
+[91m
+	fech: Termo Desconhecido[0m
+[91m
+	apresent: Termo Desconhecido[0m
+[91m
+	jov: Termo Desconhecido[0m
+[91m
+	estagiari: Termo Desconhecido[0m
+[91m
+	superi: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase 3: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 4: gostaria muito de ser amigo pessoal da dilma assim nao terei que fica discando um monte de numero de telefone ate a dilma me atende
+ 
+
+	Normalizado: gostaria muito de ser amigo pessoal da dilma assim nao terei que fica discando um monte de numero de telefone ate a dilma me atende  
+
+	Caracteristicas - [u'gost', u'amig', 'pessoal', 'nao', u'fic', u'disc', u'mont', u'telefon', u'atend'] 
+[94m
+	gost: positivo [0m
+[91m
+	amig: Termo Desconhecido[0m
+[91m
+	pessoal: Termo Desconhecido[0m
+[92m
+	nao: negativo [0m
+[91m
+	fic: Termo Desconhecido[0m
+[91m
+	disc: Termo Desconhecido[0m
+[91m
+	mont: Termo Desconhecido[0m
+[91m
+	telefon: Termo Desconhecido[0m
+[94m
+	atend: positivo [0m
+
+	Sentimento Provavel: positivo 
+
+
+	Frase 5: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 6: mai, to cagano e andano pra dilma e pro vice presidente
+ 
+
+	Normalizado: mai, to cagano e andano pra dilma e pro vice presidente  
+
+	Caracteristicas - [u'cagan', u'andan', 'pra', 'pro', u'vic'] 
+[91m
+	cagan: Termo Desconhecido[0m
+[91m
+	andan: Termo Desconhecido[0m
+[94m
+	pra: positivo [0m
+[91m
+	pro: Termo Desconhecido[0m
+[91m
+	vic: Termo Desconhecido[0m
+
+	Sentimento Provavel: positivo 
+
+
+	Frase 7: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 8: VERDADES SOBRE O SUS QUE DILMA LULA E PT ESCONDEM DO POVÃO http://t.co/YupwyOYaHR
+ 
+
+	Normalizado: verdades sobre o sus que dilma lula e pt escondem do povao url  
+
+	Caracteristicas - [u'verdad', u'su', u'escond'] 
+[91m
+	verdad: Termo Desconhecido[0m
+[94m
+	su: positivo [0m
+[91m
+	escond: Termo Desconhecido[0m
+
+	Sentimento Provavel: positivo 
+
+
+	Frase 9: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 10: RT @Esquentados: Ano que vem o Justus vai fechar um acordo com a Dilma e vai apresentar o Jovem Aprendiz, estagiários são mais superiores! …
+ 
+
+	Normalizado: rt at_user ano que vem o justus vai fechar um acordo com a dilma e vai apresentar o jovem aprendiz, estagiarios sao mais superiores. ...  
+
+	Caracteristicas - [u'justu', u'fech', u'apresent', u'jov', u'estagiari', u'superi'] 
+[91m
+	justu: Termo Desconhecido[0m
+[91m
+	fech: Termo Desconhecido[0m
+[91m
+	apresent: Termo Desconhecido[0m
+[91m
+	jov: Termo Desconhecido[0m
+[91m
+	estagiari: Termo Desconhecido[0m
+[91m
+	superi: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase 11: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 12: RT @RimoliLaerte: Chora Dilma. Os mensaleiros do PT na cadeia.
+ 
+
+	Normalizado: rt at_user chora dilma. os mensaleiros do pt na cadeia.  
+
+	Caracteristicas - [u'chor', u'mensal', u'cade'] 
+[91m
+	chor: Termo Desconhecido[0m
+[91m
+	mensal: Termo Desconhecido[0m
+[91m
+	cade: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase 13: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 14: vai toma no cu dilma feaaaaaaaaaaaaaa
+ 
+
+	Normalizado: vai toma no cu dilma feaaaaaaaaaaaaaa  
+
+	Caracteristicas - [u'tom', 'cu', u'fea'] 
+[91m
+	tom: Termo Desconhecido[0m
+[91m
+	cu: Termo Desconhecido[0m
+[91m
+	fea: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase 15: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 16: RT @Esquentados: Ano que vem o Justus vai fechar um acordo com a Dilma e vai apresentar o Jovem Aprendiz, estagiários são mais superiores! …
+ 
+
+	Normalizado: rt at_user ano que vem o justus vai fechar um acordo com a dilma e vai apresentar o jovem aprendiz, estagiarios sao mais superiores. ...  
+
+	Caracteristicas - [u'justu', u'fech', u'apresent', u'jov', u'estagiari', u'superi'] 
+[91m
+	justu: Termo Desconhecido[0m
+[91m
+	fech: Termo Desconhecido[0m
+[91m
+	apresent: Termo Desconhecido[0m
+[91m
+	jov: Termo Desconhecido[0m
+[91m
+	estagiari: Termo Desconhecido[0m
+[91m
+	superi: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase 17: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 18: #ComunismoNão #BrasilSemPT2014 - Oposição Popular Brasil: EMBROMAÇÃO MENTIRAS CRECHES DA DILMA. http://t.co/QZrIjVXHqF
+ 
+
+	Normalizado: comunismonao brasilsempt2014 - oposicao popular brasil: embromacao mentiras creches da dilma. url  
+
+	Caracteristicas - [u'comunismona', 'brasilsempt2014', u'oposica', u'popul', u'embromaca', u'ment', u'crech'] 
+[91m
+	comunismona: Termo Desconhecido[0m
+[91m
+	brasilsempt2014: Termo Desconhecido[0m
+[91m
+	oposica: Termo Desconhecido[0m
+[91m
+	popul: Termo Desconhecido[0m
+[91m
+	embromaca: Termo Desconhecido[0m
+[92m
+	ment: negativo [0m
+[92m
+	crech: negativo [0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase 19: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 20: RT @revistapiaui: #thepiauiherald Dilma autoriza exumação dos restos mortais do DEM http://t.co/1JYHdZ66AL
+ 
+
+	Normalizado: rt at_user thepiauiherald dilma autoriza exumacao dos restos mortais do dem url  
+
+	Caracteristicas - ['thepiauiherald', u'autoriz', u'exumaca', u'rest', u'mort', 'dem'] 
+[91m
+	thepiauiherald: Termo Desconhecido[0m
+[91m
+	autoriz: Termo Desconhecido[0m
+[91m
+	exumaca: Termo Desconhecido[0m
+[91m
+	rest: Termo Desconhecido[0m
+[91m
+	mort: Termo Desconhecido[0m
+[91m
+	dem: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase 21: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 22: "@revistapiaui: #thepiauiherald Dilma autoriza exumação dos restos mortais do DEM http://t.co/0Qy6uU4R7E" KKKKKKKKKKKK
+ 
+
+	Normalizado: at_user thepiauiherald dilma autoriza exumacao dos restos mortais do dem url kkkkkkkkkkkk  
+
+	Caracteristicas - ['thepiauiherald', u'autoriz', u'exumaca', u'rest', u'mort', 'dem', 'kk'] 
+[91m
+	thepiauiherald: Termo Desconhecido[0m
+[91m
+	autoriz: Termo Desconhecido[0m
+[91m
+	exumaca: Termo Desconhecido[0m
+[91m
+	rest: Termo Desconhecido[0m
+[91m
+	mort: Termo Desconhecido[0m
+[91m
+	dem: Termo Desconhecido[0m
+[91m
+	kk: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase 23: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 24: RT @extr3ssada: ´´#BelieberesFaltaDePirocaNaBoca´´ a dilma não investe na educação e da nisso ae ~belieberes~
+ 
+
+	Normalizado: rt at_user belieberesfaltadepirocanaboca a dilma nao investe na educacao e da nisso ae ~belieberes~  
+
+	Caracteristicas - [u'belieberesfaltadepirocanaboc', 'nao', u'inv', u'educaca', u'niss', 'ae'] 
+[91m
+	belieberesfaltadepirocanaboc: Termo Desconhecido[0m
+[92m
+	nao: negativo [0m
+[91m
+	inv: Termo Desconhecido[0m
+[94m
+	educaca: positivo [0m
+[91m
+	niss: Termo Desconhecido[0m
+[91m
+	ae: Termo Desconhecido[0m
+
+	Sentimento Provavel: positivo 
+
+
+	Frase 25: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 26: #BlocoQuemTemBocaVaiaDilma - EMBROMAÇÃO MENTIRAS CRECHES DA DILMA. http://t.co/QZrIjVXHqF
+ 
+
+	Normalizado: blocoquemtembocavaiadilma - embromacao mentiras creches da dilma. url  
+
+	Caracteristicas - [u'blocoquemtembocavaiadilm', u'embromaca', u'ment', u'crech'] 
+[91m
+	blocoquemtembocavaiadilm: Termo Desconhecido[0m
+[91m
+	embromaca: Termo Desconhecido[0m
+[92m
+	ment: negativo [0m
+[92m
+	crech: negativo [0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase 27: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 28: RT @Ezequiasns: O PT de Lula e Dilma matando os nordestinos de sede, e esculhambando com o nosso país! http://t.co/RKR6Od06h2  http://t.co/…
+ 
+
+	Normalizado: rt at_user o pt de lula e dilma matando os nordestinos de sede, e esculhambando com o nosso pais. url url  
+
+	Caracteristicas - [u'mat', u'nordestin', u'esculhamb'] 
+[91m
+	mat: Termo Desconhecido[0m
+[91m
+	nordestin: Termo Desconhecido[0m
+[91m
+	esculhamb: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase 29: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 30: @RodrigoHLagreca @FreeMaraih @pt_nacional Se Lula teve pedir apoio a Dilma p/ mts d próprio PT imagina p/ Haddad? #AlopradosAindaExistemNoPT
+ 
+
+	Normalizado: at_user at_user at_user se lula teve pedir apoio a dilma p/ mts d proprio pt imagina p/ haddad? alopradosaindaexistemnopt  
+
+	Caracteristicas - [u'ped', u'apoi', u'mt', 'd', u'imagin', 'haddad', 'alopradosaindaexistemnopt'] 
+[92m
+	ped: negativo [0m
+[94m
+	apoi: positivo [0m
+[91m
+	mt: Termo Desconhecido[0m
+[91m
+	d: Termo Desconhecido[0m
+[91m
+	imagin: Termo Desconhecido[0m
+[91m
+	haddad: Termo Desconhecido[0m
+[91m
+	alopradosaindaexistemnopt: Termo Desconhecido[0m
+
+	Sentimento Provavel: positivo 
+
+
+	Frase 31: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 32: Gostei de um vídeo do @YouTube de @noticianobrasil http://t.co/w6hod0hXXF Dilma Encara o Inquisidor
+ 
+
+	Normalizado: gostei de um video do at_user de at_user url dilma encara o inquisidor  
+
+	Caracteristicas - [u'gost', u'vide', u'enc', u'inquis'] 
+[94m
+	gost: positivo [0m
+[91m
+	vide: Termo Desconhecido[0m
+[91m
+	enc: Termo Desconhecido[0m
+[91m
+	inquis: Termo Desconhecido[0m
+
+	Sentimento Provavel: positivo 
+
+
+	Frase 33: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 34: RT @sammn: prefiro ter um filho PMDB que um filho dilma bolada
+ 
+
+	Normalizado: rt at_user prefiro ter um filho pmdb que um filho dilma bolada  
+
+	Caracteristicas - [u'prefir', 'pmdb', u'bol'] 
+[91m
+	prefir: Termo Desconhecido[0m
+[91m
+	pmdb: Termo Desconhecido[0m
+[91m
+	bol: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase 35: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 36: RT @oncoguia: Importante! Dilma sancionou hoje Lei proposta pela sen @anaamelialemos que obriga plano de saúde a pagar quimio oral: http://…
+ 
+
+	Normalizado: rt at_user importante. dilma sancionou hoje lei proposta pela sen at_user que obriga plano de saude a pagar quimio oral: url  
+
+	Caracteristicas - [u'import', u'sancion', u'propost', 'sen', u'obrig', u'pag', u'quimi', 'oral'] 
+[91m
+	import: Termo Desconhecido[0m
+[94m
+	sancion: positivo [0m
+[91m
+	propost: Termo Desconhecido[0m
+[91m
+	sen: Termo Desconhecido[0m
+[94m
+	obrig: positivo [0m
+[94m
+	pag: positivo [0m
+[91m
+	quimi: Termo Desconhecido[0m
+[91m
+	oral: Termo Desconhecido[0m
+
+	Sentimento Provavel: positivo 
+
+
+	Frase 37: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 38: A próxima missão do STF é mais difícil. A lista de réus é grande: Lula, Dilma, o PT inteiro, os eleitores do PT...
+ 
+
+	Normalizado: a proxima missao do stf e mais dificil. a lista de reus e grande: lula, dilma, o pt inteiro, os eleitores do pt...  
+
+	Caracteristicas - [u'prox', u'missa', 'stf', 'dificil', u'list', u'reu', u'elei'] 
+[91m
+	prox: Termo Desconhecido[0m
+[91m
+	missa: Termo Desconhecido[0m
+[91m
+	stf: Termo Desconhecido[0m
+[91m
+	dificil: Termo Desconhecido[0m
+[91m
+	list: Termo Desconhecido[0m
+[91m
+	reu: Termo Desconhecido[0m
+[91m
+	elei: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase 39: Mas sempre se dá um jeito
+ 
+
+	Normalizado: mas sempre se da um jeito  
+
+	Caracteristicas - [u'jeit'] 
+[91m
+	jeit: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase 40: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 41: Dilma Rousseff faz pronunciamento oficial sobre a vista de Justin Bieber ao brasil... Isso http://t.co/OeAsV4kpr6
+ 
+
+	Normalizado: dilma rousseff faz pronunciamento oficial sobre a vista de justin bieber ao brasil... isso url  
+
+	Caracteristicas - [u'pronunc', u'ofic', u'vist', 'justin', u'bieb'] 
+[91m
+	pronunc: Termo Desconhecido[0m
+[91m
+	ofic: Termo Desconhecido[0m
+[91m
+	vist: Termo Desconhecido[0m
+[91m
+	justin: Termo Desconhecido[0m
+[91m
+	bieb: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase 42: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 43: Eu tava lembrando  do dia em que eu e bruna mando a dilma da os parabéns a mateus , Nossa dilma o meu a Sábado ok , kkkk
+ 
+
+	Normalizado: eu tava lembrando do dia em que eu e bruna mando a dilma da os parabens a mateus , nossa dilma o meu a sabado ok , kkkk  
+
+	Caracteristicas - [u'tav', u'lembr', u'brun', u'mand', u'parab', u'mat', 'ok', 'kk'] 
+[91m
+	tav: Termo Desconhecido[0m
+[91m
+	lembr: Termo Desconhecido[0m
+[91m
+	brun: Termo Desconhecido[0m
+[91m
+	mand: Termo Desconhecido[0m
+[94m
+	parab: positivo [0m
+[91m
+	mat: Termo Desconhecido[0m
+[91m
+	ok: Termo Desconhecido[0m
+[91m
+	kk: Termo Desconhecido[0m
+
+	Sentimento Provavel: positivo 
+
+
+	Frase 44: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 45: RT @RimoliLaerte: Chora Dilma. Os mensaleiros do PT na cadeia.
+ 
+
+	Normalizado: rt at_user chora dilma. os mensaleiros do pt na cadeia.  
+
+	Caracteristicas - [u'chor', u'mensal', u'cade'] 
+[91m
+	chor: Termo Desconhecido[0m
+[91m
+	mensal: Termo Desconhecido[0m
+[91m
+	cade: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase 46: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 47: RT @blogdejamildo: PT X PSB: "Dilma foi enganada por FBC sobre Canal do Sertão", afirma deputada Isabel Cristina. Leia:... http://t.co/BnAX…
+ 
+
+	Normalizado: rt at_user pt x psb: "dilma foi enganada por fbc sobre canal do sertao", afirma deputada isabel cristina. leia:... url  
+
+	Caracteristicas - ['x', 'psb', u'engan', 'fbc', 'canal', u'deput', 'isabel', u'cristin', u'lei'] 
+[91m
+	x: Termo Desconhecido[0m
+[91m
+	psb: Termo Desconhecido[0m
+[92m
+	engan: negativo [0m
+[91m
+	fbc: Termo Desconhecido[0m
+[91m
+	canal: Termo Desconhecido[0m
+[91m
+	deput: Termo Desconhecido[0m
+[91m
+	isabel: Termo Desconhecido[0m
+[91m
+	cristin: Termo Desconhecido[0m
+[91m
+	lei: Termo Desconhecido[0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase 48: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 49: @marvio Cruzeiro 2003, o super time, Cruzeiro 2013, a bosta dos Pontos-Corridos! Alô Dilma temos  bolsa-loucura????????
+ 
+
+	Normalizado: at_user cruzeiro 2003, o super time, cruzeiro 2013, a bosta dos pontos-corridos. alo dilma temos bolsa-loucura????????  
+
+	Caracteristicas - [u'cruz', u'sup', u'bost', 'alo'] 
+[91m
+	cruz: Termo Desconhecido[0m
+[91m
+	sup: Termo Desconhecido[0m
+[91m
+	bost: Termo Desconhecido[0m
+[91m
+	alo: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase 50: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 51: Dilma Boy &gt;&gt;&gt;&gt;&gt;&gt; Dilma Bolada 
+ 
+
+	Normalizado: dilma boy &gt;&gt;&gt;&gt;&gt;&gt; dilma bolada  
+
+	Caracteristicas - ['boy', u'bol'] 
+[91m
+	boy: Termo Desconhecido[0m
+[91m
+	bol: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase 52: http://t.co/ckcTexvnIv
+ 
+
+	Normalizado: url  
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 53: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 54: RT @HugoAg0g0: Não se surpreendam se Dilma resolver criar a Secretaria Extraordinária para Exumação de Cadáveres. Com status de Ministério,…
+ 
+
+	Normalizado: rt at_user nao se surpreendam se dilma resolver criar a secretaria extraordinaria para exumacao de cadaveres. com status de ministerio,...  
+
+	Caracteristicas - ['nao', u'surpreend', u'resolv', u'cri', u'secret', u'extraordin', u'exumaca', u'cadav', u'statu'] 
+[92m
+	nao: negativo [0m
+[91m
+	surpreend: Termo Desconhecido[0m
+[91m
+	resolv: Termo Desconhecido[0m
+[91m
+	cri: Termo Desconhecido[0m
+[91m
+	secret: Termo Desconhecido[0m
+[91m
+	extraordin: Termo Desconhecido[0m
+[91m
+	exumaca: Termo Desconhecido[0m
+[91m
+	cadav: Termo Desconhecido[0m
+[91m
+	statu: Termo Desconhecido[0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase 55: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 56: Dilma: "Estoy feliz por saber que Cristina regresará pronto a trabajar" http://t.co/YKNQGLBdGj
+ 
+
+	Normalizado: dilma: "estoy feliz por saber que cristina regresara pronto a trabajar" url  
+
+	Caracteristicas - ['feliz', u'sab', u'cristin', u'regres', u'pront'] 
+[91m
+	feliz: Termo Desconhecido[0m
+[91m
+	sab: Termo Desconhecido[0m
+[91m
+	cristin: Termo Desconhecido[0m
+[91m
+	regres: Termo Desconhecido[0m
+[91m
+	pront: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase 57: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 58: PRONUNCIAMENTO OFICIAL - DILMA ROUSSEFF SOBRE JUSTIN BIEBER: http://t.co/P21NPHEJD0 via @youtube
+ 
+
+	Normalizado: pronunciamento oficial - dilma rousseff sobre justin bieber: url via at_user  
+
+	Caracteristicas - [u'pronunc', u'ofic', 'justin', u'bieb'] 
+[91m
+	pronunc: Termo Desconhecido[0m
+[91m
+	ofic: Termo Desconhecido[0m
+[91m
+	justin: Termo Desconhecido[0m
+[91m
+	bieb: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase 59: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 60: @Roxmo @DaniloGentili Cadê a coerência ? http://t.co/fGkYZE9Zmo
+ 
+
+	Normalizado: at_user at_user cade a coerencia ? url  
+
+	Caracteristicas - [u'cad', u'coerenc'] 
+[91m
+	cad: Termo Desconhecido[0m
+[91m
+	coerenc: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase 61: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 62: RT @Meutudo_lr: ´´#BelieberesFaltaDePirocaNaBoca´´ a dilma não investe na educação e da nisso ae ~belieberes~
+ 
+
+	Normalizado: rt at_user belieberesfaltadepirocanaboca a dilma nao investe na educacao e da nisso ae ~belieberes~  
+
+	Caracteristicas - [u'belieberesfaltadepirocanaboc', 'nao', u'inv', u'educaca', u'niss', 'ae'] 
+[91m
+	belieberesfaltadepirocanaboc: Termo Desconhecido[0m
+[92m
+	nao: negativo [0m
+[91m
+	inv: Termo Desconhecido[0m
+[94m
+	educaca: positivo [0m
+[91m
+	niss: Termo Desconhecido[0m
+[91m
+	ae: Termo Desconhecido[0m
+
+	Sentimento Provavel: positivo 
+
+
+	Frase 63: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 64: Formado na instituição DILMA BOLADA
+ 
+
+	Normalizado: formado na instituicao dilma bolada  
+
+	Caracteristicas - [u'form', u'instituica', u'bol'] 
+[91m
+	form: Termo Desconhecido[0m
+[91m
+	instituica: Termo Desconhecido[0m
+[91m
+	bol: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase 65: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 66: RT @HugoAg0g0: Governante buscando reeleição com menos de 60% de intenção de voto é meio caminho para a derrota. Dilma patina nos 38%. É po…
+ 
+
+	Normalizado: rt at_user governante buscando reeleicao com menos de 60% de intencao de voto e meio caminho para a derrota. dilma patina nos 38%. e po...  
+
+	Caracteristicas - [u'govern', u'busc', u'reeleica', u'intenca', u'vot', u'caminh', u'derrot', u'patin', 'po'] 
+[91m
+	govern: Termo Desconhecido[0m
+[91m
+	busc: Termo Desconhecido[0m
+[91m
+	reeleica: Termo Desconhecido[0m
+[91m
+	intenca: Termo Desconhecido[0m
+[94m
+	vot: positivo [0m
+[94m
+	caminh: positivo [0m
+[91m
+	derrot: Termo Desconhecido[0m
+[91m
+	patin: Termo Desconhecido[0m
+[91m
+	po: Termo Desconhecido[0m
+
+	Sentimento Provavel: positivo 
+
+
+	Frase 67: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 68: RT @RimoliLaerte: Chora Dilma. Os mensaleiros do PT na cadeia.
+ 
+
+	Normalizado: rt at_user chora dilma. os mensaleiros do pt na cadeia.  
+
+	Caracteristicas - [u'chor', u'mensal', u'cade'] 
+[91m
+	chor: Termo Desconhecido[0m
+[91m
+	mensal: Termo Desconhecido[0m
+[91m
+	cade: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase 69: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 70: RT @frulanis: @RodrigoHLagreca @FreeMaraih @pt_nacional Se Lula teve pedir apoio a Dilma p/ mts d próprio PT imagina p/ Haddad? #AlopradosA…
+ 
+
+	Normalizado: rt at_user at_user at_user at_user se lula teve pedir apoio a dilma p/ mts d proprio pt imagina p/ haddad? alopradosa...  
+
+	Caracteristicas - [u'ped', u'apoi', u'mt', 'd', u'imagin', 'haddad', u'aloprad'] 
+[92m
+	ped: negativo [0m
+[94m
+	apoi: positivo [0m
+[91m
+	mt: Termo Desconhecido[0m
+[91m
+	d: Termo Desconhecido[0m
+[91m
+	imagin: Termo Desconhecido[0m
+[91m
+	haddad: Termo Desconhecido[0m
+[91m
+	aloprad: Termo Desconhecido[0m
+
+	Sentimento Provavel: positivo 
+
+
+	Frase 71: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 72: Doc Wikileaks: Ag Stratfor Analisa a Parcialidade da Revista VEJA
+ 
+
+	Normalizado: doc wikileaks: ag stratfor analisa a parcialidade da revista veja  
+
+	Caracteristicas - ['doc', u'wikileak', 'ag', u'stratf', u'analis', u'parcial', u'revist', u'vej'] 
+[91m
+	doc: Termo Desconhecido[0m
+[91m
+	wikileak: Termo Desconhecido[0m
+[91m
+	ag: Termo Desconhecido[0m
+[91m
+	stratf: Termo Desconhecido[0m
+[91m
+	analis: Termo Desconhecido[0m
+[91m
+	parcial: Termo Desconhecido[0m
+[91m
+	revist: Termo Desconhecido[0m
+[91m
+	vej: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase 73: PRÓ PSDB
+ 
+
+	Normalizado: pro psdb  
+
+	Caracteristicas - ['pro', 'psdb'] 
+[91m
+	pro: Termo Desconhecido[0m
+[91m
+	psdb: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase 74: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 75: http://t.co/XuwjtLH0f8
+ 
+
+	Normalizado: url  
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 76: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 77: Dilma PT STF Snowden NSA Rede Globo Lula
+ 
+
+	Normalizado: dilma pt stf snowden nsa rede globo lula  
+
+	Caracteristicas - ['stf', 'snowden', 'nsa', u'red', u'glob'] 
+[91m
+	stf: Termo Desconhecido[0m
+[91m
+	snowden: Termo Desconhecido[0m
+[91m
+	nsa: Termo Desconhecido[0m
+[91m
+	red: Termo Desconhecido[0m
+[91m
+	glob: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase 78: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 79: RT @Ezequiasns: O PT de Lula e Dilma matando os nordestinos de sede, e esculhambando com o nosso país! http://t.co/RKR6Od06h2  http://t.co/…
+ 
+
+	Normalizado: rt at_user o pt de lula e dilma matando os nordestinos de sede, e esculhambando com o nosso pais. url url  
+
+	Caracteristicas - [u'mat', u'nordestin', u'esculhamb'] 
+[91m
+	mat: Termo Desconhecido[0m
+[91m
+	nordestin: Termo Desconhecido[0m
+[91m
+	esculhamb: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase 80: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 81: Dilma Rousseff CFK: "Estoy feliz por saber que Cristina regresará pronto a trabajar.
+ 
+
+	Normalizado: dilma rousseff cfk: "estoy feliz por saber que cristina regresara pronto a trabajar.  
+
+	Caracteristicas - ['cfk', 'feliz', u'sab', u'cristin', u'regres', u'pront', u'trabaj'] 
+[91m
+	cfk: Termo Desconhecido[0m
+[91m
+	feliz: Termo Desconhecido[0m
+[91m
+	sab: Termo Desconhecido[0m
+[91m
+	cristin: Termo Desconhecido[0m
+[91m
+	regres: Termo Desconhecido[0m
+[91m
+	pront: Termo Desconhecido[0m
+[91m
+	trabaj: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase 82: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 83: @dilmabr @CFKArgentina  Dilma vende las entradas para el mundial y menos saludos
+ 
+
+	Normalizado: at_user at_user dilma vende las entradas para el mundial y menos saludos  
+
+	Caracteristicas - [u'vend', u'la', u'entr', 'el', u'mund', 'y', u'salud'] 
+[92m
+	vend: negativo [0m
+[91m
+	la: Termo Desconhecido[0m
+[91m
+	entr: Termo Desconhecido[0m
+[91m
+	el: Termo Desconhecido[0m
+[91m
+	mund: Termo Desconhecido[0m
+[91m
+	y: Termo Desconhecido[0m
+[91m
+	salud: Termo Desconhecido[0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase 84: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 85: RT @sammn: prefiro ter um filho PMDB que um filho dilma bolada
+ 
+
+	Normalizado: rt at_user prefiro ter um filho pmdb que um filho dilma bolada  
+
+	Caracteristicas - [u'prefir', 'pmdb', u'bol'] 
+[91m
+	prefir: Termo Desconhecido[0m
+[91m
+	pmdb: Termo Desconhecido[0m
+[91m
+	bol: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase 86: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 87: RT @Ezequiasns: O PT de Lula e Dilma matando os nordestinos de sede, e esculhambando com o nosso país! http://t.co/RKR6Od06h2  http://t.co/…
+ 
+
+	Normalizado: rt at_user o pt de lula e dilma matando os nordestinos de sede, e esculhambando com o nosso pais. url url  
+
+	Caracteristicas - [u'mat', u'nordestin', u'esculhamb'] 
+[91m
+	mat: Termo Desconhecido[0m
+[91m
+	nordestin: Termo Desconhecido[0m
+[91m
+	esculhamb: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase 88: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 89: Doc Wikileaks: Ag Stratfor Analisa a Parcialidade da Revista VEJA
+ 
+
+	Normalizado: doc wikileaks: ag stratfor analisa a parcialidade da revista veja  
+
+	Caracteristicas - ['doc', u'wikileak', 'ag', u'stratf', u'analis', u'parcial', u'revist', u'vej'] 
+[91m
+	doc: Termo Desconhecido[0m
+[91m
+	wikileak: Termo Desconhecido[0m
+[91m
+	ag: Termo Desconhecido[0m
+[91m
+	stratf: Termo Desconhecido[0m
+[91m
+	analis: Termo Desconhecido[0m
+[91m
+	parcial: Termo Desconhecido[0m
+[91m
+	revist: Termo Desconhecido[0m
+[91m
+	vej: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase 90: PRÓ PSDB 
+ 
+
+	Normalizado: pro psdb  
+
+	Caracteristicas - ['pro', 'psdb'] 
+[91m
+	pro: Termo Desconhecido[0m
+[91m
+	psdb: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase 91: http://t.co/XuwjtLH0f8
+ 
+
+	Normalizado: url  
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 92: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 93: Dilma  STF Snowden NSA Rede Globo Lula
+ 
+
+	Normalizado: dilma stf snowden nsa rede globo lula  
+
+	Caracteristicas - ['stf', 'snowden', 'nsa', u'red', u'glob'] 
+[91m
+	stf: Termo Desconhecido[0m
+[91m
+	snowden: Termo Desconhecido[0m
+[91m
+	nsa: Termo Desconhecido[0m
+[91m
+	red: Termo Desconhecido[0m
+[91m
+	glob: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase 94: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 95: Só eu que li com a voz bizarra da presidenta Dilma? http://t.co/xN7oBsaWkL ( @SOS_ANIMAIS_RJ )
+ 
+
+	Normalizado: so eu que li com a voz bizarra da presidenta dilma? url ( at_user )  
+
+	Caracteristicas - ['so', 'li', 'voz', u'biz', u'president'] 
+[94m
+	so: positivo [0m
+[91m
+	li: Termo Desconhecido[0m
+[91m
+	voz: Termo Desconhecido[0m
+[91m
+	biz: Termo Desconhecido[0m
+[94m
+	president: positivo [0m
+
+	Sentimento Provavel: positivo 
+
+
+	Frase 96: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 97: RT @Assinho_Ali: Eu tava lembrando  do dia em que eu e bruna mando a dilma da os parabéns a mateus , Nossa dilma o meu a Sábado ok , kkkk
+ 
+
+	Normalizado: rt at_user eu tava lembrando do dia em que eu e bruna mando a dilma da os parabens a mateus , nossa dilma o meu a sabado ok , kkkk  
+
+	Caracteristicas - [u'tav', u'lembr', u'brun', u'mand', u'parab', u'mat', 'ok', 'kk'] 
+[91m
+	tav: Termo Desconhecido[0m
+[91m
+	lembr: Termo Desconhecido[0m
+[91m
+	brun: Termo Desconhecido[0m
+[91m
+	mand: Termo Desconhecido[0m
+[94m
+	parab: positivo [0m
+[91m
+	mat: Termo Desconhecido[0m
+[91m
+	ok: Termo Desconhecido[0m
+[91m
+	kk: Termo Desconhecido[0m
+
+	Sentimento Provavel: positivo 
+
+
+	Frase 98: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 99: RT @jimeeeeeeeeK: Dilma Rousseff CFK: "Estoy feliz por saber que Cristina regresará pronto a trabajar.
+ 
+
+	Normalizado: rt at_user dilma rousseff cfk: "estoy feliz por saber que cristina regresara pronto a trabajar.  
+
+	Caracteristicas - ['cfk', 'feliz', u'sab', u'cristin', u'regres', u'pront', u'trabaj'] 
+[91m
+	cfk: Termo Desconhecido[0m
+[91m
+	feliz: Termo Desconhecido[0m
+[91m
+	sab: Termo Desconhecido[0m
+[91m
+	cristin: Termo Desconhecido[0m
+[91m
+	regres: Termo Desconhecido[0m
+[91m
+	pront: Termo Desconhecido[0m
+[91m
+	trabaj: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase 100: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 101: Gostei de um vídeo @YouTube de @blogduka7 http://t.co/l2biHCLKr0 PRONUNCIAMENTO OFICIAL - DILMA ROUSSEFF SOBRE JUSTIN BIEBER
+ 
+
+	Normalizado: gostei de um video at_user de at_user url pronunciamento oficial - dilma rousseff sobre justin bieber  
+
+	Caracteristicas - [u'gost', u'vide', u'pronunc', u'ofic', 'justin', u'bieb'] 
+[94m
+	gost: positivo [0m
+[91m
+	vide: Termo Desconhecido[0m
+[91m
+	pronunc: Termo Desconhecido[0m
+[91m
+	ofic: Termo Desconhecido[0m
+[91m
+	justin: Termo Desconhecido[0m
+[91m
+	bieb: Termo Desconhecido[0m
+
+	Sentimento Provavel: positivo 
+
+]0;root@Infoway: /media/silvio/Dados/Fatec/6_semestre/TG/versao3root@Infoway:/media/silvio/Dados/Fatec/6_semestre/TG/versao3# exit
+
+Script done on Qui 14 Nov 2013 21:03:07 BRST

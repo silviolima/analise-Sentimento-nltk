@@ -1,0 +1,74 @@
+# -*- coding: utf-8 -*-
+
+import sys
+from gerarLista import gera_lista
+
+from nltk.classify.util import apply_features
+import subprocess
+from getFeaturesVector import *
+import sys
+from normalizar_Colecao import *
+
+
+lista_feature_fell=[]
+featureList=[]
+ 
+#start extract_features
+def extract_features(lista_msg):
+    return  {'contains(%s)'% word: (word in (lista_msg)) for word in featureList} 
+#end
+
+# Gerar lista de caracteristicas de cada colecao: Fatec, Dilma, Copa e Palmeiras
+def gera_lista_features(tema):      
+    #all_features=[]
+    features=[]
+    listaColecao = tema
+    i=1
+    y=0
+    listaMsg=[]
+    listaFell=[]
+    # Chamando gera_lista 
+    lista=gera_lista(listaColecao)
+    #Separa a mensagem e o sentimento
+    for x in lista:
+        if(i%2 == 1):
+            listaMsg.append(x)
+        #    print("Mensagem - %s "%x)
+        else:
+            listaFell.append(x)
+        #    print ("Sentimento - %s "%x)
+        i+=1
+    while ( y < len(listaMsg)):    
+        features = getAllFeatures(listaMsg[y],features) # Todas palavras relevantes/caracteristicas da mensagem
+        featureVector = getFeatureVector(listaMsg[y])
+        lista_feature_fell.append((featureVector,listaFell[y]))
+        y+=1
+    return features 
+
+if __name__ == '__main__':
+    if (len(sys.argv) == 2 and (sys.argv[1] == 'fatec' or sys.argv[1] == 'dilma' or sys.argv[1] == 'copa' or sys.argv[1] == 'palmeiras')):
+        # Limpar a tela
+        subprocess.call("clear")
+        listaColecao = sys.argv[1]
+        print ("\n\t\tAnálise de Sentimento\n\t\tAssunto: %s "%listaColecao.upper())
+        # Gera a lista de caracteristicas usada no metodo extract_features
+        featureList = gera_lista_features(listaColecao)
+        #print ("  \nCaracteristicas:  %s\n "%(featureList))
+        print ("  \nCaracteristicas e Sentimento:  %s "%lista_feature_fell)
+        tema = listaColecao
+        msg='durante a copa vai ter muito assalto no Brasil'
+        print("\nMsg: %s "%msg.capitalize())
+        msg2 = normalizar(msg)
+        print("\nNormalizado: %s "%msg2)
+        lista_msg=getFeatureVector(msg2)
+        print ("\nCaracteristicas - %s "%lista_msg)
+        print ("\nSaida do Extract_features:\n %s "%extract_features(lista_msg))
+
+        training_set = apply_features(extract_features,lista_feature_fell)
+        #print ("\nTraining_set: %s \n"%training_set)
+
+        classifier= nltk.NaiveBayesClassifier.train(training_set)
+
+        print ("\nSentimento: %s \n"%(classifier.classify(extract_features(lista_msg))))
+    else:
+        print ('\nUsage: python trainingSet.py fatec|dilma|copa|palmeiras\n')

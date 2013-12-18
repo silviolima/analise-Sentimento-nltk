@@ -1,0 +1,403 @@
+Script started on Ter 12 Nov 2013 21:20:02 BRST
+]0;root@Infoway: /media/silvio/Dados/Fatec/6_semestre/TG/versao3root@Infoway:/media/silvio/Dados/Fatec/6_semestre/TG/versao3# python salvar_Colecao.py palmeiras[4Pdilma[3Premover.py palmeiras[4Pdilmals -l[Kcd versao3[K[K[K[K[K[K[K[K[K[Kptyh[K[K[Kython tesar[K[KtarTwitter.py dilma
+[H[2J[94m
+		Análise de Sentimento
+		Assunto: DILMA [0m
+
+	Frase 1: RT @deinha_asl: O PT de Lula e Dilma são culpados!  Empresa de Eike recebeu investimento do FI-FGTS http://t.co/qit1Q2uEGA via @folha_com
+ 
+
+	Normalizado: rt at_user o pt de lula e dilma sao culpados. empresa de eike recebeu investimento do fi-fgts url via at_user  
+
+	Caracteristicas - [u'culp', u'eik', u'receb', u'invest'] 
+[92m
+	culp: negativo [0m
+[91m
+	eik: Termo Desconhecido[0m
+[91m
+	receb: Termo Desconhecido[0m
+[94m
+	invest: positivo [0m
+[92m
+	invest: negativo [0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase 2: @Rede45 Rombo no governo da presidente Dilma será de R$ 534 bilhões: http://t.co/W82s0A79IL
+ 
+
+	Normalizado: at_user rombo no governo da presidente dilma sera de r$ 534 bilhoes: url  
+
+	Caracteristicas - [u'romb'] 
+[92m
+	romb: negativo [0m
+[92m
+	romb: negativo [0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase 3: Correio Braziliense: Rombo no governo Dilma será de R$ 534 bilhões http://t.co/NpwuJv0c5Z
+ 
+
+	Normalizado: correio braziliense: rombo no governo dilma sera de r$ 534 bilhoes url  
+
+	Caracteristicas - [u'correi', u'brazili', u'romb'] 
+[91m
+	correi: Termo Desconhecido[0m
+[91m
+	brazili: Termo Desconhecido[0m
+[92m
+	romb: negativo [0m
+[92m
+	romb: negativo [0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase 4: Irresponsabilidade fiscal: Dilma torra sem dó o dinheiro do cidadão, critica @ITVNovaAgenda http://t.co/RfaDeTpVTw
+ 
+
+	Normalizado: irresponsabilidade fiscal: dilma torra sem do o dinheiro do cidadao, critica at_user url  
+
+	Caracteristicas - [u'irrespons', 'fiscal', u'torr', u'crit'] 
+[91m
+	irrespons: Termo Desconhecido[0m
+[91m
+	fiscal: Termo Desconhecido[0m
+[92m
+	torr: negativo [0m
+[91m
+	crit: Termo Desconhecido[0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase 5: Dilma vai lançar um tutorial de como quebrar um país. http://t.co/2nsiyrK9Mf
+ 
+
+	Normalizado: dilma vai lancar um tutorial de como quebrar um pais. url  
+
+	Caracteristicas - [u'lanc', u'tutor', u'quebr'] 
+[91m
+	lanc: Termo Desconhecido[0m
+[91m
+	tutor: Termo Desconhecido[0m
+[91m
+	quebr: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase 6: Avançamos com Dilma Presidente e as mulheres no poder.
+ 
+
+	Normalizado: avancamos com dilma presidente e as mulheres no poder.  
+
+	Caracteristicas - [u'avanc', u'mulh', u'pod'] 
+[94m
+	avanc: positivo [0m
+[92m
+	avanc: negativo [0m
+[94m
+	mulh: positivo [0m
+[94m
+	mulh: positivo [0m
+[94m
+	pod: positivo [0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase 7: RT @coroneldoblog: O começo do fim. Pesquisa mostra que Dilma está em segundo nas pesquisas no ABC Paulista, com rejeiçã... http://t.co/ITA…
+ 
+
+	Normalizado: rt at_user o comeco do fim. pesquisa mostra que dilma esta em segundo nas pesquisas no abc paulista, com rejeica... url  
+
+	Caracteristicas - [u'comec', u'mostr', u'pesquis', 'abc', u'reje'] 
+[91m
+	comec: Termo Desconhecido[0m
+[92m
+	mostr: negativo [0m
+[91m
+	pesquis: Termo Desconhecido[0m
+[91m
+	abc: Termo Desconhecido[0m
+[91m
+	reje: Termo Desconhecido[0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase 8: RT @marisascruz: ESTA É TAL DONA DILMA QUE 39%(?) APROVAM??? !! RT @BobWebBB: Vai vendo: http://t.co/p5CcIXbn2O // #Dilma #Bandida !!
+ 
+
+	Normalizado: rt at_user esta e tal dona dilma que 39%(?) aprovam??? .. rt at_user vai vendo: url // dilma bandida ..  
+
+	Caracteristicas - ['tal', u'don', u'aprov', u'vend', u'band'] 
+[91m
+	tal: Termo Desconhecido[0m
+[91m
+	don: Termo Desconhecido[0m
+[91m
+	aprov: Termo Desconhecido[0m
+[92m
+	vend: negativo [0m
+[92m
+	band: negativo [0m
+[92m
+	band: negativo [0m
+[92m
+	band: negativo [0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase 9: Irresponsabilidade fiscal: Dilma torra sem dó o dinheiro do cidadão, critica ITV http://t.co/PQbqfPOTyu
+ 
+
+	Normalizado: irresponsabilidade fiscal: dilma torra sem do o dinheiro do cidadao, critica itv url  
+
+	Caracteristicas - [u'irrespons', 'fiscal', u'torr', u'crit', 'itv'] 
+[91m
+	irrespons: Termo Desconhecido[0m
+[91m
+	fiscal: Termo Desconhecido[0m
+[92m
+	torr: negativo [0m
+[91m
+	crit: Termo Desconhecido[0m
+[91m
+	itv: Termo Desconhecido[0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase 10: dilma é um perigo real...
+ 
+
+	Normalizado: dilma e um perigo real...  
+
+	Caracteristicas - [u'perig'] 
+[91m
+	perig: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase 11: Bater não vale: Lula e Dilma protegem Kassab da corrupção paulistana http://t.co/t5hYVqQT6Y
+ 
+
+	Normalizado: bater nao vale: lula e dilma protegem kassab da corrupcao paulistana url  
+
+	Caracteristicas - [u'bat', 'nao', u'val', u'proteg', 'kassab', u'corrupca', u'paulist'] 
+[91m
+	bat: Termo Desconhecido[0m
+[92m
+	nao: negativo [0m
+[92m
+	nao: negativo [0m
+[92m
+	nao: negativo [0m
+[92m
+	nao: negativo [0m
+[92m
+	nao: negativo [0m
+[92m
+	nao: negativo [0m
+[92m
+	nao: negativo [0m
+[92m
+	nao: negativo [0m
+[92m
+	nao: negativo [0m
+[92m
+	nao: negativo [0m
+[91m
+	val: Termo Desconhecido[0m
+[91m
+	proteg: Termo Desconhecido[0m
+[91m
+	kassab: Termo Desconhecido[0m
+[92m
+	corrupca: negativo [0m
+[92m
+	corrupca: negativo [0m
+[91m
+	paulist: Termo Desconhecido[0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase 12: Blog do Zé: Dilma: PT governa olhando para os mais fracos e os mais necessitados http://t.co/kM9MwRWVcm http://t.co/bA1OFpJDI7
+ 
+
+	Normalizado: blog do ze: dilma: pt governa olhando para os mais fracos e os mais necessitados url url  
+
+	Caracteristicas - ['ze', u'govern', u'olh', u'frac', u'necessit'] 
+[91m
+	ze: Termo Desconhecido[0m
+[92m
+	govern: negativo [0m
+[92m
+	govern: negativo [0m
+[91m
+	olh: Termo Desconhecido[0m
+[91m
+	frac: Termo Desconhecido[0m
+[91m
+	necessit: Termo Desconhecido[0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase 13: melhor twitter dilma kkkkkkkkkkkk q merda fizerao ali ?
+ 
+
+	Normalizado: melhor twitter dilma kkkkkkkkkkkk q merda fizerao ali ?  
+
+	Caracteristicas - [u'twitt', 'kk', u'merd', u'fizera', 'ali'] 
+[91m
+	twitt: Termo Desconhecido[0m
+[91m
+	kk: Termo Desconhecido[0m
+[92m
+	merd: negativo [0m
+[91m
+	fizera: Termo Desconhecido[0m
+[91m
+	ali: Termo Desconhecido[0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase 14: OLHA O ROMBO QUE A DILMA DEIXOU PARA O BRASILEIRO OTÁRIO PAGAR: 534 BILHÕES!
+ 
+
+	Normalizado: olha o rombo que a dilma deixou para o brasileiro otario pagar: 534 bilhoes.  
+
+	Caracteristicas - [u'olh', u'romb', u'deix', u'otari', u'pag'] 
+[91m
+	olh: Termo Desconhecido[0m
+[92m
+	romb: negativo [0m
+[92m
+	romb: negativo [0m
+[91m
+	deix: Termo Desconhecido[0m
+[91m
+	otari: Termo Desconhecido[0m
+[91m
+	pag: Termo Desconhecido[0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase 15: RT @teresinhalopes: A gerentona deixou &gt;&gt;//Rombo no governo da presidente Dilma será de R$ 534 bilhões - Economia - Correio Braziliense
+ 
+
+	Normalizado: rt at_user a gerentona deixou &gt;&gt;//rombo no governo da presidente dilma sera de r$ 534 bilhoes - economia - correio braziliense  
+
+	Caracteristicas - [u'gerent', u'deix', u'correi', u'brazili'] 
+[91m
+	gerent: Termo Desconhecido[0m
+[91m
+	deix: Termo Desconhecido[0m
+[91m
+	correi: Termo Desconhecido[0m
+[91m
+	brazili: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase 16: O programa mais medico eu posso dizer que foi a melhor ideia do governo Dilma,vamos ver agora se esse medicos brasileiros ficam espertos né.
+ 
+
+	Normalizado: o programa mais medico eu posso dizer que foi a melhor ideia do governo dilma,vamos ver agora se esse medicos brasileiros ficam espertos ne.  
+
+	Caracteristicas - [u'medic', u'poss', u'diz', u'ide', 'ver', u'fic', u'espert', 'ne'] 
+[92m
+	medic: negativo [0m
+[92m
+	medic: negativo [0m
+[92m
+	medic: negativo [0m
+[92m
+	medic: negativo [0m
+[91m
+	poss: Termo Desconhecido[0m
+[91m
+	diz: Termo Desconhecido[0m
+[91m
+	ide: Termo Desconhecido[0m
+[92m
+	ver: negativo [0m
+[92m
+	ver: negativo [0m
+[91m
+	fic: Termo Desconhecido[0m
+[91m
+	espert: Termo Desconhecido[0m
+[91m
+	ne: Termo Desconhecido[0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase 17: Presidente do PT é igual rainha da Inglaterra, não apita em porra nenhuma, só quem manda é o Lula, aliás, esse déspota manda até na Dilma!
+ 
+
+	Normalizado: presidente do pt e igual rainha da inglaterra, nao apita em porra nenhuma, so quem manda e o lula, alias, esse despota manda ate na dilma.  
+
+	Caracteristicas - ['igual', u'rainh', 'nao', u'apit', u'porr', 'so', u'mand', u'despot'] 
+[92m
+	igual: negativo [0m
+[92m
+	igual: negativo [0m
+[91m
+	rainh: Termo Desconhecido[0m
+[92m
+	nao: negativo [0m
+[92m
+	nao: negativo [0m
+[92m
+	nao: negativo [0m
+[92m
+	nao: negativo [0m
+[92m
+	nao: negativo [0m
+[92m
+	nao: negativo [0m
+[92m
+	nao: negativo [0m
+[92m
+	nao: negativo [0m
+[92m
+	nao: negativo [0m
+[92m
+	nao: negativo [0m
+[91m
+	apit: Termo Desconhecido[0m
+[91m
+	porr: Termo Desconhecido[0m
+[92m
+	so: negativo [0m
+[92m
+	so: negativo [0m
+[92m
+	so: negativo [0m
+[92m
+	mand: negativo [0m
+[91m
+	despot: Termo Desconhecido[0m
+
+	Sentimento Provavel: negativo 
+
+]0;root@Infoway: /media/silvio/Dados/Fatec/6_semestre/TG/versao3root@Infoway:/media/silvio/Dados/Fatec/6_semestre/TG/versao3# exit
+
+Script done on Ter 12 Nov 2013 21:20:45 BRST

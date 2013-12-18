@@ -1,0 +1,45 @@
+@Infoway:~/treetagger# echo "ela nao bonita" | cmd/tree-tagger-pt
+	reading parameters ...
+	tagging ...
+ela	P	ela
+nao	NOM	<unknown>
+bonita	ADJ	bonito
+	 finished.
+root@Infoway:~/treetagger# echo "ela não bonita" | cmd/tree-tagger-pt
+	reading parameters ...
+	tagging ...
+ela	P	ela
+não	ADV	não
+bonita	ADJ	bonito
+	 finished.
+root@Infoway:~/treetagger# echo "ela não é bonita" | cmd/tree-tagger-pt
+	reading parameters ...
+	tagging ...
+ela	P	ela
+não	ADV	não
+é	V	ser
+bonita	ADJ	bonito
+	 finished.
+root@Infoway:~/treetagger# echo "ela é bonita" | cmd/tree-tagger-pt
+	reading parameters ...
+	tagging ...
+ela	P	ela
+é	V	ser
+bonita	ADJ	bonito
+	 finished.
+root@Infoway:~/treetagger# echo "ela não bonita" | cmd/tree-tagger-pt
+	reading parameters ...
+	tagging ...
+ela	P	ela
+não	ADV	não
+bonita	ADJ	bonito
+	 finished.
+root@Infoway:~/treetagger# echo "ela super bonita" | cmd/tree-tagger-pt
+	reading parameters ...
+	tagging ...
+ela	P	ela
+super	ADJ	super
+bonita	ADJ	bonito
+	 finished.
+root@Infoway:~/treetagger# 
+

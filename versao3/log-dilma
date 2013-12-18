@@ -1,0 +1,1570 @@
+Script started on Qui 14 Nov 2013 20:53:25 BRST
+]0;root@Infoway: /media/silvio/Dados/Fatec/6_semestre/TG/versao3root@Infoway:/media/silvio/Dados/Fatec/6_semestre/TG/versao3# script log-dilmapython testarTwitter.py dilma[1P[1P[1P[1P[1P[1P[1P
+[H[2J[94m
+		Análise de Sentimento
+		Assunto: DILMA [0m
+
+	Frase 1: Dilma terá de solucionar conflitos indígenas, diz Lula http://t.co/W78HA73b59
+ 
+
+	Normalizado: dilma tera de solucionar conflitos indigenas, diz lula url  
+
+	Caracteristicas - [u'ter', u'soluc', u'conflit'] 
+[91m
+	ter: Termo Desconhecido[0m
+[91m
+	soluc: Termo Desconhecido[0m
+[91m
+	conflit: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase 2: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 3: presidenta dilma diz que governo aposta em logistica para o pais crescer
+ 
+
+	Normalizado: presidenta dilma diz que governo aposta em logistica para o pais crescer  
+
+	Caracteristicas - [u'president', u'apost', u'logis', u'cresc'] 
+[94m
+	president: positivo [0m
+[94m
+	apost: positivo [0m
+[94m
+	logis: positivo [0m
+[94m
+	cresc: positivo [0m
+
+	Sentimento Provavel: positivo 
+
+
+	Frase 4: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 5: Parabéns, Dilma! Assim o Brasil continua crescendo.
+ 
+
+	Normalizado: parabens, dilma. assim o brasil continua crescendo.  
+
+	Caracteristicas - [u'continu', u'cresc'] 
+[94m
+	continu: positivo [0m
+[94m
+	cresc: positivo [0m
+
+	Sentimento Provavel: positivo 
+
+
+	Frase 6: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 7: Parabéns para todos nós brasileiros que acreditamos em um Brasil melhor 
+ 
+
+	Normalizado: parabens para todos nos brasileiros que acreditamos em um brasil melhor  
+
+	Caracteristicas - [u'parab', u'acredit'] 
+[94m
+	parab: positivo [0m
+[94m
+	acredit: positivo [0m
+
+	Sentimento Provavel: positivo 
+
+
+	Frase 8: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 9: Presidenta Dilma diz que governo aposta em logística para o país crescer
+ 
+
+	Normalizado: presidenta dilma diz que governo aposta em logistica para o pais crescer  
+
+	Caracteristicas - [u'president', u'apost', u'logis', u'cresc'] 
+[94m
+	president: positivo [0m
+[94m
+	apost: positivo [0m
+[94m
+	logis: positivo [0m
+[94m
+	cresc: positivo [0m
+
+	Sentimento Provavel: positivo 
+
+
+	Frase 10: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 11: Que maravilha Parabéns, Dilma Assim o Brasil continua crescendo.
+ 
+
+	Normalizado: que maravilha parabens, dilma assim o brasil continua crescendo.  
+
+	Caracteristicas - [u'maravilh', u'continu', u'cresc'] 
+[94m
+	maravilh: positivo [0m
+[94m
+	continu: positivo [0m
+[94m
+	cresc: positivo [0m
+
+	Sentimento Provavel: positivo 
+
+
+	Frase 12: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 13: Remédios grátis ou com desconto beneficiaram 16,4 milhões
+ 
+
+	Normalizado: remedios gratis ou com desconto beneficiaram 16,4 milhoes  
+
+	Caracteristicas - [u'remedi', u'gratil', u'descont', u'benefici'] 
+[94m
+	remedi: positivo [0m
+[94m
+	gratil: positivo [0m
+[94m
+	descont: positivo [0m
+[94m
+	benefici: positivo [0m
+
+	Sentimento Provavel: positivo 
+
+
+	Frase 14: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 15: segunda mulher mais poderosa do mundo.
+ 
+
+	Normalizado: segunda mulher mais poderosa do mundo.  
+
+	Caracteristicas - [u'poder'] 
+[94m
+	poder: positivo [0m
+
+	Sentimento Provavel: positivo 
+
+
+	Frase 16: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 17: independente de ideologia o Governo Dilma é mediocre
+ 
+
+	Normalizado: independente de ideologia o governo dilma e mediocre  
+
+	Caracteristicas - [u'independ', u'ideolog', u'mediocr'] 
+[92m
+	independ: negativo [0m
+[91m
+	ideolog: Termo Desconhecido[0m
+[92m
+	ideolog: negativo [0m
+[91m
+	mediocr: Termo Desconhecido[0m
+[92m
+	mediocr: negativo [0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase 18: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 19: RT @lovemoneyspn: espero que quando a miley vir pro brasil seja mais polemica que a passagem do justin, tomara que ela grafite a testa da d…
+ 
+
+	Normalizado: rt at_user espero que quando a miley vir pro brasil seja mais polemica que a passagem do justin, tomara que ela grafite a testa da d...  
+
+	Caracteristicas - [u'esper', 'miley', 'vir', 'pro', u'polem', u'pass', u'tom', u'grafit', u'test', 'd'] 
+[91m
+	esper: Termo Desconhecido[0m
+[91m
+	miley: Termo Desconhecido[0m
+[94m
+	vir: positivo [0m
+[91m
+	pro: Termo Desconhecido[0m
+[91m
+	polem: Termo Desconhecido[0m
+[92m
+	pass: negativo [0m
+[91m
+	tom: Termo Desconhecido[0m
+[91m
+	grafit: Termo Desconhecido[0m
+[91m
+	test: Termo Desconhecido[0m
+[91m
+	d: Termo Desconhecido[0m
+
+	Sentimento Provavel: positivo 
+
+
+	Frase 20: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 21: DILMA teve o menor crescimento do PIB da historia, só perdendo p/ as presidências Floriano Peixoto (meio a 1 longa guerra civil) e Collor
+ 
+
+	Normalizado: dilma teve o menor crescimento do pib da historia, so perdendo p/ as presidencias floriano peixoto (meio a 1 longa guerra civil) e collor  
+
+	Caracteristicas - [u'men', u'cresc', 'pib', 'so', u'perd', u'presidenc', u'flori', u'peixot', u'long', u'guerr', u'coll'] 
+[91m
+	men: Termo Desconhecido[0m
+[94m
+	cresc: positivo [0m
+[91m
+	pib: Termo Desconhecido[0m
+[94m
+	so: positivo [0m
+[91m
+	perd: Termo Desconhecido[0m
+[94m
+	presidenc: positivo [0m
+[91m
+	flori: Termo Desconhecido[0m
+[91m
+	peixot: Termo Desconhecido[0m
+[91m
+	long: Termo Desconhecido[0m
+[91m
+	guerr: Termo Desconhecido[0m
+[91m
+	coll: Termo Desconhecido[0m
+
+	Sentimento Provavel: positivo 
+
+
+	Frase 22: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 23: RT @Arykara2: Mensalão do Lula/Dilma/PT : 74% dos brasileiros querem prisão imediata de condenados, aponta Datafolha. http://t.co/jgh5hZG0lk
+ 
+
+	Normalizado: rt at_user mensalao do lula/dilma/pt : 74% dos brasileiros querem prisao imediata de condenados, aponta datafolha. url  
+
+	Caracteristicas - [u'mensala', u'quer', u'prisa', u'imediat', u'apont', u'datafolh'] 
+[91m
+	mensala: Termo Desconhecido[0m
+[91m
+	quer: Termo Desconhecido[0m
+[91m
+	prisa: Termo Desconhecido[0m
+[91m
+	imediat: Termo Desconhecido[0m
+[91m
+	apont: Termo Desconhecido[0m
+[91m
+	datafolh: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase 24: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 25: RT @delubiosoares: Para o ódio dos tucanos: PIB do Brasil cresce mais que o dos Estados Unidos e Coréia do Sul #PT #Dilma #Lula #Brasil  ht…
+ 
+
+	Normalizado: rt at_user para o odio dos tucanos: pib do brasil cresce mais que o dos estados unidos e coreia do sul pt dilma lula brasil ht...  
+
+	Caracteristicas - [u'odi', u'tucan', 'pib', u'cresc', u'unid', u'core', 'ht'] 
+[91m
+	odi: Termo Desconhecido[0m
+[91m
+	tucan: Termo Desconhecido[0m
+[91m
+	pib: Termo Desconhecido[0m
+[94m
+	cresc: positivo [0m
+[91m
+	unid: Termo Desconhecido[0m
+[91m
+	core: Termo Desconhecido[0m
+[91m
+	ht: Termo Desconhecido[0m
+
+	Sentimento Provavel: positivo 
+
+
+	Frase 26: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 27: @so_rfs aproveita antes que a Dilma consiga censurar a Internet.  Depois só vai ter video de feminazi petralha militonta cabeluda na web...
+ 
+
+	Normalizado: at_user aproveita antes que a dilma consiga censurar a internet. depois so vai ter video de feminazi petralha militonta cabeluda na web...  
+
+	Caracteristicas - [u'aproveit', u'consig', u'censur', 'internet', 'so', u'vide', u'feminaz', u'petralh', u'militont', u'cabelud', 'web'] 
+[91m
+	aproveit: Termo Desconhecido[0m
+[91m
+	consig: Termo Desconhecido[0m
+[91m
+	censur: Termo Desconhecido[0m
+[91m
+	internet: Termo Desconhecido[0m
+[94m
+	so: positivo [0m
+[91m
+	vide: Termo Desconhecido[0m
+[91m
+	feminaz: Termo Desconhecido[0m
+[91m
+	petralh: Termo Desconhecido[0m
+[91m
+	militont: Termo Desconhecido[0m
+[91m
+	cabelud: Termo Desconhecido[0m
+[91m
+	web: Termo Desconhecido[0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase 28: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 29: RT @lovemoneyspn: espero que quando a miley vir pro brasil seja mais polemica que a passagem do justin, tomara que ela grafite a testa da d…
+ 
+
+	Normalizado: rt at_user espero que quando a miley vir pro brasil seja mais polemica que a passagem do justin, tomara que ela grafite a testa da d...  
+
+	Caracteristicas - [u'esper', 'miley', 'vir', 'pro', u'polem', u'pass', u'tom', u'grafit', u'test', 'd'] 
+[91m
+	esper: Termo Desconhecido[0m
+[91m
+	miley: Termo Desconhecido[0m
+[94m
+	vir: positivo [0m
+[91m
+	pro: Termo Desconhecido[0m
+[91m
+	polem: Termo Desconhecido[0m
+[92m
+	pass: negativo [0m
+[91m
+	tom: Termo Desconhecido[0m
+[91m
+	grafit: Termo Desconhecido[0m
+[91m
+	test: Termo Desconhecido[0m
+[91m
+	d: Termo Desconhecido[0m
+
+	Sentimento Provavel: positivo 
+
+
+	Frase 30: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 31: RT @skullmann: @so_rfs aproveita antes que a Dilma consiga censurar a Internet.  Depois só vai ter video de feminazi petralha militonta cab…
+ 
+
+	Normalizado: rt at_user at_user aproveita antes que a dilma consiga censurar a internet. depois so vai ter video de feminazi petralha militonta cab...  
+
+	Caracteristicas - [u'aproveit', u'consig', u'censur', 'internet', 'so', u'vide', u'feminaz', u'petralh', u'militont', 'cab'] 
+[91m
+	aproveit: Termo Desconhecido[0m
+[91m
+	consig: Termo Desconhecido[0m
+[91m
+	censur: Termo Desconhecido[0m
+[91m
+	internet: Termo Desconhecido[0m
+[94m
+	so: positivo [0m
+[91m
+	vide: Termo Desconhecido[0m
+[91m
+	feminaz: Termo Desconhecido[0m
+[91m
+	petralh: Termo Desconhecido[0m
+[91m
+	militont: Termo Desconhecido[0m
+[91m
+	cab: Termo Desconhecido[0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase 32: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 33: RT @JornalOGlobo: Dilma usa Twitter para elogiar papel dos aliados. http://t.co/Ev4H1ns69M
+ 
+
+	Normalizado: rt at_user dilma usa twitter para elogiar papel dos aliados. url  
+
+	Caracteristicas - ['usa', u'twitt', u'elogi', 'papel', u'ali'] 
+[91m
+	usa: Termo Desconhecido[0m
+[91m
+	twitt: Termo Desconhecido[0m
+[91m
+	elogi: Termo Desconhecido[0m
+[91m
+	papel: Termo Desconhecido[0m
+[91m
+	ali: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase 34: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 35: Em setembro, a presidenta Dilma Rousseff discursou na Assembleia Geral da ONU, em Nova York, e criticou as ações... http://t.co/wJkcFRrngw
+ 
+
+	Normalizado: em setembro, a presidenta dilma rousseff discursou na assembleia geral da onu, em nova york, e criticou as acoes... url  
+
+	Caracteristicas - [u'president', u'discurs', u'assemble', 'geral', u'critic', u'aco'] 
+[94m
+	president: positivo [0m
+[91m
+	discurs: Termo Desconhecido[0m
+[91m
+	assemble: Termo Desconhecido[0m
+[91m
+	geral: Termo Desconhecido[0m
+[92m
+	critic: negativo [0m
+[91m
+	aco: Termo Desconhecido[0m
+
+	Sentimento Provavel: positivo 
+
+
+	Frase 36: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 37: RT @lovemoneyspn: espero que quando a miley vir pro brasil seja mais polemica que a passagem do justin, tomara que ela grafite a testa da d…
+ 
+
+	Normalizado: rt at_user espero que quando a miley vir pro brasil seja mais polemica que a passagem do justin, tomara que ela grafite a testa da d...  
+
+	Caracteristicas - [u'esper', 'miley', 'vir', 'pro', u'polem', u'pass', u'tom', u'grafit', u'test', 'd'] 
+[91m
+	esper: Termo Desconhecido[0m
+[91m
+	miley: Termo Desconhecido[0m
+[94m
+	vir: positivo [0m
+[91m
+	pro: Termo Desconhecido[0m
+[91m
+	polem: Termo Desconhecido[0m
+[92m
+	pass: negativo [0m
+[91m
+	tom: Termo Desconhecido[0m
+[91m
+	grafit: Termo Desconhecido[0m
+[91m
+	test: Termo Desconhecido[0m
+[91m
+	d: Termo Desconhecido[0m
+
+	Sentimento Provavel: positivo 
+
+
+	Frase 38: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 39: La Mañana Córdoba - Dilma expresó su felicidad por la recuperación de Cristina Fernández http://t.co/kTJUfH2FhX
+ 
+
+	Normalizado: la manana cordoba - dilma expreso su felicidad por la recuperacion de cristina fernandez url  
+
+	Caracteristicas - [u'manan', u'cordob', u'expres', 'su', 'felicidad', 'recuperacion', u'cristin', u'fernand'] 
+[91m
+	manan: Termo Desconhecido[0m
+[91m
+	cordob: Termo Desconhecido[0m
+[91m
+	expres: Termo Desconhecido[0m
+[94m
+	su: positivo [0m
+[91m
+	felicidad: Termo Desconhecido[0m
+[91m
+	recuperacion: Termo Desconhecido[0m
+[91m
+	cristin: Termo Desconhecido[0m
+[91m
+	fernand: Termo Desconhecido[0m
+
+	Sentimento Provavel: positivo 
+
+
+	Frase 40: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 41: RT @teresinhalopes: Esse gov Dilma é muito TRAÍRA! Mandou esvaziar o plenário do SENADO para que a  saúde fosse vilipendiada com o ACEITE d…
+ 
+
+	Normalizado: rt at_user esse gov dilma e muito traira. mandou esvaziar o plenario do senado para que a saude fosse vilipendiada com o aceite d...  
+
+	Caracteristicas - ['gov', u'tra', u'mand', u'esvazi', u'plenari', u'sen', u'vilipendi', u'aceit', 'd'] 
+[91m
+	gov: Termo Desconhecido[0m
+[91m
+	tra: Termo Desconhecido[0m
+[91m
+	mand: Termo Desconhecido[0m
+[91m
+	esvazi: Termo Desconhecido[0m
+[91m
+	plenari: Termo Desconhecido[0m
+[91m
+	sen: Termo Desconhecido[0m
+[91m
+	vilipendi: Termo Desconhecido[0m
+[91m
+	aceit: Termo Desconhecido[0m
+[91m
+	d: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase 42: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 43: RT @Arykara2: Mensalão do Lula/Dilma/PT : 74% dos brasileiros querem prisão imediata de condenados, aponta Datafolha. http://t.co/jgh5hZG0lk
+ 
+
+	Normalizado: rt at_user mensalao do lula/dilma/pt : 74% dos brasileiros querem prisao imediata de condenados, aponta datafolha. url  
+
+	Caracteristicas - [u'mensala', u'quer', u'prisa', u'imediat', u'apont', u'datafolh'] 
+[91m
+	mensala: Termo Desconhecido[0m
+[91m
+	quer: Termo Desconhecido[0m
+[91m
+	prisa: Termo Desconhecido[0m
+[91m
+	imediat: Termo Desconhecido[0m
+[91m
+	apont: Termo Desconhecido[0m
+[91m
+	datafolh: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase 44: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 45: RT @aloiziofilho: @VEJA OAB critica posição do AGU - Adams - e do Governo Dilma sobre honorários da advocacia pública http://t.co/l7sMVKdJyo
+ 
+
+	Normalizado: rt at_user at_user oab critica posicao do agu - adams - e do governo dilma sobre honorarios da advocacia publica url  
+
+	Caracteristicas - ['oab', u'crit', u'posica', 'agu', u'ad', u'honorari', u'advocac', u'publ'] 
+[91m
+	oab: Termo Desconhecido[0m
+[91m
+	crit: Termo Desconhecido[0m
+[91m
+	posica: Termo Desconhecido[0m
+[91m
+	agu: Termo Desconhecido[0m
+[91m
+	ad: Termo Desconhecido[0m
+[91m
+	honorari: Termo Desconhecido[0m
+[91m
+	advocac: Termo Desconhecido[0m
+[92m
+	publ: negativo [0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase 46: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 47: "Cinismo e mentira viraram métodos de governo ou de defesa do governo."(Serge Goulart) http://t.co/hGeCM7xbZl via @SergeGoulart
+ 
+
+	Normalizado: cinismo e mentira viraram metodos de governo ou de defesa do governo."(serge goulart) url via at_user  
+
+	Caracteristicas - [u'cinism', u'ment', u'vir', u'metod', u'def\xeas'] 
+[91m
+	cinism: Termo Desconhecido[0m
+[92m
+	ment: negativo [0m
+[94m
+	vir: positivo [0m
+[91m
+	metod: Termo Desconhecido[0m
+[91m
+	defês: Termo Desconhecido[0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase 48: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 49: RT @patronopotter: A Dilma travecuda tirou as férias ai Dilma isso é falta de mulher bisha noujenta
+ 
+
+	Normalizado: rt at_user a dilma travecuda tirou as ferias ai dilma isso e falta de mulher bisha noujenta  
+
+	Caracteristicas - [u'travecud', u'tir', u'fer', 'ai', u'bish', u'noujent'] 
+[91m
+	travecud: Termo Desconhecido[0m
+[91m
+	tir: Termo Desconhecido[0m
+[91m
+	fer: Termo Desconhecido[0m
+[91m
+	ai: Termo Desconhecido[0m
+[91m
+	bish: Termo Desconhecido[0m
+[91m
+	noujent: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase 50: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 51: RT @zgraca: Dilma poderia fazer o programa Meu PLAY MINHA VIDA, no Bolsa PS4
+ 
+
+	Normalizado: rt at_user dilma poderia fazer o programa meu play minha vida, no bolsa ps4  
+
+	Caracteristicas - [u'pod', 'play', u'bols', 'ps4'] 
+[94m
+	pod: positivo [0m
+[91m
+	play: Termo Desconhecido[0m
+[91m
+	bols: Termo Desconhecido[0m
+[91m
+	ps4: Termo Desconhecido[0m
+
+	Sentimento Provavel: positivo 
+
+
+	Frase 52: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 53: SEGUNDO DIVERSOS ECONOMISTAS INDICES ECONOMICOS DO GOVERNO DILMA ESTAO TODOS MAQUIADOS VISANDO ELEIÇOES
+ 
+
+	Normalizado: segundo diversos economistas indices economicos do governo dilma estao todos maquiados visando eleicoes  
+
+	Caracteristicas - [u'divers', u'econom', u'indic', u'maqui', u'vis', u'eleico'] 
+[91m
+	divers: Termo Desconhecido[0m
+[92m
+	econom: negativo [0m
+[91m
+	indic: Termo Desconhecido[0m
+[91m
+	maqui: Termo Desconhecido[0m
+[91m
+	vis: Termo Desconhecido[0m
+[91m
+	eleico: Termo Desconhecido[0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase 54: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 55: RT @lovemoneyspn: espero que quando a miley vir pro brasil seja mais polemica que a passagem do justin, tomara que ela grafite a testa da d…
+ 
+
+	Normalizado: rt at_user espero que quando a miley vir pro brasil seja mais polemica que a passagem do justin, tomara que ela grafite a testa da d...  
+
+	Caracteristicas - [u'esper', 'miley', 'vir', 'pro', u'polem', u'pass', u'tom', u'grafit', u'test', 'd'] 
+[91m
+	esper: Termo Desconhecido[0m
+[91m
+	miley: Termo Desconhecido[0m
+[94m
+	vir: positivo [0m
+[91m
+	pro: Termo Desconhecido[0m
+[91m
+	polem: Termo Desconhecido[0m
+[92m
+	pass: negativo [0m
+[91m
+	tom: Termo Desconhecido[0m
+[91m
+	grafit: Termo Desconhecido[0m
+[91m
+	test: Termo Desconhecido[0m
+[91m
+	d: Termo Desconhecido[0m
+
+	Sentimento Provavel: positivo 
+
+
+	Frase 56: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 57: Lidere uma greve dos cubanos para a Dilma parar de mandar teu/nosso dinheiro para o teu ditador Fidel. @luiznetto777 @bmotahc @requiaopmdb
+ 
+
+	Normalizado: lidere uma greve dos cubanos para a dilma parar de mandar teu/nosso dinheiro para o teu ditador fidel. at_user at_user at_user  
+
+	Caracteristicas - [u'lid', u'grev', u'cuban', u'par', u'mand', u'dit', 'fidel'] 
+[91m
+	lid: Termo Desconhecido[0m
+[91m
+	grev: Termo Desconhecido[0m
+[91m
+	cuban: Termo Desconhecido[0m
+[92m
+	par: negativo [0m
+[91m
+	mand: Termo Desconhecido[0m
+[91m
+	dit: Termo Desconhecido[0m
+[91m
+	fidel: Termo Desconhecido[0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase 58: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 59: RT @Leeh_ramos5: @flyerparasempre´´#BrasilOndeGrafiteÉCrimeECorrupçãoÉArte´' quero que isso chegue na Dilma !!
+ 
+
+	Normalizado: rt at_user at_user brasilondegrafiteecrimeecorrupcaoearte ' quero que isso chegue na dilma ..  
+
+	Caracteristicas - [u'brasilondegrafiteecrimeecorrupcaoeart', u'quer', u'cheg'] 
+[91m
+	brasilondegrafiteecrimeecorrupcaoeart: Termo Desconhecido[0m
+[91m
+	quer: Termo Desconhecido[0m
+[92m
+	cheg: negativo [0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase 60: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 61: RT @lovemoneyspn: espero que quando a miley vir pro brasil seja mais polemica que a passagem do justin, tomara que ela grafite a testa da d…
+ 
+
+	Normalizado: rt at_user espero que quando a miley vir pro brasil seja mais polemica que a passagem do justin, tomara que ela grafite a testa da d...  
+
+	Caracteristicas - [u'esper', 'miley', 'vir', 'pro', u'polem', u'pass', u'tom', u'grafit', u'test', 'd'] 
+[91m
+	esper: Termo Desconhecido[0m
+[91m
+	miley: Termo Desconhecido[0m
+[94m
+	vir: positivo [0m
+[91m
+	pro: Termo Desconhecido[0m
+[91m
+	polem: Termo Desconhecido[0m
+[92m
+	pass: negativo [0m
+[91m
+	tom: Termo Desconhecido[0m
+[91m
+	grafit: Termo Desconhecido[0m
+[91m
+	test: Termo Desconhecido[0m
+[91m
+	d: Termo Desconhecido[0m
+
+	Sentimento Provavel: positivo 
+
+
+	Frase 62: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 63: #T4FQueremosInformaçõesDaTnltEmBrasília olha seus putos vcs pode falar logo o preço, aq e a capital do Brasil vou reclamar com a Dilma
+ 
+
+	Normalizado: t4fqueremosinformacoesdatnltembrasilia olha seus putos vcs pode falar logo o preco, aq e a capital do brasil vou reclamar com a dilma  
+
+	Caracteristicas - [u't4fqueremosinformacoesdatnltembrasil', u'olh', u'put', u'vc', u'fal', u'log', 'aq', u'capit', 'vou', u'reclam'] 
+[91m
+	t4fqueremosinformacoesdatnltembrasil: Termo Desconhecido[0m
+[91m
+	olh: Termo Desconhecido[0m
+[91m
+	put: Termo Desconhecido[0m
+[94m
+	vc: positivo [0m
+[91m
+	fal: Termo Desconhecido[0m
+[91m
+	log: Termo Desconhecido[0m
+[91m
+	aq: Termo Desconhecido[0m
+[94m
+	capit: positivo [0m
+[91m
+	vou: Termo Desconhecido[0m
+[91m
+	reclam: Termo Desconhecido[0m
+
+	Sentimento Provavel: positivo 
+
+
+	Frase 64: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 65: @SandroVaia Mensalão mensalão mensalão Dirceu algemado... agora a Dilma cai!
+ 
+
+	Normalizado: at_user mensalao mensalao mensalao dirceu algemado... agora a dilma cai.  
+
+	Caracteristicas - [u'mensala', u'dirc', u'algem', 'cai'] 
+[91m
+	mensala: Termo Desconhecido[0m
+[91m
+	dirc: Termo Desconhecido[0m
+[91m
+	algem: Termo Desconhecido[0m
+[91m
+	cai: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase 66: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 67: RT @delubiosoares: Para o ódio dos tucanos: PIB do Brasil cresce mais que o dos Estados Unidos e Coréia do Sul #PT #Dilma #Lula #Brasil  ht…
+ 
+
+	Normalizado: rt at_user para o odio dos tucanos: pib do brasil cresce mais que o dos estados unidos e coreia do sul pt dilma lula brasil ht...  
+
+	Caracteristicas - [u'odi', u'tucan', 'pib', u'cresc', u'unid', u'core', 'ht'] 
+[91m
+	odi: Termo Desconhecido[0m
+[91m
+	tucan: Termo Desconhecido[0m
+[91m
+	pib: Termo Desconhecido[0m
+[94m
+	cresc: positivo [0m
+[91m
+	unid: Termo Desconhecido[0m
+[91m
+	core: Termo Desconhecido[0m
+[91m
+	ht: Termo Desconhecido[0m
+
+	Sentimento Provavel: positivo 
+
+
+	Frase 68: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 69: RT @soniabrasilera: Lidere uma greve dos cubanos para a Dilma parar de mandar teu/nosso dinheiro para o teu ditador Fidel. @luiznetto777 @b…
+ 
+
+	Normalizado: rt at_user lidere uma greve dos cubanos para a dilma parar de mandar teu/nosso dinheiro para o teu ditador fidel. at_user at_user  
+
+	Caracteristicas - [u'lid', u'grev', u'cuban', u'par', u'mand', u'dit', 'fidel'] 
+[91m
+	lid: Termo Desconhecido[0m
+[91m
+	grev: Termo Desconhecido[0m
+[91m
+	cuban: Termo Desconhecido[0m
+[92m
+	par: negativo [0m
+[91m
+	mand: Termo Desconhecido[0m
+[91m
+	dit: Termo Desconhecido[0m
+[91m
+	fidel: Termo Desconhecido[0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase 70: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 71: Pré-sal de Dilma, metrô de Alckmin e perimetral de Eduardo Paes - Portogente / http://t.co/pkFCEMAavS #cobertura
+ 
+
+	Normalizado: pre-sal de dilma, metro de alckmin e perimetral de eduardo paes - portogente / url cobertura  
+
+	Caracteristicas - [u'metr', 'alckmin', u'perimetr', u'eduard', u'pae', u'portog', u'cobert'] 
+[91m
+	metr: Termo Desconhecido[0m
+[91m
+	alckmin: Termo Desconhecido[0m
+[91m
+	perimetr: Termo Desconhecido[0m
+[91m
+	eduard: Termo Desconhecido[0m
+[91m
+	pae: Termo Desconhecido[0m
+[91m
+	portog: Termo Desconhecido[0m
+[91m
+	cobert: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase 72: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 73: @sandraffarias Olha, enquanto o Lula estiver na parada estou tranquilo acredite, o cara e foda! E a Dilma e hiper competente e honesta!
+ 
+
+	Normalizado: at_user olha, enquanto o lula estiver na parada estou tranquilo acredite, o cara e foda. e a dilma e hiper competente e honesta.  
+
+	Caracteristicas - [u'par', u'tranquil', u'car', u'fod', u'hip', u'compet', u'honest'] 
+[92m
+	par: negativo [0m
+[91m
+	tranquil: Termo Desconhecido[0m
+[92m
+	car: negativo [0m
+[91m
+	fod: Termo Desconhecido[0m
+[91m
+	hip: Termo Desconhecido[0m
+[91m
+	compet: Termo Desconhecido[0m
+[91m
+	honest: Termo Desconhecido[0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase 74: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 75: @dilmabr Viu Dilma... me falaram que a senhora não quer contratar Agentes comunitários de saúde, e o salário deles é R$950 só ? Que FEIO !!
+ 
+
+	Normalizado: at_user viu dilma... me falaram que a senhora nao quer contratar agentes comunitarios de saude, e o salario deles e r$950 so ? que feio ..  
+
+	Caracteristicas - ['viu', u'fal', u'senh', 'nao', u'contrat', u'agent', u'comunitari', u'salari', 'so', u'fei'] 
+[91m
+	viu: Termo Desconhecido[0m
+[91m
+	fal: Termo Desconhecido[0m
+[91m
+	senh: Termo Desconhecido[0m
+[92m
+	nao: negativo [0m
+[91m
+	contrat: Termo Desconhecido[0m
+[91m
+	agent: Termo Desconhecido[0m
+[91m
+	comunitari: Termo Desconhecido[0m
+[91m
+	salari: Termo Desconhecido[0m
+[94m
+	so: positivo [0m
+[91m
+	fei: Termo Desconhecido[0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase 76: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 77: @elianefs_ @lindakardinaly Alô Dilma?! Favor criar o "Bolsa Livro". Grato! u.u
+ 
+
+	Normalizado: at_user at_user alo dilma?. favor criar o "bolsa livro". grato. u.u  
+
+	Caracteristicas - ['alo', 'favor', u'cri', u'grat', 'uu'] 
+[91m
+	alo: Termo Desconhecido[0m
+[91m
+	favor: Termo Desconhecido[0m
+[91m
+	cri: Termo Desconhecido[0m
+[91m
+	grat: Termo Desconhecido[0m
+[91m
+	uu: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase 78: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 79: RT @dennisd: "Sinal amarelo no Planalto". Empresários estão todos pulando fora do barco da Presidente. → http://t.co/3g4CHrysu7
+ 
+
+	Normalizado: rt at_user "sinal amarelo no planalto". empresarios estao todos pulando fora do barco da presidente. url  
+
+	Caracteristicas - [u'amarel', u'empresari', u'pul', u'barc'] 
+[91m
+	amarel: Termo Desconhecido[0m
+[91m
+	empresari: Termo Desconhecido[0m
+[91m
+	pul: Termo Desconhecido[0m
+[91m
+	barc: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase 80: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 81: Dilma joga damas; Lula, xadrez - LUIZ CARLOS AZEDO http://t.co/DZtsE9J1gD
+ 
+
+	Normalizado: dilma joga damas; lula, xadrez - luiz carlos azedo url  
+
+	Caracteristicas - [u'jog', u'xadr', 'luiz', u'azed'] 
+[91m
+	jog: Termo Desconhecido[0m
+[91m
+	xadr: Termo Desconhecido[0m
+[91m
+	luiz: Termo Desconhecido[0m
+[91m
+	azed: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase 82: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 83: Lembra? "É um crime privatizar a Petrobras e o Pré-Sal" Dilma. http://t.co/4FI02OJvly
+ 
+
+	Normalizado: lembra? "e um crime privatizar a petrobras e o pre-sal" dilma. url  
+
+	Caracteristicas - [u'lembr', u'crim', u'priva', u'petrobr'] 
+[91m
+	lembr: Termo Desconhecido[0m
+[91m
+	crim: Termo Desconhecido[0m
+[91m
+	priva: Termo Desconhecido[0m
+[91m
+	petrobr: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase 84: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 85: RT @Rejan2012: @Ezequiasns @1ten_fabio @g1 isso eu sei há muito tempo, Só para lembrar alguns que insistem em colocar a conta de Lula/Dilma…
+ 
+
+	Normalizado: rt at_user at_user at_user at_user isso eu sei ha muito tempo, so para lembrar alguns que insistem em colocar a conta de lula/dilma...  
+
+	Caracteristicas - ['so', u'lembr', u'insist', u'coloc'] 
+[94m
+	so: positivo [0m
+[91m
+	lembr: Termo Desconhecido[0m
+[91m
+	insist: Termo Desconhecido[0m
+[91m
+	coloc: Termo Desconhecido[0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase 86: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 87: dilma fez um discurso em favor dos mensaleiros...
+ 
+
+	Normalizado: dilma fez um discurso em favor dos mensaleiros...  
+
+	Caracteristicas - [u'discurs', 'favor', u'mensal'] 
+[91m
+	discurs: Termo Desconhecido[0m
+[91m
+	favor: Termo Desconhecido[0m
+[91m
+	mensal: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase 88: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 89: me lembro como se fosse agora...
+ 
+
+	Normalizado: me lembro como se fosse agora...  
+
+	Caracteristicas - [u'lembr'] 
+[91m
+	lembr: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase 90: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 91: corrupta!!!!! http://t.co/zvjXTxuuJQ
+ 
+
+	Normalizado: corrupta..... url  
+
+	Caracteristicas - [u'corrupt'] 
+[91m
+	corrupt: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+
+	Frase 92: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 93: #2DaysForCatchingFireInBrazil
+ 
+
+	Normalizado: 2daysforcatchingfireinbrazil  
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 94: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 95: Eu, vc, Dilma, todos nós no momento http://t.co/HgnSHVkPOz
+ 
+
+	Normalizado: eu, vc, dilma, todos nos no momento url  
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 96: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 97: Dilma nega crise, mas pede para "puxarem freio" nos gastos http://t.co/gL2YcxIcZQ
+ 
+
+	Normalizado: dilma nega crise, mas pede para "puxarem freio" nos gastos url  
+
+	Caracteristicas - [u'neg', u'ped', u'gast'] 
+[91m
+	neg: Termo Desconhecido[0m
+[92m
+	ped: negativo [0m
+[92m
+	gast: negativo [0m
+
+	Sentimento Provavel: negativo 
+
+
+	Frase 98: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 99: RT @lovemoneyspn: espero que quando a miley vir pro brasil seja mais polemica que a passagem do justin, tomara que ela grafite a testa da d…
+ 
+
+	Normalizado: rt at_user espero que quando a miley vir pro brasil seja mais polemica que a passagem do justin, tomara que ela grafite a testa da d...  
+
+	Caracteristicas - [u'esper', 'miley', 'vir', 'pro', u'polem', u'pass', u'tom', u'grafit', u'test', 'd'] 
+[91m
+	esper: Termo Desconhecido[0m
+[91m
+	miley: Termo Desconhecido[0m
+[94m
+	vir: positivo [0m
+[91m
+	pro: Termo Desconhecido[0m
+[91m
+	polem: Termo Desconhecido[0m
+[92m
+	pass: negativo [0m
+[91m
+	tom: Termo Desconhecido[0m
+[91m
+	grafit: Termo Desconhecido[0m
+[91m
+	test: Termo Desconhecido[0m
+[91m
+	d: Termo Desconhecido[0m
+
+	Sentimento Provavel: positivo 
+
+
+	Frase 100: 
+ 
+
+	Normalizado:   
+[91m
+	Nada para Avaliar
+
+[0m
+
+	Frase 101: RT @TV_Publica: Visión 7: Dilma: "Estoy feliz por saber que Cristina regresará pronto a trabajar" #Visión7  http://t.co/uF9sjt8SX6
+ 
+
+	Normalizado: rt at_user vision 7: dilma: "estoy feliz por saber que cristina regresara pronto a trabajar" vision7 url  
+
+	Caracteristicas - ['vision', 'feliz', u'sab', u'cristin', u'regres', u'pront', 'vision7'] 
+[91m
+	vision: Termo Desconhecido[0m
+[91m
+	feliz: Termo Desconhecido[0m
+[91m
+	sab: Termo Desconhecido[0m
+[91m
+	cristin: Termo Desconhecido[0m
+[91m
+	regres: Termo Desconhecido[0m
+[91m
+	pront: Termo Desconhecido[0m
+[91m
+	vision7: Termo Desconhecido[0m
+[91m
+	Avaliação Impossível 
+
+[0m
+]0;root@Infoway: /media/silvio/Dados/Fatec/6_semestre/TG/versao3root@Infoway:/media/silvio/Dados/Fatec/6_semestre/TG/versao3# exit
+
+Script done on Qui 14 Nov 2013 20:53:45 BRST

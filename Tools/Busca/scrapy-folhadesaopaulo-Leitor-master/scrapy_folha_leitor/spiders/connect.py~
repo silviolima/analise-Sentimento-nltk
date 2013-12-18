@@ -1,0 +1,6 @@
+from pymongo import Connection
+
+def conn():
+    connection = Connection()
+    db = connection.leitor_db
+    return db

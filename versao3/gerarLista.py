@@ -1,0 +1,59 @@
+# -*- coding: utf-8 -*-
+from pymongo import Connection
+import sys
+import json
+import nltk
+import re
+from normalizar_Colecao import *
+
+def connect():
+    con = Connection('localhost')
+    return con
+
+def processar(word):
+    msg_fell = re.sub('\\n','',word[1])   # Retira \n da palavra positivo ou negativo \n
+    msg_fell = msg_fell.strip()           # Retira espacos no inicio e no fim
+    return msg_fell
+
+def gera_lista(colecao):
+    #print ("gera_lista: %s "%colecao)
+    db = connect().leitor_db
+    lista=[]   
+    if (colecao == 'dilma'):
+        for w in db.dilma.find():        
+            frase = (w['conteudo'])
+           # print("Frase1: %s "%frase)
+            #Separar frase e sentimento (frase,sentimento)
+            frase2 = frase.split('|')
+            msg_fell = processar(frase2)
+            #Normalizando frase vinda da colecao
+            frase3 = normalizar(frase.encode('utf-8-sig'))
+           # print("Frase3: %s "%frase3)
+            #Inserir na lista frase normalizada e sentimento
+            lista.append(frase3)
+            lista.append(msg_fell)
+    elif (colecao == 'fatec'):
+        for w in db.fatec.find():
+            frase = (w['conteudo'])  
+            frase2 = frase.split('|')
+            msg_fell = processar(frase2)
+            frase3 = normalizar(frase.encode('utf-8-sig'))
+            lista.append(frase3)
+            lista.append(msg_fell)
+    elif (colecao == 'copa'):
+        for w in db.copa.find():
+            frase = (w['conteudo'])  
+            frase2 = frase.split('|')
+            msg_fell = processar(frase2)
+            frase3 = normalizar(frase.encode('utf-8-sig'))
+            lista.append(frase3)
+            lista.append(msg_fell)
+    else:
+        for w in db.palmeiras.find():
+            frase = (w['conteudo'])  
+            frase2 = frase.split('|')
+            msg_fell = processar(frase2)
+            frase3 = normalizar(frase.encode('utf-8-sig'))
+            lista.append(frase3)
+            lista.append(msg_fell)
+    return lista

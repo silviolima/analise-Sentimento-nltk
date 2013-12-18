@@ -1,0 +1,15 @@
+from pymongo import Connection
+
+def main():
+    con = Connection('localhost')
+    db = con.leitor_db
+    print '############################################'
+    print 'Colecoes existentes'
+    print '-> %s '%db.collection_names()
+    lista = db.collection_names()
+    print 'Quantidade de mensagens em cada colecao'
+    print ''
+    print db.lista[0].count()
+
+if __name__ == '__main__':
+    main()
